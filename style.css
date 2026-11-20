@@ -1,0 +1,112 @@
+/* Business Agent IA — feuille de style du site. Aucune police ni ressource externe. */
+:root {
+  --ink: #1d2433;
+  --muted: #5b6475;
+  --accent: #0f7a5a;
+  --accent-soft: #e7f4ef;
+  --line: #e3e6eb;
+  --bg: #ffffff;
+  --max: 46rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+a {
+  color: var(--accent);
+}
+
+header.site,
+footer.site {
+  border-bottom: 1px solid var(--line);
+}
+
+footer.site {
+  border-top: 1px solid var(--line);
+  border-bottom: none;
+  margin-top: 4rem;
+  color: var(--muted);
+  font-size: 0.9375rem;
+}
+
+.wrap {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 1.25rem 1.25rem;
+}
+
+.brand {
+  font-weight: 700;
+  font-size: 1.125rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+nav.site a {
+  margin-right: 1rem;
+  white-space: nowrap;
+}
+
+main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.25;
+  margin: 2.5rem 0 1rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin: 2.25rem 0 0.5rem;
+}
+
+.lead {
+  font-size: 1.2rem;
+  color: var(--muted);
+}
+
+.note {
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+  padding: 0.85rem 1rem;
+  border-radius: 0.25rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.75rem 0;
+  font-size: 0.975rem;
+}
+
+th,
+td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.5rem 0.6rem;
+  border-bottom: 1px solid var(--line);
+}
+
+th {
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.updated {
+  color: var(--muted);
+  font-size: 0.9375rem;
+}
