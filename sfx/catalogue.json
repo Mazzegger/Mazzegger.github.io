@@ -1,0 +1,2387 @@
+{
+ "version": 1,
+ "format": "WAV PCM 16 bits, 48 kHz, stéréo, crête normalisée à −1 dBFS",
+ "total": 133,
+ "categories": {
+  "whoosh": {
+   "label": "Whoosh / swish",
+   "usage": "Mouvements, glissements, entrées et sorties d’éléments, transitions rapides.",
+   "count": 36
+  },
+  "transition": {
+   "label": "Transitions",
+   "usage": "Transitions longues et spectaculaires (montée + impact, ralenti, tourbillon).",
+   "count": 7
+  },
+  "riser": {
+   "label": "Risers / montées",
+   "usage": "Montées de tension avant une révélation, un impact ou une coupe.",
+   "count": 7
+  },
+  "impact": {
+   "label": "Impacts / booms",
+   "usage": "Chocs, booms, drops : titres, révélations, temps forts.",
+   "count": 12
+  },
+  "ui": {
+   "label": "Interface (UI)",
+   "usage": "Clics, boutons, pops, bips : interfaces, curseurs, apparitions d’éléments.",
+   "count": 22
+  },
+  "notification": {
+   "label": "Notifications / dings",
+   "usage": "Dings, carillons, succès, caisse enregistreuse : validation, prix, récompense.",
+   "count": 11
+  },
+  "glitch": {
+   "label": "Glitch / sci-fi",
+   "usage": "Glitchs, zaps, statique, erreurs : style tech, erreurs, transitions numériques.",
+   "count": 16
+  },
+  "foley": {
+   "label": "Foley / objets",
+   "usage": "Sons d’objets réels : papier, chaîne, clavier, engrenages, feutre, obturateur.",
+   "count": 17
+  },
+  "cartoon": {
+   "label": "Cartoon / fun",
+   "usage": "Rebonds, boings, bloops, scintillements : ton léger et ludique.",
+   "count": 5
+  }
+ },
+ "sounds": [
+  {
+   "id": "whoosh_air_1",
+   "file": "whoosh/whoosh_air_1.wav",
+   "category": "whoosh",
+   "description": "Whoosh d’air avec un ton léger.",
+   "duration_s": 1.12,
+   "original_clip_name": "Who...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 0.054,
+    "end_s": 1.174,
+    "ref": "v06_01_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_air_2",
+   "file": "whoosh/whoosh_air_2.wav",
+   "category": "whoosh",
+   "description": "Whoosh d’air ample.",
+   "duration_s": 1.103,
+   "original_clip_name": "Who...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 1.204,
+    "end_s": 2.307,
+    "ref": "v06_02_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_air_3",
+   "file": "whoosh/whoosh_air_3.wav",
+   "category": "whoosh",
+   "description": "Whoosh à attaque franche.",
+   "duration_s": 1.135,
+   "original_clip_name": "Whoo...",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 2.307,
+    "end_s": 3.442,
+    "ref": "v06_03_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_air_4",
+   "file": "whoosh/whoosh_air_4.wav",
+   "category": "whoosh",
+   "description": "Whoosh qui gonfle puis retombe.",
+   "duration_s": 1.342,
+   "original_clip_name": "Whoosh...",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 3.442,
+    "end_s": 4.784,
+    "ref": "v06_04_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_air_5",
+   "file": "whoosh/whoosh_air_5.wav",
+   "category": "whoosh",
+   "description": "Whoosh puissant et court.",
+   "duration_s": 0.964,
+   "original_clip_name": "W...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 4.816,
+    "end_s": 5.78,
+    "ref": "v06_05_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_air_6",
+   "file": "whoosh/whoosh_air_6.wav",
+   "category": "whoosh",
+   "description": "Whoosh long (2 s).",
+   "duration_s": 1.993,
+   "original_clip_name": "whoosh.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 5.78,
+    "end_s": 7.773,
+    "ref": "v06_06_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_air_7",
+   "file": "whoosh/whoosh_air_7.wav",
+   "category": "whoosh",
+   "description": "Whoosh doux et large.",
+   "duration_s": 1.455,
+   "original_clip_name": "Woosh 02...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 7.773,
+    "end_s": 9.228,
+    "ref": "v06_07_woosh02"
+   }
+  },
+  {
+   "id": "whoosh_air_8",
+   "file": "whoosh/whoosh_air_8.wav",
+   "category": "whoosh",
+   "description": "Whoosh d’air.",
+   "duration_s": 1.255,
+   "original_clip_name": "SSce Woo...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 14",
+    "upload_id": "ff017769",
+    "start_s": 6.795,
+    "end_s": 8.05,
+    "ref": "v14_05_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_burst",
+   "file": "whoosh/whoosh_burst.wav",
+   "category": "whoosh",
+   "description": "Bouffée de bruit brève.",
+   "duration_s": 0.458,
+   "original_clip_name": "Tren...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 5.972,
+    "end_s": 6.43,
+    "ref": "v04_08_trending"
+   }
+  },
+  {
+   "id": "whoosh_chirp",
+   "file": "whoosh/whoosh_chirp.wav",
+   "category": "whoosh",
+   "description": "Swoosh avec gazouillis descendant aigu.",
+   "duration_s": 0.737,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 5.733,
+    "end_s": 6.47,
+    "ref": "v08_06"
+   }
+  },
+  {
+   "id": "whoosh_chirp_up",
+   "file": "whoosh/whoosh_chirp_up.wav",
+   "category": "whoosh",
+   "description": "Swoosh en glissando montant (0,4 s).",
+   "duration_s": 0.442,
+   "original_clip_name": "Filler Sw...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 5.056,
+    "end_s": 5.498,
+    "ref": "v13_08_filler_swoosh"
+   }
+  },
+  {
+   "id": "whoosh_double_swish",
+   "file": "whoosh/whoosh_double_swish.wav",
+   "category": "whoosh",
+   "description": "Double swish (aller-retour).",
+   "duration_s": 0.794,
+   "original_clip_name": "Trendi...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 13.95,
+    "end_s": 14.744,
+    "ref": "v02_09_trendi"
+   }
+  },
+  {
+   "id": "whoosh_epic_fast",
+   "file": "whoosh/whoosh_epic_fast.wav",
+   "category": "whoosh",
+   "description": "Whoosh rapide et percutant.",
+   "duration_s": 0.479,
+   "original_clip_name": "epic-fast-...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 0.549,
+    "end_s": 1.028,
+    "ref": "v13_02_epic_fast"
+   }
+  },
+  {
+   "id": "whoosh_fire_burst",
+   "file": "whoosh/whoosh_fire_burst.wav",
+   "category": "whoosh",
+   "description": "Souffle de flamme / embrasement.",
+   "duration_s": 1.409,
+   "original_clip_name": "fire-sfx...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 3.714,
+    "end_s": 5.123,
+    "ref": "v02_04_fire"
+   }
+  },
+  {
+   "id": "whoosh_heavy",
+   "file": "whoosh/whoosh_heavy.wav",
+   "category": "whoosh",
+   "description": "Whoosh lourd.",
+   "duration_s": 1.106,
+   "original_clip_name": "Sudo...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 14",
+    "upload_id": "ff017769",
+    "start_s": 5.689,
+    "end_s": 6.795,
+    "ref": "v14_04_sudo"
+   }
+  },
+  {
+   "id": "whoosh_heavy_rumble",
+   "file": "whoosh/whoosh_heavy_rumble.wav",
+   "category": "whoosh",
+   "description": "Whoosh lourd et grondant (1,5 s).",
+   "duration_s": 1.451,
+   "original_clip_name": "Trending Sound Effect For Video Editing",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 7",
+    "upload_id": "9fdefc50",
+    "start_s": 1.71,
+    "end_s": 3.161,
+    "ref": "v10_03_trending"
+   }
+  },
+  {
+   "id": "whoosh_micro_swish",
+   "file": "whoosh/whoosh_micro_swish.wav",
+   "category": "whoosh",
+   "description": "Micro-swish très bref (0,2 s). Petit mouvement rapide.",
+   "duration_s": 0.162,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 7.956,
+    "end_s": 8.118,
+    "ref": "v01_10"
+   }
+  },
+  {
+   "id": "whoosh_noise_1",
+   "file": "whoosh/whoosh_noise_1.wav",
+   "category": "whoosh",
+   "description": "Souffle bruité court.",
+   "duration_s": 0.542,
+   "original_clip_name": "Tre...",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 0.015,
+    "end_s": 0.557,
+    "ref": "v04_01"
+   }
+  },
+  {
+   "id": "whoosh_noise_2",
+   "file": "whoosh/whoosh_noise_2.wav",
+   "category": "whoosh",
+   "description": "Swish bruité court.",
+   "duration_s": 0.381,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 0.557,
+    "end_s": 0.938,
+    "ref": "v04_02"
+   }
+  },
+  {
+   "id": "whoosh_noise_3",
+   "file": "whoosh/whoosh_noise_3.wav",
+   "category": "whoosh",
+   "description": "Whoosh bruité.",
+   "duration_s": 0.794,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 6.47,
+    "end_s": 7.264,
+    "ref": "v08_07"
+   }
+  },
+  {
+   "id": "whoosh_noise_4",
+   "file": "whoosh/whoosh_noise_4.wav",
+   "category": "whoosh",
+   "description": "Whoosh bruité.",
+   "duration_s": 0.667,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 5.296,
+    "end_s": 5.963,
+    "ref": "v09_07"
+   }
+  },
+  {
+   "id": "whoosh_pop",
+   "file": "whoosh/whoosh_pop.wav",
+   "category": "whoosh",
+   "description": "Swish court avec pop.",
+   "duration_s": 0.285,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 0.116,
+    "end_s": 0.401,
+    "ref": "v09_01"
+   }
+  },
+  {
+   "id": "whoosh_shimmer",
+   "file": "whoosh/whoosh_shimmer.wav",
+   "category": "whoosh",
+   "description": "Whoosh scintillant avec note tenue (1,8 s).",
+   "duration_s": 1.795,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 1.997,
+    "end_s": 3.792,
+    "ref": "v08_03"
+   }
+  },
+  {
+   "id": "whoosh_swell_2",
+   "file": "whoosh/whoosh_swell_2.wav",
+   "category": "whoosh",
+   "description": "Whoosh qui gonfle.",
+   "duration_s": 0.586,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 8.041,
+    "end_s": 8.627,
+    "ref": "v09_10"
+   }
+  },
+  {
+   "id": "whoosh_swell_short",
+   "file": "whoosh/whoosh_swell_short.wav",
+   "category": "whoosh",
+   "description": "Whoosh qui gonfle vers un pic (0,5 s).",
+   "duration_s": 0.442,
+   "original_clip_name": "striker...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 3.647,
+    "end_s": 4.089,
+    "ref": "v04_06_striker"
+   }
+  },
+  {
+   "id": "whoosh_swipe_short",
+   "file": "whoosh/whoosh_swipe_short.wav",
+   "category": "whoosh",
+   "description": "Petits swishs rapides, glissement de carte/UI.",
+   "duration_s": 0.489,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 1.562,
+    "end_s": 2.051,
+    "ref": "v02_02"
+   }
+  },
+  {
+   "id": "whoosh_swish",
+   "file": "whoosh/whoosh_swish.wav",
+   "category": "whoosh",
+   "description": "Swish net avec pic central.",
+   "duration_s": 0.912,
+   "original_clip_name": "whoosh...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 1.909,
+    "end_s": 2.821,
+    "ref": "v05_02_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_swish_short",
+   "file": "whoosh/whoosh_swish_short.wav",
+   "category": "whoosh",
+   "description": "Swish court.",
+   "duration_s": 0.387,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 5.963,
+    "end_s": 6.35,
+    "ref": "v09_08"
+   }
+  },
+  {
+   "id": "whoosh_swoosh_down",
+   "file": "whoosh/whoosh_swoosh_down.wav",
+   "category": "whoosh",
+   "description": "Swoosh descendant.",
+   "duration_s": 0.519,
+   "original_clip_name": "SFX 10",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 13.43,
+    "end_s": 13.949,
+    "ref": "v12_sfx10"
+   }
+  },
+  {
+   "id": "whoosh_textured",
+   "file": "whoosh/whoosh_textured.wav",
+   "category": "whoosh",
+   "description": "Whoosh texturé.",
+   "duration_s": 0.78,
+   "original_clip_name": "Trending Sound E...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 1.028,
+    "end_s": 1.808,
+    "ref": "v04_03_trending"
+   }
+  },
+  {
+   "id": "whoosh_textured_2",
+   "file": "whoosh/whoosh_textured_2.wav",
+   "category": "whoosh",
+   "description": "Whoosh texturé qui monte.",
+   "duration_s": 0.815,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 1.072,
+    "end_s": 1.887,
+    "ref": "v08_02"
+   }
+  },
+  {
+   "id": "whoosh_tonal_hit",
+   "file": "whoosh/whoosh_tonal_hit.wav",
+   "category": "whoosh",
+   "description": "Whoosh avec note.",
+   "duration_s": 0.306,
+   "original_clip_name": "SFX 8",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 11.41,
+    "end_s": 11.716,
+    "ref": "v12_sfx08"
+   }
+  },
+  {
+   "id": "whoosh_transition",
+   "file": "whoosh/whoosh_transition.wav",
+   "category": "whoosh",
+   "description": "Whoosh de transition (1,4 s).",
+   "duration_s": 1.43,
+   "original_clip_name": "transition-ex...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 14",
+    "upload_id": "ff017769",
+    "start_s": 2.177,
+    "end_s": 3.607,
+    "ref": "v14_02_transition"
+   }
+  },
+  {
+   "id": "whoosh_up",
+   "file": "whoosh/whoosh_up.wav",
+   "category": "whoosh",
+   "description": "Whoosh montant vers l’aigu.",
+   "duration_s": 0.674,
+   "original_clip_name": "whoosh...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 6.778,
+    "end_s": 7.452,
+    "ref": "v05_06_whoosh"
+   }
+  },
+  {
+   "id": "whoosh_zip",
+   "file": "whoosh/whoosh_zip.wav",
+   "category": "whoosh",
+   "description": "Zip bref (balayage montant).",
+   "duration_s": 0.104,
+   "original_clip_name": "SFX 6",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 10.25,
+    "end_s": 10.354,
+    "ref": "v12_sfx06"
+   }
+  },
+  {
+   "id": "whoosh_zoom_high",
+   "file": "whoosh/whoosh_zoom_high.wav",
+   "category": "whoosh",
+   "description": "« Zoom » très aigu qui monte. Zoom avant, apparition rapide.",
+   "duration_s": 1.004,
+   "original_clip_name": "zoom1...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 9.944,
+    "end_s": 10.948,
+    "ref": "v06_09_zoom"
+   }
+  },
+  {
+   "id": "transition_cinematic_riser_hit_1",
+   "file": "transition/transition_cinematic_riser_hit_1.wav",
+   "category": "transition",
+   "description": "Montée d’1 s puis impact cinématique et longue queue (3,7 s).",
+   "duration_s": 3.542,
+   "original_clip_name": "Cinematic Epic Trailer Hit and Impact",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 11",
+    "upload_id": "2d6af48b",
+    "start_s": 10.458,
+    "end_s": 14.0,
+    "ref": "v03_05_cinematic_riser_hit"
+   }
+  },
+  {
+   "id": "transition_cinematic_riser_hit_2",
+   "file": "transition/transition_cinematic_riser_hit_2.wav",
+   "category": "transition",
+   "description": "Montée puis gros impact de bande-annonce, longue queue (4,1 s).",
+   "duration_s": 4.11,
+   "original_clip_name": "Cinematic Epic Trailer Hit and Impact",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 11",
+    "upload_id": "2d6af48b",
+    "start_s": 14.0,
+    "end_s": 18.11,
+    "ref": "v03_06_cinematic_riser_hit"
+   }
+  },
+  {
+   "id": "transition_epic_blockbuster",
+   "file": "transition/transition_epic_blockbuster.wav",
+   "category": "transition",
+   "description": "Montée pulsée puis gros impact orchestral (3,4 s). Transition de bande-annonce.",
+   "duration_s": 3.308,
+   "original_clip_name": "mixkit-epic-blockbuster-movie-transition-2",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 5.41,
+    "end_s": 8.718,
+    "ref": "v02_05_epic_blockbuster_transition"
+   }
+  },
+  {
+   "id": "transition_epic_orchestra",
+   "file": "transition/transition_epic_orchestra.wav",
+   "category": "transition",
+   "description": "Coup orchestral tenu, épique (3,4 s).",
+   "duration_s": 3.369,
+   "original_clip_name": "mixkit-epic-orchestra-transition-2290.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 8.749,
+    "end_s": 12.118,
+    "ref": "v02_06_epic_orchestra_transition"
+   }
+  },
+  {
+   "id": "transition_slow_motion",
+   "file": "transition/transition_slow_motion.wav",
+   "category": "transition",
+   "description": "Effet ralenti : pulsations qui ralentissent puis ré-accélèrent en montant (6 s).",
+   "duration_s": 6.026,
+   "original_clip_name": "1 Slow Motion 1.7.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 6.454,
+    "end_s": 12.48,
+    "ref": "v04_09_slow_motion"
+   }
+  },
+  {
+   "id": "transition_warp_swirl",
+   "file": "transition/transition_warp_swirl.wav",
+   "category": "transition",
+   "description": "Tourbillon / distorsion spatiale sci-fi (2,5 s).",
+   "duration_s": 2.53,
+   "original_clip_name": "Trending Sound Effect For Video Editing",
+   "notes": [
+    "Coupé par la fin de la vidéo source (fondu 300 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 7",
+    "upload_id": "9fdefc50",
+    "start_s": 6.1,
+    "end_s": 8.63,
+    "ref": "v10_07_trending"
+   }
+  },
+  {
+   "id": "transition_zhiwop_drop",
+   "file": "transition/transition_zhiwop_drop.wav",
+   "category": "transition",
+   "description": "« Zhwoop » : montée grave puis impact et pulsations (2,1 s).",
+   "duration_s": 2.09,
+   "original_clip_name": "Zhiwop Sound Effect @aido...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 14",
+    "upload_id": "ff017769",
+    "start_s": 0.035,
+    "end_s": 2.125,
+    "ref": "v14_01_zhiwop"
+   }
+  },
+  {
+   "id": "riser_cinematic_swell_1",
+   "file": "riser/riser_cinematic_swell_1.wav",
+   "category": "riser",
+   "description": "Grande montée cinématique qui gonfle puis s’apaise (4,4 s).",
+   "duration_s": 4.397,
+   "original_clip_name": "",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 10.223,
+    "end_s": 14.62,
+    "ref": "v08_10"
+   }
+  },
+  {
+   "id": "riser_cinematic_swell_2",
+   "file": "riser/riser_cinematic_swell_2.wav",
+   "category": "riser",
+   "description": "Grande montée cinématique (4,3 s).",
+   "duration_s": 4.09,
+   "original_clip_name": "",
+   "notes": [
+    "Coupé par la fin de la vidéo source (fondu 300 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 14.78,
+    "end_s": 18.87,
+    "ref": "v08_11"
+   }
+  },
+  {
+   "id": "riser_fire_riser",
+   "file": "riser/riser_fire_riser.wav",
+   "category": "riser",
+   "description": "Montée courte qui s’arrête net (0,8 s).",
+   "duration_s": 0.76,
+   "original_clip_name": "fire-sfx...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 12.118,
+    "end_s": 12.878,
+    "ref": "v02_07_fire_riser"
+   }
+  },
+  {
+   "id": "riser_harmonic",
+   "file": "riser/riser_harmonic.wav",
+   "category": "riser",
+   "description": "Montée harmonique (hauteur qui monte, 1,8 s).",
+   "duration_s": 1.761,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 7.59,
+    "end_s": 9.351,
+    "ref": "v05_07_riser"
+   }
+  },
+  {
+   "id": "riser_noise_build",
+   "file": "riser/riser_noise_build.wav",
+   "category": "riser",
+   "description": "Montée de bruit (2,5 s) qui culmine puis retombe.",
+   "duration_s": 2.52,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 9.75,
+    "end_s": 12.27,
+    "ref": "v09_12"
+   }
+  },
+  {
+   "id": "riser_reverse_whoosh",
+   "file": "riser/riser_reverse_whoosh.wav",
+   "category": "riser",
+   "description": "Whoosh inversé qui s’arrête net : à placer juste avant un impact ou une coupe.",
+   "duration_s": 0.6,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 9.42,
+    "end_s": 10.02,
+    "ref": "v05_08_reverse_whoosh"
+   }
+  },
+  {
+   "id": "riser_swell_tonal",
+   "file": "riser/riser_swell_tonal.wav",
+   "category": "riser",
+   "description": "Nappe qui gonfle avec note (2 s).",
+   "duration_s": 2.029,
+   "original_clip_name": "SOUND_1.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 14",
+    "upload_id": "ff017769",
+    "start_s": 3.607,
+    "end_s": 5.636,
+    "ref": "v14_03_sound1"
+   }
+  },
+  {
+   "id": "impact_bass_hit",
+   "file": "impact/impact_bass_hit.wav",
+   "category": "impact",
+   "description": "Coup de basse avec ondulation.",
+   "duration_s": 0.806,
+   "original_clip_name": "Trending Sound Effect Fo...",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 7",
+    "upload_id": "9fdefc50",
+    "start_s": 5.294,
+    "end_s": 6.1,
+    "ref": "v10_06_trending"
+   }
+  },
+  {
+   "id": "impact_boom_long",
+   "file": "impact/impact_boom_long.wav",
+   "category": "impact",
+   "description": "Gros boom grave à longue queue (3,2 s).",
+   "duration_s": 3.19,
+   "original_clip_name": "SFX 1.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 10.69,
+    "end_s": 13.88,
+    "ref": "v05_09_impact"
+   }
+  },
+  {
+   "id": "impact_cinematic_boom_1",
+   "file": "impact/impact_cinematic_boom_1.wav",
+   "category": "impact",
+   "description": "Impact cinématique grave avec débris aigus (3,1 s).",
+   "duration_s": 3.089,
+   "original_clip_name": "Cinematic ... Hit",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 11",
+    "upload_id": "2d6af48b",
+    "start_s": 0.114,
+    "end_s": 3.203,
+    "ref": "v03_01_cinematic_impact"
+   }
+  },
+  {
+   "id": "impact_cinematic_boom_2",
+   "file": "impact/impact_cinematic_boom_2.wav",
+   "category": "impact",
+   "description": "Impact cinématique avec résonance tonale descendante (2,6 s).",
+   "duration_s": 2.557,
+   "original_clip_name": "Cinematic ... Hit",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 11",
+    "upload_id": "2d6af48b",
+    "start_s": 3.203,
+    "end_s": 5.76,
+    "ref": "v03_02_cinematic_impact"
+   }
+  },
+  {
+   "id": "impact_cinematic_boom_3",
+   "file": "impact/impact_cinematic_boom_3.wav",
+   "category": "impact",
+   "description": "Impact cinématique puissant et soutenu.",
+   "duration_s": 2.1,
+   "original_clip_name": "Cinematic ... Hit",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 11",
+    "upload_id": "2d6af48b",
+    "start_s": 5.76,
+    "end_s": 7.86,
+    "ref": "v03_03_cinematic_impact"
+   }
+  },
+  {
+   "id": "impact_cinematic_boom_4",
+   "file": "impact/impact_cinematic_boom_4.wav",
+   "category": "impact",
+   "description": "Impact cinématique avec sub-basse.",
+   "duration_s": 2.108,
+   "original_clip_name": "Cinematic ... Hit",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 11",
+    "upload_id": "2d6af48b",
+    "start_s": 8.251,
+    "end_s": 10.359,
+    "ref": "v03_04_cinematic_impact"
+   }
+  },
+  {
+   "id": "impact_hard_hit_rumble",
+   "file": "impact/impact_hard_hit_rumble.wav",
+   "category": "impact",
+   "description": "Gros impact grave avec longue queue de grondement (4,8 s). Titre, révélation, drop.",
+   "duration_s": 4.781,
+   "original_clip_name": "Hard hit 3.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 9.887,
+    "end_s": 14.668,
+    "ref": "v01_15_hard_hit3"
+   }
+  },
+  {
+   "id": "impact_pop_thump",
+   "file": "impact/impact_pop_thump.wav",
+   "category": "impact",
+   "description": "Coup sourd tonal (pop grave).",
+   "duration_s": 0.417,
+   "original_clip_name": "SFX 4",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 8.18,
+    "end_s": 8.597,
+    "ref": "v12_sfx04"
+   }
+  },
+  {
+   "id": "impact_reverb_hit",
+   "file": "impact/impact_reverb_hit.wav",
+   "category": "impact",
+   "description": "Impact avec grande réverbération.",
+   "duration_s": 1.358,
+   "original_clip_name": "Reverb Hit",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 3.731,
+    "end_s": 5.089,
+    "ref": "v07_04_reverb_hit"
+   }
+  },
+  {
+   "id": "impact_rumble",
+   "file": "impact/impact_rumble.wav",
+   "category": "impact",
+   "description": "Grondement texturé.",
+   "duration_s": 1.123,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 8.627,
+    "end_s": 9.75,
+    "ref": "v09_11"
+   }
+  },
+  {
+   "id": "impact_shing_drop",
+   "file": "impact/impact_shing_drop.wav",
+   "category": "impact",
+   "description": "Drop de basse avec « shing » brillant tenu (3,9 s).",
+   "duration_s": 3.91,
+   "original_clip_name": "Shing Drop @adobebasic.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 14",
+    "upload_id": "ff017769",
+    "start_s": 8.05,
+    "end_s": 11.96,
+    "ref": "v14_06_shing_drop"
+   }
+  },
+  {
+   "id": "impact_soft_boom",
+   "file": "impact/impact_soft_boom.wav",
+   "category": "impact",
+   "description": "Boom grave enveloppé qui gonfle puis s’éteint (1,9 s).",
+   "duration_s": 1.857,
+   "original_clip_name": "Paper ...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 0.052,
+    "end_s": 1.909,
+    "ref": "v05_01"
+   }
+  },
+  {
+   "id": "ui_bubble_pops",
+   "file": "ui/ui_bubble_pops.wav",
+   "category": "ui",
+   "description": "Trois petits pops rapides (bulles). Apparition de liste/puces.",
+   "duration_s": 0.283,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 12.077,
+    "end_s": 12.36,
+    "ref": "v06_11"
+   }
+  },
+  {
+   "id": "ui_button_1",
+   "file": "ui/ui_button_1.wav",
+   "category": "ui",
+   "description": "Bouton : déclic qui gonfle.",
+   "duration_s": 0.875,
+   "original_clip_name": "1 Button.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 0.823,
+    "end_s": 1.698,
+    "ref": "v11_02_button1"
+   }
+  },
+  {
+   "id": "ui_button_2",
+   "file": "ui/ui_button_2.wav",
+   "category": "ui",
+   "description": "Bouton : ding doux à deux notes (1 et 2 kHz).",
+   "duration_s": 0.811,
+   "original_clip_name": "Button 2.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 0.012,
+    "end_s": 0.823,
+    "ref": "v11_01_button2"
+   }
+  },
+  {
+   "id": "ui_button_3_tonal",
+   "file": "ui/ui_button_3_tonal.wav",
+   "category": "ui",
+   "description": "Bouton à note tenue, harmonique et doux (≈1,8 s). Validation, menu qui s’ouvre.",
+   "duration_s": 1.787,
+   "original_clip_name": "Button 3.wav",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 1.893,
+    "end_s": 3.68,
+    "ref": "v01_04_button3"
+   }
+  },
+  {
+   "id": "ui_click_double",
+   "file": "ui/ui_click_double.wav",
+   "category": "ui",
+   "description": "Double clic sec.",
+   "duration_s": 0.214,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 0.514,
+    "end_s": 0.728,
+    "ref": "v09_02"
+   }
+  },
+  {
+   "id": "ui_click_notification",
+   "file": "ui/ui_click_notification.wav",
+   "category": "ui",
+   "description": "Deux clics + tonalités (type notification).",
+   "duration_s": 1.029,
+   "original_clip_name": "SFX 9",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 12.22,
+    "end_s": 13.249,
+    "ref": "v12_sfx09"
+   }
+  },
+  {
+   "id": "ui_click_tone",
+   "file": "ui/ui_click_tone.wav",
+   "category": "ui",
+   "description": "Clic suivi d’une note tenue (≈600 Hz).",
+   "duration_s": 0.641,
+   "original_clip_name": "clic...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 8.118,
+    "end_s": 8.759,
+    "ref": "v01_11_clic"
+   }
+  },
+  {
+   "id": "ui_data_loading",
+   "file": "ui/ui_data_loading.wav",
+   "category": "ui",
+   "description": "Chargement de données : bips réguliers (1,5 s).",
+   "duration_s": 1.445,
+   "original_clip_name": "Data Loading",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 2.187,
+    "end_s": 3.632,
+    "ref": "v07_03_data_loading"
+   }
+  },
+  {
+   "id": "ui_digital_data_down",
+   "file": "ui/ui_digital_data_down.wav",
+   "category": "ui",
+   "description": "Bips numériques descendants.",
+   "duration_s": 0.948,
+   "original_clip_name": "digital_data_up_down_17.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 7.302,
+    "end_s": 8.25,
+    "ref": "v11_09_digital_data_down"
+   }
+  },
+  {
+   "id": "ui_digital_data_up",
+   "file": "ui/ui_digital_data_up.wav",
+   "category": "ui",
+   "description": "Bips numériques montants (données, compteur qui monte).",
+   "duration_s": 0.929,
+   "original_clip_name": "digital_data_up_down_17.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 6.253,
+    "end_s": 7.182,
+    "ref": "v11_08_digital_data_up"
+   }
+  },
+  {
+   "id": "ui_hitech_gui_1",
+   "file": "ui/ui_hitech_gui_1.wav",
+   "category": "ui",
+   "description": "Interface high-tech / sci-fi n°1.",
+   "duration_s": 0.673,
+   "original_clip_name": "ES_Hitech GUI, Sc...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 1.083,
+    "end_s": 1.756,
+    "ref": "v13_03_hitech_gui"
+   }
+  },
+  {
+   "id": "ui_hitech_gui_2",
+   "file": "ui/ui_hitech_gui_2.wav",
+   "category": "ui",
+   "description": "Interface high-tech / sci-fi n°2 (interaction).",
+   "duration_s": 0.959,
+   "original_clip_name": "ES_Hitech GUI, Scifi, Interact...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 1.816,
+    "end_s": 2.775,
+    "ref": "v13_04_hitech_gui_scifi_interact"
+   }
+  },
+  {
+   "id": "ui_hitech_gui_3",
+   "file": "ui/ui_hitech_gui_3.wav",
+   "category": "ui",
+   "description": "Interface high-tech / sci-fi n°3.",
+   "duration_s": 0.749,
+   "original_clip_name": "ES_Hitech GUI, Sci...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 2.775,
+    "end_s": 3.524,
+    "ref": "v13_05_hitech_gui"
+   }
+  },
+  {
+   "id": "ui_micro_ticks",
+   "file": "ui/ui_micro_ticks.wav",
+   "category": "ui",
+   "description": "Micro-tics rapides.",
+   "duration_s": 0.649,
+   "original_clip_name": "ES_Micro, Ticks - Ep...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 3.524,
+    "end_s": 4.173,
+    "ref": "v13_06_micro_ticks"
+   }
+  },
+  {
+   "id": "ui_open",
+   "file": "ui/ui_open.wav",
+   "category": "ui",
+   "description": "Ouverture d’interface / panneau.",
+   "duration_s": 0.576,
+   "original_clip_name": "Open UI",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 8.825,
+    "end_s": 9.401,
+    "ref": "v07_07_open_ui"
+   }
+  },
+  {
+   "id": "ui_pluck_tonal",
+   "file": "ui/ui_pluck_tonal.wav",
+   "category": "ui",
+   "description": "Ton grave avec pincements. Élément qui se pose.",
+   "duration_s": 0.86,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 11.063,
+    "end_s": 11.923,
+    "ref": "v06_10"
+   }
+  },
+  {
+   "id": "ui_pop_pluck",
+   "file": "ui/ui_pop_pluck.wav",
+   "category": "ui",
+   "description": "Pop pincé court et aigu (≈1,6 kHz).",
+   "duration_s": 0.265,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 8.759,
+    "end_s": 9.024,
+    "ref": "v01_12"
+   }
+  },
+  {
+   "id": "ui_pop_rise",
+   "file": "ui/ui_pop_rise.wav",
+   "category": "ui",
+   "description": "Pop montant avec résonance.",
+   "duration_s": 0.717,
+   "original_clip_name": "SFX 1",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 3.86,
+    "end_s": 4.577,
+    "ref": "v12_sfx01"
+   }
+  },
+  {
+   "id": "ui_pop_tonal_1",
+   "file": "ui/ui_pop_tonal_1.wav",
+   "category": "ui",
+   "description": "Pop tonal avec harmoniques, attaque grave, extinction rapide.",
+   "duration_s": 0.471,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 6.988,
+    "end_s": 7.459,
+    "ref": "v01_08"
+   }
+  },
+  {
+   "id": "ui_switch",
+   "file": "ui/ui_switch.wav",
+   "category": "ui",
+   "description": "Interrupteur / toggle.",
+   "duration_s": 0.758,
+   "original_clip_name": "Switch",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 0.569,
+    "end_s": 1.327,
+    "ref": "v07_01_switch"
+   }
+  },
+  {
+   "id": "ui_tap_double",
+   "file": "ui/ui_tap_double.wav",
+   "category": "ui",
+   "description": "Double tapotement léger.",
+   "duration_s": 0.239,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 9.024,
+    "end_s": 9.263,
+    "ref": "v01_13"
+   }
+  },
+  {
+   "id": "ui_tick_short",
+   "file": "ui/ui_tick_short.wav",
+   "category": "ui",
+   "description": "Tic très court et sec avec une petite note (≈800 Hz). Apparition d’un élément minuscule, curseur.",
+   "duration_s": 0.144,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 0.212,
+    "end_s": 0.356,
+    "ref": "v01_01"
+   }
+  },
+  {
+   "id": "notification_bell_ding",
+   "file": "notification/notification_bell_ding.wav",
+   "category": "notification",
+   "description": "Cloche/ding clair avec harmoniques.",
+   "duration_s": 0.82,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 12.76,
+    "end_s": 13.58,
+    "ref": "v06_12"
+   }
+  },
+  {
+   "id": "notification_cash_register_1",
+   "file": "notification/notification_cash_register_1.wav",
+   "category": "notification",
+   "description": "Caisse enregistreuse : mécanique + petite sonnette.",
+   "duration_s": 0.712,
+   "original_clip_name": "Cash Register...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 4.496,
+    "end_s": 5.208,
+    "ref": "v01_06_cash_register_a"
+   }
+  },
+  {
+   "id": "notification_cash_register_2",
+   "file": "notification/notification_cash_register_2.wav",
+   "category": "notification",
+   "description": "Caisse enregistreuse longue avec tiroir (choc à 1 s) et sonnerie. Prix, argent, vente.",
+   "duration_s": 1.78,
+   "original_clip_name": "Cash Register.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 5.208,
+    "end_s": 6.988,
+    "ref": "v01_07_cash_register"
+   }
+  },
+  {
+   "id": "notification_cash_register_3",
+   "file": "notification/notification_cash_register_3.wav",
+   "category": "notification",
+   "description": "Caisse enregistreuse courte.",
+   "duration_s": 0.812,
+   "original_clip_name": "Cash Register 1.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 1.698,
+    "end_s": 2.51,
+    "ref": "v11_03_cash_register1"
+   }
+  },
+  {
+   "id": "notification_cashier_ka_ching",
+   "file": "notification/notification_cashier_ka_ching.wav",
+   "category": "notification",
+   "description": "« Ka-ching » de caisse : mécanique puis cloche tenue.",
+   "duration_s": 1.663,
+   "original_clip_name": "cashier...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 2.051,
+    "end_s": 3.714,
+    "ref": "v02_03_cashier"
+   }
+  },
+  {
+   "id": "notification_chime_trending",
+   "file": "notification/notification_chime_trending.wav",
+   "category": "notification",
+   "description": "Carillon ascendant en escalier (1,3→2,6 kHz). Le « ding » réutilisé partout dans ces vidéos.",
+   "duration_s": 1.26,
+   "original_clip_name": "Trendi...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 14.953,
+    "end_s": 16.213,
+    "ref": "v02_10_trendi"
+   }
+  },
+  {
+   "id": "notification_ding_bloop",
+   "file": "notification/notification_ding_bloop.wav",
+   "category": "notification",
+   "description": "Ding aigu tenu + bloop.",
+   "duration_s": 1.33,
+   "original_clip_name": "SFX 2",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 4.79,
+    "end_s": 6.12,
+    "ref": "v12_sfx02"
+   }
+  },
+  {
+   "id": "notification_ding_short",
+   "file": "notification/notification_ding_short.wav",
+   "category": "notification",
+   "description": "Petit « ding » harmonique court.",
+   "duration_s": 0.497,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 7.459,
+    "end_s": 7.956,
+    "ref": "v01_09"
+   }
+  },
+  {
+   "id": "notification_ding_triad",
+   "file": "notification/notification_ding_triad.wav",
+   "category": "notification",
+   "description": "Ding à trois notes tenues.",
+   "duration_s": 1.104,
+   "original_clip_name": "",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 4.629,
+    "end_s": 5.733,
+    "ref": "v08_05"
+   }
+  },
+  {
+   "id": "notification_ping_bright",
+   "file": "notification/notification_ping_bright.wav",
+   "category": "notification",
+   "description": "Ping aigu cristallin (≈2,6 kHz) qui s’éteint lentement.",
+   "duration_s": 1.214,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 0.02,
+    "end_s": 1.234,
+    "ref": "v02_01"
+   }
+  },
+  {
+   "id": "notification_success_ui",
+   "file": "notification/notification_success_ui.wav",
+   "category": "notification",
+   "description": "Son de succès d’interface (validation).",
+   "duration_s": 1.048,
+   "original_clip_name": "Success UI",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 9.816,
+    "end_s": 10.864,
+    "ref": "v07_08_success_ui"
+   }
+  },
+  {
+   "id": "glitch_burst",
+   "file": "glitch/glitch_burst.wav",
+   "category": "glitch",
+   "description": "Rafale glitch/clics courte.",
+   "duration_s": 0.484,
+   "original_clip_name": "Best Sou...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 3.076,
+    "end_s": 3.56,
+    "ref": "v04_05_best_sfx"
+   }
+  },
+  {
+   "id": "glitch_clicks",
+   "file": "glitch/glitch_clicks.wav",
+   "category": "glitch",
+   "description": "Clics glitchés rapides.",
+   "duration_s": 0.54,
+   "original_clip_name": "SFX 7",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 10.76,
+    "end_s": 11.3,
+    "ref": "v12_sfx07"
+   }
+  },
+  {
+   "id": "glitch_crackle",
+   "file": "glitch/glitch_crackle.wav",
+   "category": "glitch",
+   "description": "Crépitement avec petits chocs.",
+   "duration_s": 0.918,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 0.827,
+    "end_s": 1.745,
+    "ref": "v09_03"
+   }
+  },
+  {
+   "id": "glitch_ea_glitch",
+   "file": "glitch/glitch_ea_glitch.wav",
+   "category": "glitch",
+   "description": "Glitch tonal haché.",
+   "duration_s": 0.432,
+   "original_clip_name": "EA Glit...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 0.024,
+    "end_s": 0.456,
+    "ref": "v13_01_ea_glitch"
+   }
+  },
+  {
+   "id": "glitch_glitch_01",
+   "file": "glitch/glitch_glitch_01.wav",
+   "category": "glitch",
+   "description": "Glitch avec tonalités résiduelles.",
+   "duration_s": 0.797,
+   "original_clip_name": "Glitch 01.wav",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 5.498,
+    "end_s": 6.295,
+    "ref": "v13_09_glitch01"
+   }
+  },
+  {
+   "id": "glitch_laser_zap",
+   "file": "glitch/glitch_laser_zap.wav",
+   "category": "glitch",
+   "description": "Laser / tir sci-fi avec balayages croisés.",
+   "duration_s": 0.979,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 9.244,
+    "end_s": 10.223,
+    "ref": "v08_09"
+   }
+  },
+  {
+   "id": "glitch_negative_1",
+   "file": "glitch/glitch_negative_1.wav",
+   "category": "glitch",
+   "description": "Glitch « négatif » (erreur) n°1.",
+   "duration_s": 0.872,
+   "original_clip_name": "Negative Glitch 1",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 10.864,
+    "end_s": 11.736,
+    "ref": "v07_09_negative_glitch1"
+   }
+  },
+  {
+   "id": "glitch_negative_2",
+   "file": "glitch/glitch_negative_2.wav",
+   "category": "glitch",
+   "description": "Glitch « négatif » (erreur) n°2.",
+   "duration_s": 0.763,
+   "original_clip_name": "Negative Glitch 2",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 11.757,
+    "end_s": 12.52,
+    "ref": "v07_10_negative_glitch2"
+   }
+  },
+  {
+   "id": "glitch_negative_3",
+   "file": "glitch/glitch_negative_3.wav",
+   "category": "glitch",
+   "description": "Glitch « négatif » (erreur) n°3.",
+   "duration_s": 1.136,
+   "original_clip_name": "Negative Glitch 3",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 12.544,
+    "end_s": 13.68,
+    "ref": "v07_11_negative_glitch3"
+   }
+  },
+  {
+   "id": "glitch_noise_burst",
+   "file": "glitch/glitch_noise_burst.wav",
+   "category": "glitch",
+   "description": "Bouffée de bruit glitchée avec tonalités.",
+   "duration_s": 0.98,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 0.092,
+    "end_s": 1.072,
+    "ref": "v08_01"
+   }
+  },
+  {
+   "id": "glitch_scifi_descend",
+   "file": "glitch/glitch_scifi_descend.wav",
+   "category": "glitch",
+   "description": "Tonalités électroniques descendantes, glitch sci-fi.",
+   "duration_s": 0.565,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 12.972,
+    "end_s": 13.537,
+    "ref": "v02_08"
+   }
+  },
+  {
+   "id": "glitch_static_burst",
+   "file": "glitch/glitch_static_burst.wav",
+   "category": "glitch",
+   "description": "Bouffée de statique.",
+   "duration_s": 0.511,
+   "original_clip_name": "Trending...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 7",
+    "upload_id": "9fdefc50",
+    "start_s": 1.199,
+    "end_s": 1.71,
+    "ref": "v10_02_trending"
+   }
+  },
+  {
+   "id": "glitch_static_texture",
+   "file": "glitch/glitch_static_texture.wav",
+   "category": "glitch",
+   "description": "Texture de bruit/statique avec tonalités (1,7 s).",
+   "duration_s": 1.715,
+   "original_clip_name": "Trending Sound Effect...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 4.213,
+    "end_s": 5.928,
+    "ref": "v04_07_trending"
+   }
+  },
+  {
+   "id": "glitch_thump",
+   "file": "glitch/glitch_thump.wav",
+   "category": "glitch",
+   "description": "Glitch avec coup sourd grave.",
+   "duration_s": 0.609,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects",
+    "upload_id": "80e0ebc4",
+    "start_s": 1.838,
+    "end_s": 2.447,
+    "ref": "v09_04"
+   }
+  },
+  {
+   "id": "glitch_transition",
+   "file": "glitch/glitch_transition.wav",
+   "category": "glitch",
+   "description": "Transition glitch (1,8 s).",
+   "duration_s": 1.836,
+   "original_clip_name": "Glitch Transition",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 5.089,
+    "end_s": 6.925,
+    "ref": "v07_05_glitch_transition"
+   }
+  },
+  {
+   "id": "glitch_zap",
+   "file": "glitch/glitch_zap.wav",
+   "category": "glitch",
+   "description": "Deux décharges électriques « zap ».",
+   "duration_s": 0.45,
+   "original_clip_name": "Zap",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 1.57,
+    "end_s": 2.02,
+    "ref": "v07_02_zap"
+   }
+  },
+  {
+   "id": "foley_chain_1",
+   "file": "foley/foley_chain_1.wav",
+   "category": "foley",
+   "description": "Chaîne métallique (1,1 s).",
+   "duration_s": 1.029,
+   "original_clip_name": "cchain-6073.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 2.584,
+    "end_s": 3.613,
+    "ref": "v11_04_chain"
+   }
+  },
+  {
+   "id": "foley_chain_2",
+   "file": "foley/foley_chain_2.wav",
+   "category": "foley",
+   "description": "Chaîne métallique (0,7 s).",
+   "duration_s": 0.581,
+   "original_clip_name": "cchain-6073.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 3.905,
+    "end_s": 4.486,
+    "ref": "v11_05_chain"
+   }
+  },
+  {
+   "id": "foley_chain_3",
+   "file": "foley/foley_chain_3.wav",
+   "category": "foley",
+   "description": "Chaîne métallique (0,5 s).",
+   "duration_s": 0.504,
+   "original_clip_name": "cchain-6073.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 4.696,
+    "end_s": 5.2,
+    "ref": "v11_06_chain"
+   }
+  },
+  {
+   "id": "foley_chain_4",
+   "file": "foley/foley_chain_4.wav",
+   "category": "foley",
+   "description": "Chaîne métallique (0,8 s).",
+   "duration_s": 0.745,
+   "original_clip_name": "cchain-6073.mp3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 9",
+    "upload_id": "e5ac10eb",
+    "start_s": 5.508,
+    "end_s": 6.253,
+    "ref": "v11_07_chain"
+   }
+  },
+  {
+   "id": "foley_click_series",
+   "file": "foley/foley_click_series.wav",
+   "category": "foley",
+   "description": "Série de clics/déclics rapides (≈1 s).",
+   "duration_s": 1.054,
+   "original_clip_name": "Best Sound Effects...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 8",
+    "upload_id": "3df29bcf",
+    "start_s": 1.808,
+    "end_s": 2.862,
+    "ref": "v04_04_best_sfx"
+   }
+  },
+  {
+   "id": "foley_clock_ticks",
+   "file": "foley/foley_clock_ticks.wav",
+   "category": "foley",
+   "description": "Tic-tac irréguliers (1,8 s).",
+   "duration_s": 1.809,
+   "original_clip_name": "SFX 3",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 6.19,
+    "end_s": 7.999,
+    "ref": "v12_sfx03"
+   }
+  },
+  {
+   "id": "foley_film_camera_shutter",
+   "file": "foley/foley_film_camera_shutter.wav",
+   "category": "foley",
+   "description": "Obturateur d’appareil photo argentique.",
+   "duration_s": 0.622,
+   "original_clip_name": "film-camera-shutter.m...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 4.347,
+    "end_s": 4.969,
+    "ref": "v13_07_film_camera_shutter"
+   }
+  },
+  {
+   "id": "foley_film_projector",
+   "file": "foley/foley_film_projector.wav",
+   "category": "foley",
+   "description": "Mécanisme de caméra/projecteur film : trois déclics rapides.",
+   "duration_s": 0.624,
+   "original_clip_name": "film...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 9.263,
+    "end_s": 9.887,
+    "ref": "v01_14_film"
+   }
+  },
+  {
+   "id": "foley_gears",
+   "file": "foley/foley_gears.wav",
+   "category": "foley",
+   "description": "Engrenages / mécanisme qui tourne.",
+   "duration_s": 1.702,
+   "original_clip_name": "Gears",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 6.925,
+    "end_s": 8.627,
+    "ref": "v07_06_gears"
+   }
+  },
+  {
+   "id": "foley_macbook_keyboard",
+   "file": "foley/foley_macbook_keyboard.wav",
+   "category": "foley",
+   "description": "Frappe au clavier MacBook (3 s, avec une pause).",
+   "duration_s": 2.974,
+   "original_clip_name": "Macbook Keyboard",
+   "notes": [],
+   "source": {
+    "creator": "@piero.cesti",
+    "video": "Comment \"SFX\"",
+    "upload_id": "5e351685",
+    "start_s": 13.68,
+    "end_s": 16.654,
+    "ref": "v07_12_macbook_keyboard"
+   }
+  },
+  {
+   "id": "foley_marker_draw_line",
+   "file": "foley/foley_marker_draw_line.wav",
+   "category": "foley",
+   "description": "Feutre/surligneur qui trace une ligne (1,3 s). Texte ou trait qui se dessine.",
+   "duration_s": 1.323,
+   "original_clip_name": "(OB)Write_Marker Pen Highlighter Draw Line Lon...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 10",
+    "upload_id": "fed0a0b2",
+    "start_s": 6.295,
+    "end_s": 7.618,
+    "ref": "v13_10_marker_pen_draw_line"
+   }
+  },
+  {
+   "id": "foley_paper_crumple",
+   "file": "foley/foley_paper_crumple.wav",
+   "category": "foley",
+   "description": "Papier froissé / bruissement (2,4 s).",
+   "duration_s": 2.307,
+   "original_clip_name": "Paper ...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 2.821,
+    "end_s": 5.128,
+    "ref": "v05_03_paper"
+   }
+  },
+  {
+   "id": "foley_paper_flip",
+   "file": "foley/foley_paper_flip.wav",
+   "category": "foley",
+   "description": "Feuille de papier qu’on tourne.",
+   "duration_s": 0.693,
+   "original_clip_name": "Paper Flip Sound...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 5.251,
+    "end_s": 5.944,
+    "ref": "v05_04_paper_flip"
+   }
+  },
+  {
+   "id": "foley_paper_rustle",
+   "file": "foley/foley_paper_rustle.wav",
+   "category": "foley",
+   "description": "Froissement de papier court.",
+   "duration_s": 0.67,
+   "original_clip_name": "Paper...",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 15",
+    "upload_id": "4161e02c",
+    "start_s": 6.08,
+    "end_s": 6.75,
+    "ref": "v05_05_paper"
+   }
+  },
+  {
+   "id": "foley_ratchet_ticks",
+   "file": "foley/foley_ratchet_ticks.wav",
+   "category": "foley",
+   "description": "Cliquetis rapide (cliquet / horloge rapide).",
+   "duration_s": 0.625,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effects (whoosh)",
+    "upload_id": "4455de0d",
+    "start_s": 9.228,
+    "end_s": 9.853,
+    "ref": "v06_08_ticks"
+   }
+  },
+  {
+   "id": "foley_ticking_1",
+   "file": "foley/foley_ticking_1.wav",
+   "category": "foley",
+   "description": "Tic-tac / cliquetis rapide aigu (1,1 s).",
+   "duration_s": 1.181,
+   "original_clip_name": "Trending Sound Effect For Video Editing",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 7",
+    "upload_id": "9fdefc50",
+    "start_s": 0.018,
+    "end_s": 1.199,
+    "ref": "v10_01_trending"
+   }
+  },
+  {
+   "id": "foley_ticking_2",
+   "file": "foley/foley_ticking_2.wav",
+   "category": "foley",
+   "description": "Cliquetis rapide aigu (0,9 s).",
+   "duration_s": 0.898,
+   "original_clip_name": "Trending Sound Effect For Vid...",
+   "notes": [
+    "Coupé par le montage source (fondu 120 ms)."
+   ],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 7",
+    "upload_id": "9fdefc50",
+    "start_s": 3.161,
+    "end_s": 4.059,
+    "ref": "v10_04_trending"
+   }
+  },
+  {
+   "id": "cartoon_bloop_up",
+   "file": "cartoon/cartoon_bloop_up.wav",
+   "category": "cartoon",
+   "description": "Bloop montant (glissando vers l’aigu). Apparition, bulle.",
+   "duration_s": 0.504,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 6",
+    "upload_id": "25cdbec8",
+    "start_s": 16.213,
+    "end_s": 16.717,
+    "ref": "v02_11"
+   }
+  },
+  {
+   "id": "cartoon_boing",
+   "file": "cartoon/cartoon_boing.wav",
+   "category": "cartoon",
+   "description": "« Boing » grave tonal avec clic.",
+   "duration_s": 0.837,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 3.792,
+    "end_s": 4.629,
+    "ref": "v08_04"
+   }
+  },
+  {
+   "id": "cartoon_bounce",
+   "file": "cartoon/cartoon_bounce.wav",
+   "category": "cartoon",
+   "description": "Rebond cartoon : glissandos montants répétés. Objet qui rebondit, logo qui saute.",
+   "duration_s": 0.901,
+   "original_clip_name": "bounce 2.MP3",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 4",
+    "upload_id": "110c6b6a",
+    "start_s": 0.489,
+    "end_s": 1.39,
+    "ref": "v01_02_bounce"
+   }
+  },
+  {
+   "id": "cartoon_magic_sparkle",
+   "file": "cartoon/cartoon_magic_sparkle.wav",
+   "category": "cartoon",
+   "description": "Scintillement magique (1,9 s). Paillettes, apparition magique.",
+   "duration_s": 1.862,
+   "original_clip_name": "",
+   "notes": [],
+   "source": {
+    "creator": "Suraj Editing Tips",
+    "video": "Sound Effect Part 12",
+    "upload_id": "80c23be6",
+    "start_s": 7.382,
+    "end_s": 9.244,
+    "ref": "v08_08"
+   }
+  },
+  {
+   "id": "cartoon_slide_up",
+   "file": "cartoon/cartoon_slide_up.wav",
+   "category": "cartoon",
+   "description": "Note qui glisse vers le haut.",
+   "duration_s": 0.949,
+   "original_clip_name": "SFX 5",
+   "notes": [
+    "Musique de fond atténuée (≈ −15 dB) par soustraction spectrale : un léger fond musical peut rester."
+   ],
+   "source": {
+    "creator": "Créateur non indiqué",
+    "video": "10 Sound Effects Every Editor Must Use",
+    "upload_id": "f745b960",
+    "start_s": 9.0,
+    "end_s": 9.949,
+    "ref": "v12_sfx05"
+   }
+  }
+ ],
+ "excluded_duplicates": [
+  {
+   "ref": "v01_03",
+   "reason": "doublon de ui/button_2 (v11_01, version plus longue)"
+  },
+  {
+   "ref": "v01_05_bli",
+   "reason": "doublon de ui/button_1 (v11_02)"
+  },
+  {
+   "ref": "v09_05",
+   "reason": "doublon de glitch/static_texture (v04_07, plus long)"
+  },
+  {
+   "ref": "v09_06",
+   "reason": "doublon de notification/ping_bright (v02_01)"
+  },
+  {
+   "ref": "v09_09",
+   "reason": "doublon de notification/chime_trending (v02_10, sans clic parasite)"
+  },
+  {
+   "ref": "v10_05_trending",
+   "reason": "doublon de notification/chime_trending (v02_10)"
+  }
+ ]
+}
