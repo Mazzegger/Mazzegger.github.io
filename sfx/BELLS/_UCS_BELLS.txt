@@ -1,0 +1,13 @@
+UCS v8.2.1 — BELLS  (CLOCHES)   CatShort : BELL
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. BELLAnml_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+BELLAnml   | ANIMAL                | ANIMAL                | Bells attached to animals, like cow and sheep bells, or a dog or cat collar with a bell on it.
+BELLDoor   | DOORBELL              | PORTE                 | Mechanical doorbells. Would also maybe electronic doorbells in here as well to avoid confusion probably. Also see ALARMS-BUZZERS for a door buzzer.
+BELLGong   | GONG                  | GONG                  | A large flat circular disc hit with a mallet. With v8.2 of the list most of these would now go into MUSICAL-BELLS instead.
+BELLHand   | HANDBELL              | CLOCHETTE             | Small to medium hand bells, dinner bells. Musical bells like HANDBELLS and CARILLION now go into MUSICAL-BELLS.
+BELLLrg    | LARGE                 | LARGE                 | Large bells like a church bell or tower bell, or city hall bells, Big Ben. Any large bell.
+BELLMisc   | MISC                  | DIVERS                | Bell sounds not fitting another category in this list.

@@ -1,0 +1,14 @@
+UCS v8.2.1 — WIND  (VENT)   CatShort : WIND
+Sons dans ce dossier : 1
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. WINDDsgn_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+WINDDsgn   | DESIGNED              | DESIGN                | Designed or manufactured or artificial winds, wind machines, synth winds.
+WIND       | GENERAL               | GÉNÉRIQUE             | Base and general wind category.
+WINDGust   | GUST                  | BOURRASQUE            | For more singular gusts or buffets, accents to cut into other winds. Usually shorter. A constant buffeting wind better off in the GENERAL or TURBULENT category.
+WINDInt    | INTERIOR              | INTÉRIEUR             | Interior wind, through window, or crack in door. Wind through chimney or vent pipe, but see also WIND-TONAL for overtly tonal winds and whistles.
+WINDTonl   | TONAL                 | TONAL                 | Wind howls, wind in wires, wind whistles, overtly tonal winds.
+WINDTurb   | TURBULENT             | TURBULENT             | Extremely violent wind, big buffeting, huge storm winds. Possible overlap with NATURAL DISASTER-TORNADO or WEATHER-STORM.
+WINDVege   | VEGETATION            | VÉGÉTATION            | Wind through foliage, vegetation, grass, trees, leaves, plants.

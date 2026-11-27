@@ -1,0 +1,15 @@
+UCS v8.2.1 — PLASTIC  (PLASTIQUE)   CatShort : PLAS
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. PLASBrk_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+PLASBrk    | BREAK                 | CASSE                 | Plastic breaking, crunches, rips, shatters.
+PLASCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Plastic crashing, groups items falling, group destruction, plastic debris.
+PLASFric   | FRICTION              | FRICTION              | Plastic friction, such as scrapes, creaks, squeaks, screeching.
+PLASHndl   | HANDLE                | MANIPULATION          | Plastic handling, handling a toy or remote control. Some overlap with PLASTIC-MOVEMENT possible.
+PLASImpt   | IMPACT                | IMPACTS               | Plastic item impact. Hit, drop, big plastic impacts where item does not break. Dropping a plastic object.
+PLASMisc   | MISC                  | DIVERS                | Plastic sounds not fitting another category in this list.
+PLASMvmt   | MOVEMENT              | MOUVEMENT             | Plastic movement, dragging plastic or drag on plastic, rattles, shakes. See also PLASTIC-HANDLE.
+PLASTonl   | TONAL                 | TONAL                 | Plastic tonal sounds, with a musical quality. Probably pretty rare.

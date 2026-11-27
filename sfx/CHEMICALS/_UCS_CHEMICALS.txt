@@ -1,0 +1,10 @@
+UCS v8.2.1 — CHEMICALS  (CHIMIQUE)   CatShort : CHEM
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. CHEMAcid_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+CHEMAcid   | ACID                  | ACIDE                 | Chemical acid burning and sizzling, bubbling. A vat of acid.
+CHEMMisc   | MISC                  | DIVERS                | Chemical sounds not fitting another category in this list.
+CHEMReac   | REACTION              | RÉACTION              | Chemical reactions, chemistry set, bubbling, foaming, bunsen burner reactions. Overlap perhaps with LIQUID & MUD category.

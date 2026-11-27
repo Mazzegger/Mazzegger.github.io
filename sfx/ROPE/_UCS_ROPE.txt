@@ -1,0 +1,12 @@
+UCS v8.2.1 — ROPE  (CORDES)   CatShort : ROPE
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. ROPECreak_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+ROPECreak  | CREAK                 | TENSION               | Rope stretches and creaks, people hanging from nooses.. Ship rope creaks. Tension of rope stretches.
+ROPEHndl   | HANDLE                | MANIPULATION          | Rope handling, tying knots, rigging up a ship sail. Possible overlap with ROPE-MOVEMENT.
+ROPEImpt   | IMPACT                | IMPACT                | Rope impacts, tossing ropes to ground, ropes banging violently in the wind. Possible overlap with ROPE-MOVEMENT.
+ROPEMisc   | MISC                  | DIVERS                | Rope sounds not fitting another category in this list.
+ROPEMvmt   | MOVEMENT              | MOUVEMENT             | Ropes zuzzing, moving across objects, zipline. See also ROPE-HANDLE.

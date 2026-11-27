@@ -1,0 +1,12 @@
+UCS v8.2.1 — TOOLS  (OUTILS)   CatShort : TOOL
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. TOOLGrdn_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+TOOLGrdn   | GARDEN                | JARDIN                | Hand tools used in a garden, rakes, hoes, etc. Also see MACHINES-GARDEN for powered machines. See also OBJECTS-GARDEN for non-tools.
+TOOLHand   | HAND                  | À MAIN                | Hand tools, not requiring power. Hammers, wrenches, pliers. See also TOOLS-GARDEN.
+TOOLMisc   | MISC                  | DIVERS                | Tool sounds not fitting another category in this list.
+TOOLPneu   | PNEUMATIC             | PNEUMATIQUE           | Air tools, such as jackhammers, air ratchets, nail guns. The air-wrench sound in a tire shop.
+TOOLPowr   | POWER                 | ÉLECTRIQUE            | Tools that require power. A sander, electric drill, dremel tool, circular saw.

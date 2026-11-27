@@ -1,0 +1,25 @@
+UCS v8.2.1 — BOATS  (BATEAUX)   CatShort : BOAT
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. BOATAir_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+BOATAir    | AIR BOAT              | HYDROGLISSEUR         | Specifically large fan airboats used in swamps. Think the type of boat used in the Everglades. Also hovercraft.
+BOATWash   | BOW WASH              | SILLAGE               | The waves pushed up by a boat or ship going through the water, a relatively clean recording.
+BOATDoor   | DOOR                  | PORTE                 | Boat or Submarine doors. Some possible overlap with over DOOR categories or VEHICLES-DOOR.
+BOATElec   | ELECTRIC              | ÉLECTRIQUE            | Any boat powered by electricity. Fairly rare. Possible a a radio controlled boat, or electric trolling motor.
+BOATFish   | FISHING               | PÊCHE                 | Industrial fishing boats, crab boats, trawlers. Simple fishing boats to BOATS-MOTORBOAT.
+BOATHorn   | HORN                  | AVERTISSEUR           | Horns on boats and ships. Fog horns would go in HORNS-AIR category.
+BOATInt    | INTERIOR              | INTÉRIEUR             | Interior ambiences on boats and ships, ferries, cruise ships, navy ships.
+BOATMech   | MECHANISM             | MÉCANISME             | All manner of boat mechanisms. Sailing ship rigging, pulleys, ropes, ship wheels. See also BOATS-DOOR.
+BOATMil    | MILITARY              | MILITAIRE             | Specifically military boats and ships, destroyers, aircraft carriers. Any military boat.
+BOATMisc   | MISC                  | DIVERS                | Boat sounds not fitting another category in this list.
+BOATMotr   | MOTORBOAT             | À MOTEUR              | General small boats, personal fishing boats, speedboats, pontoon boats. You average recreational boat.
+BOATRace   | RACING                | COURSE                | Powered racing boats, not for human powered racing boats, those would go under BOATS-ROWING.
+BOATRow    | ROWBOAT               | À RAMES               | Canoes, rowboats, kayaks probably, human powered boats that use oars and paddles, even racing rowboats.
+BOATSail   | SAILBOAT              | À VOILE               | Composite recordings of rigging and sails, isolated elements to CLOTH-FLAP for close sails, or BOATS-MECHANISM for rigging.
+BOATShip   | SHIP                  | NAVIRE                | Large ship, passenger cruise ships, oil tankers, things relating to these.
+BOATStm    | STEAM                 | À VAPEUR              | Old steam paddle boats, big steam ship sounds.
+BOATSub    | SUBMARINE             | SUBMERSIBLE           | Relating to a submarine, include sonar pings. Classic 'Dive' alarm would go in ALARMS-SIREN with keyword Klaxon.
+BOATUndwtr | UNDERWATER            | SOUS MARIN            | Specifically boats and ships recorded underwater, usually hydrophone recordings. SUBMARINES have their own subcategory.

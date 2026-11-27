@@ -1,0 +1,28 @@
+UCS v8.2.1 — OBJECTS  (OBJETS)   CatShort : OBJ
+Sons dans ce dossier : 1
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. OBJBag_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+OBJBag     | BAG                   | SAC                   | Bags and purses, shopping bags, lunch bags. Really any bag, except Luggage which would go to OBJECTS-LUGGAGE.
+OBJBook    | BOOK                  | LIVRE                 | Books, magazines, sounds relating to these. Handling particularly. Some overlap or confusion with PAPER-HANDLE.
+OBJCoin    | COIN                  | PIÈCE                 | Coins land, toss, drop, handle. Coins being counted, sorted. A bag of coins.
+OBJCont    | CONTAINER             | BOÎTE                 | Boxes, tupperware, jewelry boxes, things that hold things, lids, handling, opens and closes.
+OBJFash    | FASHION               | MODE                  | Shoes, belts, clothes, actions involding fashion objects. Makeup, lipstick, etc. Some overlap possible with CLOTH categories. See also OBJECTS-JEWELRY. And OBJECTS-BAG.
+OBJFurn    | FURNITURE             | MEUBLE                | Chairs movement, couch movement, things like that. Wood chair creaks could go in WOOD-FRICTION.
+OBJGrdn    | GARDEN                | JARDIN                | Flower pots, bird feeders, things that you might find and use in a garden. See also TOOLS-GARDEN and MACHINES-GARDEN.
+OBJGym     | GYM                   | GYM                   | Objects found in a fitness center or school gym, maybe a yoga mat, dumbells. See also MACHINES-GYM.
+OBJHsehld  | HOUSEHOLD             | DOMESTIQUE            | Cleaning products, hangers, towel racks, things around the house that don't fit somewhere else.
+OBJJewl    | JEWELRY               | BIJOUX                | Bracelets, necklaces, rings.
+OBJKey     | KEYS                  | CLEFS                 | Keys jingling, keys movement in lock.
+OBJLug     | LUGGAGE               | BAGAGE                | Suitcases, luggage related sounds, handling, opening, packing.
+OBJMed     | MEDICAL               | MÉDICAL               | Common objects in hospital or medical office.
+OBJMisc    | MISC                  | DIVERS                | Object sounds not fitting another category in this list.
+OBJOffc    | OFFICE                | BUREAU                | Things found in an office, staplers, paper cutter etc. Not machines like a printer which would go in MACHINES-OFFICE.
+OBJPack    | PACKAGING             | EMBALLAGE             | Items commonly used in packaging or packing, so bubblewrap, styrofoam, labels, food packaging.
+OBJTape    | TAPE                  | ADHÉSIF               | Tape and other tacky sticky type sounds as well. Velcro probably better into CLOTH-RIP as that matches the 'sound' better.
+OBJUmbr    | UMBRELLA              | PARAPLUIE             | Umbrella opens and closes. Not for rain on umbrella, which would go in RAIN-CLOTH.
+OBJWhled   | WHEELED               | ROULANT               | Non-motorized wheeled carts and dollies. Shopping cart, food cart, baggage cart, baby stroller, dolly, wheelchairs.
+OBJWrite   | WRITING               | ÉCRITURE              | Any writing object or performance of writing on any surface. Pens, pencils, crayons, markers.
+OBJZipr    | ZIPPER                | FERMETURE ÉCLAIR      | Pant zippers, bag zippers, luggage zippers.

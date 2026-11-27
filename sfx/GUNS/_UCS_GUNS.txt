@@ -1,0 +1,19 @@
+UCS v8.2.1 — GUNS  (ARMES À FEU)   CatShort : GUN
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. GUNAntq_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+GUNAntq    | ANTIQUE               | ANCIENNE              | Old black powder weapons, muskets.
+GUNArtl    | ARTILLERY             | ARTILLERIE            | Modern big guns, guns that launch shells. Not CANNONS which have their own group.
+GUNAuto    | AUTOMATIC             | AUTOMATIQUE           | Fully automatic capable weapons, even when firing singly. Machine guns.
+GUNCano    | CANNON                | CANON                 | Pirate and Civil War cannons, for modern artillery see GUNS-ARTILLERY.
+GUNHndl    | HANDLE                | MANIPULATION          | Alongside GUN-MECHANISM, but specifically gun handling, grabs, holstering, dropping, catching.
+GUNTech    | HITECH                | HIGH TECH             | Not quite a sci-fi Laser Gun, but something more advanced than a normal gun, a rail gun for example.
+GUNMech    | MECHANISM             | MÉCANISME             | Gun various mechanical sounds, clips, cocking, bolt slides.
+GUNMisc    | MISC                  | DIVERS                | Gun sounds not fitting another category in this list. BULLETS has its own category.
+GUNPis     | PISTOL                | PISTOLET              | Handguns and pistols.
+GUNRif     | RIFLE                 | FUSIL                 | Rifles, single shot and semi-automatic.
+GUNShotg   | SHOTGUN               | FUSIL À POMPE         | Shotguns, single, dual, pump.
+GUNSupr    | SUPPRESSED            | SILENCIEUX            | Silenced Weapons, silencers.

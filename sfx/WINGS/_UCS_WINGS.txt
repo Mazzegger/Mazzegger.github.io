@@ -1,0 +1,11 @@
+UCS v8.2.1 — WINGS  (AILES)   CatShort : WING
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. WINGBird_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+WINGBird   | BIRD                  | OISEAU                | Bird wing flaps, hummingbirds, pigeon wings. Group or single.
+WINGCrea   | CREATURE              | CRÉATURE              | Dragon wings, fairy wings, any manner of creature and monster wings.
+WINGInsc   | INSECT                | INSECTE               | Fly and bee wings, dragonflies, moths, butterflies. Any insect wings. Some overlap and confusion with ANIMALS-INECTS likely.
+WINGMisc   | MISC                  | DIVERS                | Wing sounds not fitting another category in this list.

@@ -1,0 +1,12 @@
+UCS v8.2.1 — BULLETS  (BALLES)   CatShort : BLLT
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. BLLTBy_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+BLLTBy     | BY                    | PASSAGE               | Bullet pass bys in air, or underwater.
+BLLTImpt   | IMPACT                | IMPACT                | Bullet hits and impacts, on a bullet hit on any material from the ground, to wood, to a person.
+BLLTMisc   | MISC                  | DIVERS                | Bullet sounds not fitting another category in this list.
+BLLTRico   | RICOCHET              | RICOCHET              | Bullet ricochets, that classic old west 'ping' when a bullet bounces off something.
+BLLTShel   | SHELL                 | DOUILLE               | Bullet shells ejecting and dropping to the ground. See also GUNS-HANDLING for things like loading or unloading a gun.

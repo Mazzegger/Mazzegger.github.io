@@ -1,0 +1,17 @@
+UCS v8.2.1 — RAIN  (PLUIE)   CatShort : RAIN
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. RAINClth_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+RAINClth   | CLOTH                 | TISSUS                | Rain on cloth, like a person's clothes, or more likely a patio umbrella, awning.
+RAINConc   | CONCRETE              | BÉTON                 | Rain on asphalt or concrete or patio tile. Rain on a hard slappy solid surface.
+RAIN       | GENERAL               | GÉNÉRIQUE             | General downpour, rain on mixed materials.
+RAINGlas   | GLASS                 | VERRE                 | Rain on a glass roof like a sunroof, or rain blown against a window as well.
+RAINInt    | INTERIOR              | INTÉRIEUR             | Interior recordings of Rain, from inside house or barn, or vehicle.
+RAINMetl   | METAL                 | MÉTAL                 | Rain on a metal surface, so exterior rain on a car, or metal sheet, metal roof.
+RAINPlas   | PLASTIC               | PLASTIQUE             | Rain on plastic or vinyl surfaces, like a grill cover, or a plastic shed.
+RAINVege   | VEGETATION            | VÉGÉTATION            | Rain on plants, leaves and grass. Jungle or tropical rain on plant leaves.
+RAINWatr   | WATER                 | EAU                   | Rain on water, puddles, lakes, ponds.
+RAINWood   | WOOD                  | BOIS                  | Rain on wood surfaces, so a deck for example.

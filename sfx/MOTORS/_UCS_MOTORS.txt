@@ -1,0 +1,13 @@
+UCS v8.2.1 — MOTORS  (MOTEURS)   CatShort : MOTR
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. MOTRAntq_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+MOTRAntq   | ANTIQUE               | ANCIEN                | Old motors, usually combustion, so old oil pump engines, old compressors. An antique gas pump for example.
+MOTRComb   | COMBUSTION            | COMBUSTION            | Non-vehicle combustion engines. Combustion motors, generators. Isolated engine recordings.
+MOTRElec   | ELECTRIC              | ÉLECTRIQUE            | Non-vehicle electric motors. Any motor that runs on electricity. An isolated electric motor. See also TOOLS-POWER.
+MOTRMisc   | MISC                  | DIVERS                | Motor sounds not fitting another category in this list.
+MOTRSrvo   | SERVO                 | SERVO                 | Specifically servo motors, from robot, to radio controlled servos. Clean isolated servos.
+MOTRTurb   | TURBINE               | TURBINE               | Turbines, water or air. That classic 'whine' power up and down are usually turbines. A jet engine is a turbine.

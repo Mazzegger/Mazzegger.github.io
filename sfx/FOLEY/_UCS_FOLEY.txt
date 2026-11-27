@@ -1,0 +1,12 @@
+UCS v8.2.1 — FOLEY  (BRUITAGE)   CatShort : FOLY
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. FOLYClth_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+FOLYClth   | CLOTH                 | VÊTEMENT              | Used for 'performed' official and very clean Foley done to picture. For your own wild recordings use FOOTSTEPS and OBJECT categories.
+FOLYFeet   | FEET                  | PAS                   | Used for 'performed' official and very clean Foley done to picture. For your own wild recordings use FOOTSTEPS and OBJECT categories.
+FOLYHand   | HANDS                 | MAINS                 | Used for 'performed' official and very clean Foley done to picture. For your own wild recordings use FOOTSTEPS and OBJECT categories.
+FOLYMisc   | MISC                  | DIVERS                | Used for 'performed' official and very clean Foley done to picture. For your own wild recordings use FOOTSTEPS and OBJECT categories.
+FOLYProp   | PROP                  | ACCESSOIRE            | Used for 'performed' official and very clean Foley done to picture. For your own wild recordings use FOOTSTEPS and OBJECT categories.

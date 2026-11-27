@@ -1,0 +1,13 @@
+UCS v8.2.1 — ELECTRICITY  (ÉLECTRICITÉ)   CatShort : ELEC
+Sons dans ce dossier : 3
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. ELECArc_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+ELECArc    | ARC                   | ARC                   | A longer movement of electricity, think Jacob's ladder, or a power station switching arc when decoupled.
+ELECBuzz   | BUZZ & HUM            | BUZZ & HUM            | Ground hum, buzzes, steady electrical hums, guitar pickup hum, amp hum. Any steady electric hum or buzz.
+ELECEmf    | ELECTROMAGNETIC       | ÉLECTROMAGNÉTIQUE     | Electromagnetic field recordings specifically.
+ELECMisc   | MISC                  | DIVERS                | Electric sounds not fitting another category in this list.
+ELECSprk   | SPARKS                | ÉTINCELLES            | Think sparklers, or a downed power line emitting sparks, welding... A singular spark would probably be a ZAP.
+ELECZap    | ZAP                   | ZAP                   | A short, shocking fast percussive electrical sound. Or a repetition of short fast sounds. A taser is a series of ZAPS.

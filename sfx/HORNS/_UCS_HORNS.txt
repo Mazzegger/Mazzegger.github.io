@@ -1,0 +1,11 @@
+UCS v8.2.1 — HORNS  (CORNES & AVERTISSEURS)   CatShort : HORN
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. HORNAir_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+HORNAir    | AIR POWERED           | CORNE DE BRUME        | Air horns, as in handheld compressed air horns, huge factory air horns. A fog horn. BOATS-HORN has it's own category for ship and ferry horns, as does TRAINS-HORN.
+HORNCele   | CELEBRATION           | FESTIF                | Party horns, from small party horns to vuvuzelas.
+HORNMisc   | MISC                  | DIVERS                | Horn sounds not fitting another category in this list, for example hunting calls. Not brass musical instruments which has it's own category in MUSICAL.
+HORNTrad   | TRADITIONAL           | TRADITIONNEL          | Rams horns, conches, alpine horns, old traditional horns, medieval battle horns.

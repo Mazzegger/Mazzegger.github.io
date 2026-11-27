@@ -1,0 +1,12 @@
+UCS v8.2.1 — LEATHER  (CUIR)   CatShort : LETHR
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. LETHRCreak_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+LETHRCreak | CREAK                 | GRINCEMENT            | Leather creaks, jacket and bag creaks, saddle movements. Any creaking leather.
+LETHRHndl  | HANDLE                | MANIPULATION          | Leather handling, picking up a leather bag, putting on a leather jacket maybe. Some overlap with LEATHER-MOVEMENT possible.
+LETHRImpt  | IMPACT                | IMPACT                | Hits and impacts of leather, leather bag or saddle dropping.
+LETHRMisc  | MISC                  | DIVERS                | Leather sounds not fitting another category in this list.
+LETHRMvmt  | MOVEMENT              | MOUVEMENT             | Movement of Leather, definitely overlap with LEATHER-CREAK and LEATHER-HANDLE.

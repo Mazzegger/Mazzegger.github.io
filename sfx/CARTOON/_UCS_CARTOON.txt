@@ -1,0 +1,29 @@
+UCS v8.2.1 — CARTOON  (CARTOON)   CatShort : TOON
+Sons dans ce dossier : 23
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. TOONAnml_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+TOONAnml   | ANIMAL                | ANIMAUX               | Cartoon animals, made from animals calls, props, etc. Very silly or stylized animals calls for use in Cartoons.
+TOONBoing  | BOING                 | BOING                 | Cartoon boings, like for a bouncing cartoon character. Roger Rabbit or Tigger from Winnie the Pooh.
+TOONClang  | CLANG                 | CLANG                 | Cartoon clangs, like a funny anvil hit. Most likely a very metallic resonant hit.
+TOONCreak  | CREAK                 | CRAQUEMENT            | Cartoon creaks, some overlap or confusion with CARTOON-STRETCH possible.
+TOONHorn   | HORN                  | POUET                 | Cartoon horns, as in bulb horns, clown horns.
+TOONImpt   | IMPACT                | IMPACT                | Cartoon hits, bonk, boink, doink..
+TOONMach   | MACHINE               | MACHINE               | Cartoon machines, an overly comical sounding machine or contraption. A Rube Goldberg contraption.
+TOONMisc   | MISC                  | DIVERS                | Cartoon sounds not fitting another category in this list.
+TOONMx     | MUSICAL               | MUSICAL               | Cartoon musical phrases. String plucks for a cartoon character sneaking up on another. Perhaps a cartoon musical phrase.
+TOONPluk   | PLUCK                 | PLUCK                 | Cartoon string plucks, violin plucks, dental floss plucks.
+TOONPop    | POP                   | POP                   | Cartoon funny pops, mouth pops, suction cup pops.
+TOONShake  | SHAKE                 | SHAKER                | Cartoon shake, like a noisemaker toy, maraca.
+TOONSplt   | SPLAT                 | SPLAT                 | Cartoon splats, funny liquid and mud like splats and things.
+TOONSqk    | SQUEAK                | SQUEAK                | Cartoon squeaks. funny little sounding squeaks of things.
+TOONStrch  | STRETCH               | TENSION               | Cartoon stretches, funny rubber or other type stretching sounds, exaggerated.
+TOONSwsh   | SWISH                 | SWISH                 | Cartoon swishes, specifically very funny cartoony swishes.
+TOONTwang  | TWANG                 | TWANG                 | Cartoon twangs, that classic ruler twang type sound.
+TOONVeh    | VEHICLE               | VÉHICULE              | Cartoon vehicles, think Jetsons spaceship or Flintstones cars.
+TOONVox    | VOCAL                 | VOIX                  | Cartoon vocals, specifically very silly. See also CARTOON-ANIMALS for non-human vocals.
+TOONWarb   | WARBLE                | GAZOUILLIS            | Cartoon warble.
+TOONWhis   | WHISTLE               | SIFFLET               | Cartoon whistles, most likely slide whistles, other very silly whistles. A Wolf-Whistle.
+TOONZip    | ZIP                   | ZIP                   | Cartoon zips. Very fast 'zip' type sounds, often for fast movement aways.

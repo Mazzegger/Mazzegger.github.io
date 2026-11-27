@@ -1,0 +1,15 @@
+UCS v8.2.1 — ROCKS  (PIERRE)   CatShort : ROCK
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. ROCKBrk_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+ROCKBrk    | BREAK                 | CASSE                 | Rock cracks, breaks, rips or shatters. More isolated and singular cracks and breaks.
+ROCKCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Rock crashes and debris, so a huge rock crash, collapse. Or isolated debris. See also NATURAL DISASTER-AVALANCHE.
+ROCKFric   | FRICTION              | FRICTION              | Rock creaks, scrapes... the stress of rock about to break.
+ROCKHndl   | HANDLE                | MANIPULATION          | Rock handing, picking up or digging through rocks, bricks. Some overlap with ROCKS-MOVEMENT possible.
+ROCKImpt   | IMPACT                | IMPACT                | Rock falling, dropping without breaking, or something hit with a rock, a big rock impact.
+ROCKMisc   | MISC                  | DIVERS                | Rock sounds not fitting another category in this list.
+ROCKMvmt   | MOVEMENT              | MOUVEMENT             | Rock dragging, or dragging across a rock surface, rocks shaking or rattling. See also ROCKS-HANDLE.
+ROCKTonl   | TONAL                 | TONAL                 | Tonal rocks, probably pretty rare. Singing rocks.

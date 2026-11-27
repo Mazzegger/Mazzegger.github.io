@@ -1,0 +1,15 @@
+UCS v8.2.1 — ICE  (GLACE)   CatShort : ICE
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. ICEBrk_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+ICEBrk     | BREAK                 | CASSE                 | Ice cracks, breaks, shatters. Any ice breaking that is fairly singular or isolated, large or small.
+ICECrsh    | CRASH & DEBRIS        | CRASH & DÉBRIS        | Ice large crashes and isolated debris go here. Iceberg calving.
+ICEFric    | FRICTION              | FRICTION              | Dry ice may go here, but often it's a metallic sound too, but ice scrapes, squeaks, creaks.
+ICEHndl    | HANDLE                | MANIPULATION          | Ice handling, picking up ice. Some overlap with ICE-MOVEMENT possible.
+ICEImpt    | IMPACT                | IMPACT                | Pieces of ice dropping (without breaking). Ice hits, solid ice impacts that don't break.
+ICEMisc    | MISC                  | DIVERS                | Ice sounds not fitting another category in this list.
+ICEMvmt    | MOVEMENT              | MOUVEMENT             | Ice sliding or rattling, maybe an object sliding across ice. See also ICE-HANDLE.
+ICETonl    | TONAL                 | TONAL                 | Tonal ice sounds, probably fairly rare, but that ice ping on a frozen lake would be one example.

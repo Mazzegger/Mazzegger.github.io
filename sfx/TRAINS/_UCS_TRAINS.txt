@@ -1,0 +1,20 @@
+UCS v8.2.1 — TRAINS  (TRAINS)   CatShort : TRN
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. TRNBrake_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+TRNBrake   | BRAKE                 | FREIN                 | Screeching metalic train brake wheels, subway brakes. Usually a piercing sound.
+TRNClak    | CLACK                 | CLAQUEMENT            | Train clacks isolated, constant clacking of trains passing or running.
+TRNDoor    | DOOR                  | PORTE                 | Train doors, sliding doors in passenger or freight trains. Some overlap with general DOORS category and possibly VEHICLES-DOOR.
+TRNDiesl   | DIESEL                | DIÉSEL                | Freight trains, large commercial diesel locomotives.
+TRNElec    | ELECTRIC              | ÉLECTRIQUE            | Commuter trains, elevated trains, light rail, SUBWAYS have their own category.
+TRNHspd    | HIGH SPEED            | GRANDE VITESSE        | Hi-Tech trains, Maglev, monorails, Hyperloops, bullet trains.
+TRNHorn    | HORN                  | KLAXON                | Train horns, subway horns. A steam train whistle would likely go into WHISTLES-MECHANICAL.
+TRNInt     | INTERIOR              | INTÉRIEUR             | Interior trains, from Diesel to Commuter, onboard train sounds.
+TRNMech    | MECHANISM             | MÉCANISME             | Coupling, decoupling and other mechanical sounds relating to trains. Levers, coal tender mechanics that are specific to a train.
+TRNMisc    | MISC                  | DIVERS                | Train sounds not fitting another category in this list.
+TRNSteam   | STEAM                 | VAPEUR                | Old steam powered trains, big smoke stack chugs.
+TRNSbwy    | SUBWAY                | MÉTRO                 | Subways, overtly 'underground' sounding trains, above group city trains probably best in TRAINS-ELECTRIC
+TRNTram    | TRAM                  | TRAMWAY               | Trolleys, cable cars trams and streetcars. A Tram is 'pulled' along a cable, so not self-powered. An electric tram would go to TRAINS-ELECTRIC.

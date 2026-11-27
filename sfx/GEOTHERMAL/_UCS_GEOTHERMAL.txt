@@ -1,0 +1,12 @@
+UCS v8.2.1 — GEOTHERMAL  (GÉOTHERMIQUE)   CatShort : GEO
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. GEOFuma_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+GEOFuma    | FUMAROLE              | FUMEROLLE             | Geothermal steam vent. A hole, crack or fizzure releasing gases.
+GEOGeyser  | GEYSER                | GEYSER                | Geysers and eruptions, as you'd find in Yellowstone.
+GEOLava    | LAVA                  | LAVE                  | Lava flows, crackles, could be some overlap with FIRE, but overtly lava sounding things go here.
+GEOMisc    | MISC                  | DIVERS                | Geothermal sounds not fitting another category in this list.
+GEOMudpot  | MUD POTS              | MARE DE BOUE          | Mudpots and paint pots, popping liquidy mud sounds.

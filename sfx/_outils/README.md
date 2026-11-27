@@ -1,18 +1,19 @@
-# Outils d’extraction
+# Outils
 
-Scripts utilisés pour construire la bibliothèque (Python 3 : numpy, scipy, soundfile, librosa, opencv-python-headless, matplotlib ; ffmpeg).
+Python 3 : numpy, scipy, soundfile, librosa (+ opencv-python-headless, matplotlib, ffmpeg pour l’extraction).
 
-| Script | Rôle |
+## `synth/` — moteur de synthèse
+| Fichier | Rôle |
 |---|---|
-| `pano2.py` | Reconstruit la timeline d’une vidéo en panorama (slit-scan à la tête de lecture, défilement mesuré par corrélation de phase). |
-| `labels.py` | Détecte les changements de texte à l’écran (noms des sons affichés) et leurs horaires. |
-| `review.py` | Vue de contrôle : panorama + spectrogramme + enveloppe sur le même axe temporel. |
-| `cut.py` + `specs.json` | Découpe : début calé sur l’attaque, fin à l’extinction ou à la coupe, fondus, normalisation à −1 dBFS. |
-| `v12.py` | Extraction avec atténuation de musique de fond (soustraction spectrale). |
-| `dedupe.py` | Détection des doublons par corrélation croisée. |
-| `build.py` + `mapping.py` | Nommage, classement par catégorie, `catalogue.json`. |
-| `post.py` | Rognage des débuts silencieux, retrait de composante continue. |
-| `qc.py` | Contrôle qualité (crête, saturation, clics, silence en tête). |
-| `docs.py` | Génère `README.md` et `index.html` depuis le catalogue. |
+| `motionsynth.py` | Briques : bruits, filtres variables, oscillateurs (saw/square/supersaw, FM, cloches additives, Karplus-Strong), enveloppes, doppler, réverbération, bouclage, finalisation (−1 dBFS, fin propre). |
+| `families.py` | Les recettes : un son = une fonction décorée par `@add(famille, CatID, FXName, description)`. |
+| `render.py` | Rend toutes les recettes en WAV (vérifie les CatID contre la liste UCS). |
+| `ucs_map_extracted.py` | CatID / nom anglais / famille des sons extraits des vidéos. |
+| `build_ucs.py` | Assemble la bibliothèque : dossiers UCS, noms UCS, métadonnées WAV, `catalogue.json`, fiches des catégories, CSV UCS. |
+| `docs2.py` | Génère `README.md` et `index.html`. |
+| `sheets.py`, `steps.py` | Contrôle : planches de spectrogrammes, détection de coupures brutales. |
 
-Pour ajouter des vidéos : extraire l’audio en WAV 48 kHz, générer panorama + vue de contrôle, noter les segments dans `specs.json`, compléter `mapping.py`, puis relancer `cut.py` → `build.py` → `post.py` → `qc.py` → `docs.py`.
+Ajouter un son : écrire une recette dans `families.py` (CatID choisi dans `../_ucs/UCS_v8.2.1_liste_complete.csv`), puis `render.py` → `build_ucs.py` → `docs2.py`.
+
+## `extraction/` — extraction depuis des vidéos
+Reconstruction de la timeline (`pano2.py`), lecture des noms affichés (`labels.py`), vue de contrôle (`review.py`), découpe calée sur l’audio (`cut.py` + `specs.json`), atténuation de musique de fond (`v12.py`), doublons (`dedupe.py`), contrôle qualité (`qc.py`).

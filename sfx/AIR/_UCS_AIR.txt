@@ -1,0 +1,12 @@
+UCS v8.2.1 — AIR  (AIR)   CatShort : AIR
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. AIRBlow_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+AIRBlow    | BLOW                  | SOUFFLE               | Steady air blows, like from a compressed can of air.
+AIRBrst    | BURST                 | EXPULSION             | Sharp air releases, pressure releases, a tennis ball can popping open, a fire extinguisher
+AIRHiss    | HISS                  | SIFFLEMENT            | Slow air releases, a flat tire, leak in an air pipe.
+AIRMisc    | MISC                  | DIVERS                | Air sounds not fitting another category in this list.
+AIRSuck    | SUCTION               | ASPIRATION            | Air being sucked in, a vacuum sucking in air, the rush of air in a shopvac.

@@ -1,0 +1,11 @@
+UCS v8.2.1 — LASERS  (LASERS)   CatShort : LASR
+Sons dans ce dossier : 3
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. LASRBeam_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+LASRBeam   | BEAM                  | RAYON                 | Steady laser beams, not a laser gun. So a James Bond style laser, a scientific laser.
+LASRGun    | GUN                   | ARME                  | Classic laser guns, blasters, laser cannons. That thing that Ben Burtt made famous.
+LASRImpt   | IMPACT                | IMPACT                | Classic laser impact sounds, from blaster hits.
+LASRMisc   | MISC                  | DIVERS                | Laser sounds not fitting another category in this list.

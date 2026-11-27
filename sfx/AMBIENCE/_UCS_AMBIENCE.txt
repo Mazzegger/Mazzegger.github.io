@@ -1,0 +1,54 @@
+UCS v8.2.1 — AMBIENCE  (AMBIANCE)   CatShort : AMB
+Sons dans ce dossier : 3
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. AMBAir_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+AMBAir     | AIR                   | AIR                   | Quiet exterior 'air' with little activity, like exterior room tones, very simple exterior ambiences. The exterior equivalent of a room tone. If noticable activity find a better fitting category.
+AMBAlpn    | ALPINE                | MONTAGNE              | Mountain ambiences, for recordings and ambiences geographically linked to Alpine Environments. Some overlap with AMBIENCE-RURAL.
+AMBAmus    | AMUSEMENT             | ATTRACTION            | Theme parks and carnivals. Beware of possible rights issues with uncleared music. Carnivals, fairs, festivals. Probably arcades too.
+AMBBird    | BIRDSONG              | OISEAUX               | Group songbirds, like a dawn chorus of pretty birds, where the birds are the prominent sound. Single birds would go in BIRDS-SONGBIRD.
+AMBCele    | CELEBRATION           | FESTIVE               | Parties, New Years Eve. Not pure crowds, as that would go in CROWDS, but i.e. exterior city new years. Also see AMBIENCES-AMUSEMENT for something like a fair or festival.
+AMBCnst    | CONSTRUCTION          | CHANTIER              | Construction scenes with things like jackhammers, cranes, pile drivers, composite construction scene, road construction also.
+AMBDsrt    | DESERT                | DÉSERT                | Quiet desert ambiences with appropriate insects and birds. Maybe tumbleweeds.
+AMBDsgn    | DESIGNED              | DESIGN                | Artificial designed ambience. V8.2 adds AMBIENCE-FANTASY and AMBIENCE-SCIFI which may be better fit for most 'designed' categories.
+AMBEmrg    | EMERGENCY             | URGENCE               | Crime scenes, firefighting scenes, accident scenes, with things like firefighters, police, ambulances and medics. Also see VEHICLES-EMERGENCY.
+AMBFant    | FANTASY               | FANTASTIQUE           | Magical or other wordly composite ambiences, soundscapes, think Middle Earth or Pandora.
+AMBFarm    | FARM                  | FERME                 | Specifically farm ambiences, with animals, maybe tractors working, chickens, etc. Isolated farm animals would go into ANIMALS-FARM.
+AMBForst   | FOREST                | FORÊT                 | Forest recordings or forest composite files. Trees and birds, maybe wind in trees all together. Some overlap with AMBIENCE-RURAL or AMBIENCE-ALPINE.
+AMBGras    | GRASSLAND             | PLAINE                | Prairies, meadows, grazing patures, etc. But FARMS has own category if farm animals or human activity are present.
+AMBHist    | HISTORICAL            | HISTORIQUE            | Old West scenes, Roman street scenes. Composite history and ancient ambiences.
+AMBTech    | HITECH                | HIGH TECH             | Hi-tech machine rooms. Data centers, control rooms. James Bond type lairs. Spaceship interiors.
+AMBHosp    | HOSPITAL              | HÔPITAL               | Hospital ambiences of all kinds, surgery and emergency rooms too. Possibly veterinarian hospitals too.
+AMBInd     | INDUSTRIAL            | INDUSTRIEL            | Industrial warehouses and factories, plants or any ambience with an industrial feeling.
+AMBInsc    | INSECT                | INSECTE               | Thick ambiences of insects, cicada and cricket beds mainly. May contain over sounds but main sound being large presence of insects. See also ANIMALS-INSECT for more isolated sounds.
+AMBLake    | LAKESIDE              | LAC                   | Ambiences relating to lakes, not isolated lapping, but the lake version of AMBIENCE-SEASIDE. See also WATER-LAPPING.
+AMBMrkt    | MARKET                | MARCHÉ                | Busy exterior or interior market activity and crowds. Think vibrant international markets in Istanbul or Africa, but any market.
+AMBMisc    | MISC                  | DIVERS                | Ambience sounds not fitting another category in this list.
+AMBNaut    | NAUTICAL              | NAUTIQUE              | Relating to ships at sea, shipyards, things revolving around ships. (compare to AMBIENCE-SEASIDE). Water only recordings would go to a WATER category.
+AMBOffc    | OFFICE                | BUREAU                | Workplaces, offices, people working, typing, telephones. General offices of various sizes.
+AMBPark    | PARK                  | PARC                  | Parks, mostly city or suburban, probably usually with some human activity, city activity. Not pure nature sounds.
+AMBPrisn   | PRISON                | PRISON                | Prisons and jails, reverberant inmate walla, jail doors, buzzers, that sort of thing.
+AMBPrtst   | PROTEST               | MANIFESTATION         | Protests, Rallies, Riots. Big mixed ambiences of crowds, shouting, yelling, chanting. Opposed to AMBIENCE-CHEERING.
+AMBPubl    | PUBLIC PLACE          | LIEU PUBLIC           | Except for restaurants, for any other usually indoor public places such as stores, lobbies, hotels, malls, museums. Lots of possible overlap with other categories. Use if not fitting elsewhere.
+AMBRlgn    | RELIGIOUS             | RELIGIEUX             | Church and temples, church services, religious gatherings, pilgrimages. Any ambience relating to religion.
+AMBHome    | RESIDENTIAL           | RÉSIDENTIEL           | Something busier than a room tone, an Apartment, a House with some activity from outside etc. Interior with exterior sounds coming through closed or open doors, windows.
+AMBRest    | RESTAURANT & BAR      | RESTAURANT            | Restaurants and bars, pubs, places of eating and drinking, mixed crowd with glass clinks or silverware.
+AMBRoom    | ROOM TONE             | FOND D’AIR            | Simple room tones with little or no activity. Also see now AMBIENCE-RESIDENTIAL if more than just air is present, as it might be a better fit.
+AMBRurl    | RURAL                 | CAMPAGNE              | Rural and countryside ambiences that don't fit somewhere else in this list. Nature, away from signs of people, overlap with AMBIENCE-ALPINE, DESERT, FOREST, PRAIRIE, etc.
+AMBSchl    | SCHOOL                | ÉCOLE                 | Schools of any age, kindergarten through college, hallways, lockers, voices, school bells.
+AMBSci     | SCIFI                 | SCIFI                 | A composite sci-fi ambience, a complex background layered with many sci-fi elements. A complex spacehip bridge, or high-tech lab. See also SCIFI for individual elements.
+AMBSea     | SEASIDE               | LITTORAL              | Relating to beach and oceanside scenes with people. (Compare to AMBIENCE-NAUTICAL). Water only recordings would go to a WATER category.
+AMBSprt    | SPORT                 | SPORT                 | Sporting events, little league baseball to major league. Use CROWDS-SPORT for clean crowd recordings.
+AMBSubn    | SUBURBAN              | BANLIEUE              | Suburban streets, average residential neighborhood, not dense like URBAN. Lawnmowers, sprinklers, birds.
+AMBSwmp    | SWAMP                 | MARÉCAGE              | A wetland often partially or intermittently covered with water; especially : one dominated by woody vegetation. Marshes, although tecnically different, are included here. Any wetland.
+AMBTown    | TOWN                  | VILLAGE               | Something in between a CITY and a SUBURB. Activity, cars, pedestrians, that 'small town' or village sound. May be confusion between this, AMBIENCE-URBAN and AMBIENCE-SUBURBAN.
+AMBTraf    | TRAFFIC               | CIRCULATION           | Specifically traffic without people. Not for a single car by, but for clean busy traffic, clean highway traffic for example. Rush hour where the sound is predominantly cars.
+AMBTran    | TRANSPORTATION        | TRANSPORT             | Not VEHICLES, but public train stations, airports, bus stations, subway stations. Not the airplane or train itself. But public places centering around transportation.
+AMBTrop    | TROPICAL              | TROPICAL              | Jungles and rainforests, lush animal life and vegetation.
+AMBTndra   | TUNDRA                | TOUNDRA               | Treeless environments where the ground is permanently frozen, arctic, antarctic.
+AMBUndr    | UNDERGROUND           | SOUTERRAIN            | Subterranean, underground ambiences like sewers, bunkers, tunnels, dungeons, caves.
+AMBUndwtr  | UNDERWATER            | SOUS MARIN            | Underwater sounding ambiences, deep bubbles and that classic undersea world sound. See also WATER-UNDERWATER.
+AMBUrbn    | URBAN                 | VILLE                 | Dense cities and environments. New York City or London or Mumbai. Often Dense Traffic, horns, pedestrians, buses, but really any city. Overlap with AMBIENCE-TOWN possible.
+AMBWar     | WARFARE               | GUERRE                | Battles, warfare, full ambiences here. Not for isolated WEAPONS or VEHICLES which have their own categories. Composite sounds of war.

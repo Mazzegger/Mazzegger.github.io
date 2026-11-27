@@ -1,0 +1,15 @@
+UCS v8.2.1 — WOOD  (BOIS)   CatShort : WOOD
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. WOODBrk_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+WOODBrk    | BREAK                 | CASSE                 | Wood breaks, shatters, cracks, crunches. Any destruction of wood that breaks the piece.
+WOODCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Group wood crashes and debris, and pieces falling, as in after an explosion.
+WOODFric   | FRICTION              | FRICTION              | Wood stress, especially creaks. But also scrapes, squeaks.
+WOODHndl   | HANDLE                | MANIPULATION          | Handling a wooden object, picking up, setting down, etc. Some overlap or confusion with WOOD-MOVEMENT.
+WOODImpt   | IMPACT                | IMPACT                | Singular wood hits, drops, impacts, board hits. Group wood destruction goes into CRASH. Resonant wood bonks or hits. Hitting your head on a doorframe.
+WOODMisc   | MISC                  | DIVERS                | Wood sounds not fitting another category in this list.
+WOODMvmt   | MOVEMENT              | MOUVEMENT             | Wood movement including rattles, drag, slides, rolls. Group pieces of wood moving together.
+WOODTonl   | TONAL                 | TONAL                 | Tonal bowed wood sounds, ringing wood.

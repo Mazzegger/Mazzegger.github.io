@@ -1,0 +1,11 @@
+UCS v8.2.1 — CLOCKS  (HORLOGES)   CatShort : CLOCK
+Sons dans ce dossier : 4
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. CLOCKChim_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+CLOCKChim  | CHIME                 | CARILLON              | Chimes, bells specifically for a clock, Grandfather clock chimes. Alarm clocks would go to ALARMS-CLOCK.
+CLOCKMech  | MECHANICS             | MÉCANISME             | Clocks winding, complex mechanical clock mechanisms.
+CLOCKMisc  | MISC                  | DIVERS                | Clock sounds not fitting another category in this list. Also see ALARMS-CLOCK
+CLOCKTick  | TICK                  | TIC TAC               | Analog ticking clocks and watches of all sizes, also mechanical stop watches.

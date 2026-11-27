@@ -1,0 +1,16 @@
+UCS v8.2.1 — SPORTS  (SPORTS)   CatShort : SPRT
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. SPRTCourt_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+SPRTCourt  | COURT                 | COURT                 | Sports played on a court indoors or out, such a basketball, tennis.
+SPRTField  | FIELD                 | TERRAIN               | Sports played on a field outdoors such as soccer and football.
+SPRTGym    | GYM                   | GYMNASE               | Sports played or performed primarily in a gym and/or ring, such as boxing, wrestling, gymnastics. See also SPORTS-INDOOR.
+SPRTIndor  | INDOOR                | EN SALLE              | Various indoor sports not able to be categorized elsewhere.
+SPRTMisc   | MISC                  | DIVERS                | Sport sounds not fitting another category in this list.
+SPRTSkate  | SKATE                 | SKATE                 | Wheeled skating sports like skateboarding or roller skating, rollerblading.
+SPRTTrck   | TRACK & FIELD         | ATHLÉTISME            | Track and field sports, as in running, long jump, pole vault. Think common summer Olympic games.
+SPRTWatr   | WATER                 | NAUTIQUE              | Sports played in or on water, swimming, diving. Aquatic sports.
+SPRTWntr   | WINTER                | D'HIVER               | Sports on snow or ice such as hockey, ice skating, snowboard and skiing.

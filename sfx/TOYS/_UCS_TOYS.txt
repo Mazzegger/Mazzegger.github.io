@@ -1,0 +1,10 @@
+UCS v8.2.1 — TOYS  (JOUETS)   CatShort : TOY
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. TOYElec_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+TOYElec    | ELECTRONIC            | ÉLECTRONIQUE          | Remote controlled car, slot cars. Any kids toy that required power. See also AIRCRAFT-REMOTE CONTROLLED.
+TOYMech    | MECHANICAL            | MÉCANIQUE             | Wind up robots, things like that. Toys with some mechanism or mechanical component.
+TOYMisc    | MISC                  | DIVERS                | Toy sounds not fitting another category in this list.

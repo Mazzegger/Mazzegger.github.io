@@ -1,0 +1,18 @@
+UCS v8.2.1 — WEAPONS  (ARMES)   CatShort : WEAP
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. WEAPArmr_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+WEAPArmr   | ARMOR                 | ARMURE                | Knights armor movement, hits. Shields, chainmail armor, leather armor with buckles.
+WEAPArro   | ARROW                 | FLÈCHE                | Arrow slides, arrow impacts. An arrow by would likely be a SWOOSHES-SWISH. See also WEAPONS-BOW.
+WEAPAxe    | AXE                   | HACHE                 | Specifically a weaponized ax. Possible overlap with WEAPONS-SWORD or even WEAPON-POLEARM.
+WEAPBlnt   | BLUNT                 | CONTONDANTE           | Blunt weapons, like maces and flails, but also nightsticks.
+WEAPBow    | BOW                   | ARC                   | Bows and Crossbows, articulation, twangs, bolts being loaded. Bow releases. See also WEAPON-ARROW.
+WEAPKnif   | KNIFE                 | COUTEAU               | Smaller knives, WEAPONS-SWORDS has it own subcategory here.
+WEAPMisc   | MISC                  | DIVERS                | Weapon sounds not fitting another category in this list.
+WEAPPole   | POLEARM               | LANCE & ÉPIEU         | A long spear or long poled weapon with sharp components at the end, like a harpoon.
+WEAPSiege  | SIEGE                 | SIÈGE                 | A siege weapon is a device designed to break or circumvent fortifications, catapults, trebuchets. Ancient artillery.
+WEAPSwrd   | SWORD                 | ÉPÉE                  | Swords, clashing, parrying. Sword rings and hits. STABS would go to GORE category. Sword draws, shings.
+WEAPWhip   | WHIP                  | FOUET                 | Whip cracks. Make Indiana Jones proud.

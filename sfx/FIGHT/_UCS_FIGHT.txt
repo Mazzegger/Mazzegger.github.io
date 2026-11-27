@@ -1,0 +1,12 @@
+UCS v8.2.1 — FIGHT  (COMBAT)   CatShort : FGHT
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. FGHTBf_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+FGHTBf     | BODYFALL              | CHUTE                 | Bodyfalls, but probably also body scuffles on ground, from simple to complex. On any surface.
+FGHTClth   | CLOTH                 | TISSUS                | Active or big scuffling cloth, big fight cloth movement.
+FGHTGrab   | GRAB                  | SAISIE                | Big arm grabs, hand or arm blocks as well as they're similar sounds, grappling during wrestling or martial arts.
+FGHTImpt   | IMPACT                | IMPACT                | Fight impacts, blocks, kicks and punches. BODYFALLS has its own subcategory here, as do GRABS.
+FGHTMisc   | MISC                  | DIVERS                | Fight sounds not fitting another category in this list.

@@ -1,0 +1,19 @@
+UCS v8.2.1 — MECHANICAL  (MÉCANISMES)   CatShort : MECH
+Sons dans ce dossier : 5
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. MECHClik_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+MECHClik   | CLICK                 | CLIC                  | Short clicks, could be from button presses, things like that. Some confusion and overlap with MECHANICAL-SWITCH.
+MECHGear   | GEARS                 | ENGRENAGE             | A toothed cog, turning or grinding gears, complex gear mechanisms. Small clock gears would go in CLOCKS-MECHANICS.
+MECHHydr   | HYDRAULIC & PNEUMATIC | HYDRAULIQUE & PNEUMATIQUE| Various hydraulic or pneumatic sounds, like on a self-closing door. Isolated hydraulics and pneumatics. See also DOORS-HYDRAULIC & PNEUMATIC for a complete door.
+MECHLtch   | LATCH                 | LOQUET                | Latch, as in a briefcase latch, or a luggage latch.
+MECHLvr    | LEVER                 | LEVIER                | A sliding or switching lever. Train track lever, lever to turn on an electric chair. Old Frankenstein machine levers, breaker levers.
+MECHLock   | LOCK                  | VERROU                | A padlock, bicycle lock, or a locking mechanism. Door locks to go into DOORS-HARDWARE.
+MECHMisc   | MISC                  | DIVERS                | Mechanical sounds not fitting another category in this list.
+MECHPuly   | PULLEY                | POULIE                | An isolated recording of a pulley, or system of pulleys.
+MECHRtch   | RATCHET               | CLIQUET               | That sound a ratchet makes.
+MECHRelay  | RELAY                 | RELAIS                | Old train station counting board flipping. A old communications relay board.
+MECHRolr   | ROLLER                | ROULEMENT             | Like a rolling conveyor belt, or something on a roller.
+MECHSwtch  | SWITCH                | INTERRUPTEUR          | Basic and heavy switches, light switches, power switches. Some overlap or confusion with MECHANICAL-CLICK.

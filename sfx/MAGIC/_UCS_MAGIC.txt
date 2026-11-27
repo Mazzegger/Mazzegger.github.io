@@ -1,0 +1,14 @@
+UCS v8.2.1 — MAGIC  (MAGIE)   CatShort : MAG
+Sons dans ce dossier : 7
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. MAGAngl_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+MAGAngl    | ANGELIC               | BLANCHE               | Angelic, Holy, Benevolent magic. The opposite of evil. Think choral tones and healing magic.
+MAGElem    | ELEMENTAL             | ÉLÉMENTAIRE           | Magic centered around elements, fire, water, ice. Think the movie Frozen type stuff.
+MAGEvil    | EVIL                  | NOIRE                 | Evil magic, ominous, dark magic. Voldemort type stuff.
+MAGMisc    | MISC                  | DIVERS                | Magic sounds not fitting another category in this list.
+MAGPoof    | POOF                  | POUF                  | Shorter magic phrases, often for transforming, short 'turn you into a rabbit' type stuff.
+MAGShim    | SHIMMER               | SCINTILLEMENT         | Glassy or chime-like shimmers, waves of particle type magic.
+MAGSpel    | SPELL                 | SORT                  | Something complex for a spell being cast. Think Maleficent swirling green magic or weird vocal-ish spells.

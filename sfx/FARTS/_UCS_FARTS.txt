@@ -1,0 +1,10 @@
+UCS v8.2.1 — FARTS  (PETS)   CatShort : FART
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. FARTDsgn_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+FARTDsgn   | DESIGNED              | DESIGN                | Fake or designed farts, whoopie cushion, flarp, mouth farts.
+FARTMisc   | MISC                  | DIVERS                | Fart sounds not fitting another category in this list.
+FARTReal   | REAL                  | RÉEL                  | Real recordings of farts.

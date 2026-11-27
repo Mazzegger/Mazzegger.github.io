@@ -1,0 +1,20 @@
+UCS v8.2.1 — COMMUNICATIONS  (COMMUNICATIONS)   CatShort : COM
+Sons dans ce dossier : 4
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. COMAv_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+COMAv      | AUDIO VISUAL          | AUDIOVISUEL           | Various AV devices such a projector or tape recorder, video cameras here too. Some overlap or confusion with COMMUNICATIONS-CAMERA.
+COMCam     | CAMERA                | APPAREIL PHOTO        | Still camera shutters, automatic winding, old flash-bulbs. Movie and video cameras to COMMUNICATIONS-AV.
+COMCell    | CELLPHONE             | PORTABLE              | Cellphones and Smartphones., clicks and rings, tones.
+COMMic     | MICROPHONE            | MICROPHONE            | Feedback and mic bumps and handling. Megaphones would go here too.
+COMMisc    | MISC                  | DIVERS                | Communication sounds not fitting another category in this list.
+COMPhono   | PHONOGRAPH            | PHONOGRAPHE           | Turntable, Victrola, motors and mechanics. STATIC has its own subcategory here.
+COMRadio   | RADIO                 | RADIO                 | Tuning, radio and shortwave sounds. STATIC has its own subcategory here. A radio broadcast would go here too. Overlap with VOICES-FUTZED.
+COMStatic  | STATIC                | PARASITES             | Static from any electronic source, radio, CB, television, optical noise, phonograph noise.
+COMTelm    | TELEMETRY             | TÉLÉMÉTRIE            | Fax machine tones, modem tones, telegraph, teletype. UI is it's own category
+COMTelph   | TELEPHONE             | TÉLÉPHONE             | Old school rotary dial and digital telephones. Technically any telephone that isn't a mobile or cell phone.
+COMTv      | TELEVISION            | TÉLÉVISION            | Television programs, on and off, channel changes, TV Remote controls. STATIC has its own subcategory here. A television broadcast would go here too. Overlap with VOICES-FUTZED.
+COMTran    | TRANSCEIVER           | TALKIE WALKIE         | Walkie Talkies, CBs, Ham Radios, all two-way transceivers and radios go here. Put voices into VOICES-FUTZED.
+COMType    | TYPEWRITER            | MACHINE À ÉCRIRE      | Old school typewriters, not modern computer keyboards.

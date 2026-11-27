@@ -1,0 +1,14 @@
+UCS v8.2.1 — RUBBER  (CAOUTCHOUC)   CatShort : RUBR
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. RUBRCrsh_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+RUBRCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Rubber items crashing, or rubber debris landing.
+RUBRFric   | FRICTION              | FRICTION              | Rubber squeaks, balloon squeaks, a rubber shoe squeak.
+RUBRHndl   | HANDLE                | MANIPULATION          | Rubber handling, rubber objects being manipulated or handled. Some overlap with RUBBER-MOVEMENT
+RUBRImpt   | IMPACT                | IMPACT                | Rubber impacts, drops, bounces. Hitting a balloon or rubber ball.
+RUBRMisc   | MISC                  | DIVERS                | Rubber sounds not fitting another category in this list.
+RUBRMvmt   | MOVEMENT              | MOUVEMENT             | Rubber movement, dragging rubber or drag on rubber. Rubber flapping. See also RUBBER-HANDLE.
+RUBRTonl   | TONAL                 | TONAL                 | Rubber movement with a tonal quality, a musical quality.
