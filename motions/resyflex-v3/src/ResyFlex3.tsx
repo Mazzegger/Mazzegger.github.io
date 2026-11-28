@@ -63,7 +63,7 @@ const Cuts: React.FC = () => {
       <KenBurns src={img} t0={t0} dur={0.5} from={1.3} to={1.12} dx={dir * 30} />
       <AbsoluteFill style={{background: word ? 'rgba(11,13,18,0.45)' : 'linear-gradient(180deg, rgba(0,0,0,0) 55%, rgba(0,0,0,0.7))'}} />
     </AbsoluteFill> : <DarkBG />}
-    {word && <Box y={i >= 6 ? (i === 6 ? 760 : 760) : 840}><Kinetic text={word} t0={t0} size={i === 7 ? 96 : word.length > 8 ? 140 : 160} color={i >= 6 ? (i === 6 ? WHITE : OR) : WHITE} stagger={0.016} /></Box>}
+    {word && <Box y={i >= 6 ? (i === 6 ? 760 : 760) : 840}><Kinetic text={word} t0={t0} size={i === 7 ? 70 : word.length > 8 ? 140 : 160} color={i >= 6 ? (i === 6 ? WHITE : OR) : WHITE} stagger={0.016} /></Box>}
     {i === 7 && <Box y={650}><Kinetic text="Liberté," t0={E.cutBeats[6]} size={120} stagger={0} /></Box>}
     {city && <div style={{position: 'absolute', left: 70, top: 1330, display: 'flex', alignItems: 'center', gap: 14, padding: '16px 28px', borderRadius: 50, background: 'rgba(255,255,255,0.95)',
       transform: `translateY(${(1 - k) * 40}px)`, opacity: k}}><Icon n="pin" s={40} c={OR} w={2.6} /><span style={{fontFamily: HEAD, fontWeight: 800, fontSize: 44, color: INK}}>{city}</span></div>}
@@ -185,19 +185,19 @@ const Stay: React.FC = () => {
     {rays > 0 && <AbsoluteFill style={{background: `conic-gradient(from ${t * 20}deg at ${CX}px 1000px, ${Array.from({length: 12}, (_, i) => `rgba(255,200,110,${i % 2 ? 0 : 0.22 * rays}) ${i * 30}deg ${(i + 1) * 30}deg`).join(',')})`, mixBlendMode: 'screen'}} />}
     <Box y={240}><Kinetic text="Arrivée validée" t0={SC.qr[0] + 0.1} size={80} stagger={0.02} /></Box>
     <Box y={340}><Kinetic text="par QR Code" t0={SC.qr[0] + 0.3} size={60} color={OR} weight={800} stagger={0.02} /></Box>
-    <Phone3D x={CX} y={1010 + (1 - inK) * 700} w={430} ry={(1 - inK) * 40 + 6 * Math.sin((t - SC.qr[0]) * 1.1)} rx={(1 - inK) * 10}>
+    <Phone3D x={CX} y={960 + (1 - inK) * 700} w={400} ry={(1 - inK) * 40 + 6 * Math.sin((t - SC.qr[0]) * 1.1)} rx={(1 - inK) * 10}>
       <AbsoluteFill style={{background: ok ? '#ecfdf3' : WHITE, display: 'flex', flexDirection: 'column', alignItems: 'center', paddingTop: 150, fontFamily: BODY}}>
         <Img src={staticFile('img/logo-full.png')} style={{width: 230}} />
         <div style={{marginTop: 50, position: 'relative', padding: 18, borderRadius: 24, border: `6px solid ${ok ? GREEN : '#e5e7eb'}`, background: WHITE}}>
           <QR t={t} build={E.qrBuild} />
           {sk > 0 && sk < 1 && <div style={{position: 'absolute', left: -10, right: -10, top: 18 + 294 * sk - 3, height: 6, background: OR, boxShadow: '0 0 26px 8px rgba(245,144,30,0.7)', borderRadius: 3}} />}
         </div>
-        <div style={{marginTop: 40, fontFamily: HEAD, fontWeight: 800, fontSize: 34, color: ok ? GREEN : INK}}>{ok ? 'Réservation validée ✓' : 'Votre QR Code'}</div>
+        <div style={{marginTop: 40, fontFamily: HEAD, fontWeight: 800, fontSize: 30, color: ok ? GREEN : INK, whiteSpace: 'nowrap'}}>{ok ? 'Réservation validée ✓' : 'Votre QR Code'}</div>
       </AbsoluteFill>
     </Phone3D>
-    {t >= E.welcome && <Box y={1470} style={{zIndex: 10}}><Kinetic text="Bienvenue chez vous" t0={E.welcome} size={66} color={GOLD} stagger={0.018} /></Box>}
-    <Ring t0={E.scanOk} y={1000} r={700} c={GREEN} />
-    <Particles t0={E.scanOk} y={1000} n={36} colors={[GREEN, GOLD, WHITE]} dist={560} seed={33} />
+    {t >= E.welcome && <Box y={1418} style={{zIndex: 10}}><Kinetic text="Bienvenue chez vous" t0={E.welcome} size={62} color={GOLD} stagger={0.018} /></Box>}
+    <Ring t0={E.scanOk} y={960} r={700} c={GREEN} />
+    <Particles t0={E.scanOk} y={960} n={36} colors={[GREEN, GOLD, WHITE]} dist={560} seed={33} />
   </AbsoluteFill>;
 };
 
@@ -211,7 +211,7 @@ const Trust: React.FC = () => {
     <AbsoluteFill style={{background: `radial-gradient(circle at 50% 45%, rgba(255,255,255,${bg === INK ? 0.06 : 0.22}), transparent 60%)`}} />
     <Box y={560}>
       <div style={{width: 230, height: 230, borderRadius: 70, background: bg === OR ? INK : OR, display: 'flex', alignItems: 'center', justifyContent: 'center', transform: `scale(${k}) rotate(${(1 - k) * -25}deg)`}}><Icon n={ic} s={140} c={WHITE} w={2.2} /></div>
-      <div style={{marginTop: 50, fontFamily: HEAD, fontWeight: 900, fontSize: 150, color: fg, lineHeight: 1, transform: `scale(${0.6 + 0.4 * k})`}}>{a}</div>
+      <div style={{marginTop: 50, fontFamily: HEAD, fontWeight: 900, fontSize: a.length > 8 ? 122 : 150, color: fg, lineHeight: 1, transform: `scale(${0.6 + 0.4 * k})`}}>{a}</div>
       <div style={{marginTop: 10, fontFamily: HEAD, fontWeight: 900, fontSize: b.length > 12 ? 68 : 104, color: ac, lineHeight: 1, transform: `translateY(${(1 - k) * 60}px)`}}>{b}</div>
     </Box>
   </AbsoluteFill>;
