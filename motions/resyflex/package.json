@@ -1,0 +1,20 @@
+{
+  "name": "resyflex-motion",
+  "private": true,
+  "scripts": {
+    "audio": "python3 audio/build_audio.py src/timeline.json ../../sfx ../../sfx/_outils/synth public/audio/mix.wav",
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts ResyFlex ResyFlex_motion.mp4 --codec=h264 --crf=18 --audio-codec=aac --audio-bitrate=256k"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/poppins": "^5.3.0",
+    "@remotion/cli": "^4.0.547",
+    "@types/react": "^19.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.547",
+    "typescript": "^7.0.2"
+  },
+  "devDependencies": {}
+}

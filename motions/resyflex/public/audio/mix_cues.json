@@ -1,0 +1,586 @@
+[
+ {
+  "file": "CARTOON/TOONPop_Pop High_MotionSynth_MotionLib.wav",
+  "cue": 0.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 0.25,
+  "gain_db": -14
+ },
+ {
+  "file": "CARTOON/TOONPop_Pop High_MotionSynth_MotionLib.wav",
+  "cue": 0.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 0.5,
+  "gain_db": -14
+ },
+ {
+  "file": "CARTOON/TOONPop_Pop High_MotionSynth_MotionLib.wav",
+  "cue": 1.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 1.0,
+  "gain_db": -14
+ },
+ {
+  "file": "CARTOON/TOONPop_Pop High_MotionSynth_MotionLib.wav",
+  "cue": 1.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 1.5,
+  "gain_db": -14
+ },
+ {
+  "file": "DESIGNED/DSGNRise_Noise Riser 2s_MotionSynth_MotionLib.wav",
+  "cue": 4.0,
+  "mode": "end",
+  "sync": 2.0,
+  "placed": 2.0,
+  "gain_db": -10
+ },
+ {
+  "file": "DESIGNED/DSGNWhsh_Fast Pass By_MotionSynth_MotionLib.wav",
+  "cue": 2.0,
+  "mode": "peak",
+  "sync": 0.114,
+  "placed": 1.886,
+  "gain_db": -11
+ },
+ {
+  "file": "DESIGNED/DSGNImpt_Snap Hit Tight_MotionSynth_MotionLib.wav",
+  "cue": 2.0,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 2.0,
+  "gain_db": -10
+ },
+ {
+  "file": "DESIGNED/DSGNWhsh_Fast Pass By_MotionSynth_MotionLib.wav",
+  "cue": 2.5,
+  "mode": "peak",
+  "sync": 0.114,
+  "placed": 2.386,
+  "gain_db": -11
+ },
+ {
+  "file": "DESIGNED/DSGNImpt_Snap Hit Tight_MotionSynth_MotionLib.wav",
+  "cue": 2.5,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 2.5,
+  "gain_db": -10
+ },
+ {
+  "file": "DESIGNED/DSGNWhsh_Fast Pass By_MotionSynth_MotionLib.wav",
+  "cue": 3.0,
+  "mode": "peak",
+  "sync": 0.114,
+  "placed": 2.886,
+  "gain_db": -11
+ },
+ {
+  "file": "DESIGNED/DSGNImpt_Snap Hit Tight_MotionSynth_MotionLib.wav",
+  "cue": 3.0,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 3.0,
+  "gain_db": -10
+ },
+ {
+  "file": "DESIGNED/DSGNStngr_Whoosh Hit Logo_MotionSynth_MotionLib.wav",
+  "cue": 4.0,
+  "mode": "hit",
+  "sync": 0.382,
+  "placed": 3.618,
+  "gain_db": -3
+ },
+ {
+  "file": "DESIGNED/DSGNBoom_Boom Deep Short_MotionSynth_MotionLib.wav",
+  "cue": 4.0,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 4.0,
+  "gain_db": -7
+ },
+ {
+  "file": "MAGIC/MAGShim_Twinkle_MotionSynth_MotionLib.wav",
+  "cue": 5.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 5.0,
+  "gain_db": -12
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav",
+  "cue": 6.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 6.0,
+  "gain_db": -9
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav",
+  "cue": 6.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 6.5,
+  "gain_db": -9
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav",
+  "cue": 7.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 7.0,
+  "gain_db": -9
+ },
+ {
+  "file": "SWOOSHES/WHSH_Air Whoosh Short_MotionSynth_MotionLib.wav",
+  "cue": 7.5,
+  "mode": "peak",
+  "sync": 0.182,
+  "placed": 7.318,
+  "gain_db": -7
+ },
+ {
+  "file": "DESIGNED/DSGNImpt_Snap Hit Tight_MotionSynth_MotionLib.wav",
+  "cue": 7.5,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 7.5,
+  "gain_db": -12
+ },
+ {
+  "file": "SWOOSHES/WHSH_Air Whoosh Short_MotionSynth_MotionLib.wav",
+  "cue": 16.0,
+  "mode": "peak",
+  "sync": 0.182,
+  "placed": 15.818,
+  "gain_db": -7
+ },
+ {
+  "file": "DESIGNED/DSGNImpt_Snap Hit Tight_MotionSynth_MotionLib.wav",
+  "cue": 16.0,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 16.0,
+  "gain_db": -12
+ },
+ {
+  "file": "SWOOSHES/WHSH_Air Whoosh Short_MotionSynth_MotionLib.wav",
+  "cue": 25.0,
+  "mode": "peak",
+  "sync": 0.182,
+  "placed": 24.818,
+  "gain_db": -7
+ },
+ {
+  "file": "DESIGNED/DSGNImpt_Snap Hit Tight_MotionSynth_MotionLib.wav",
+  "cue": 25.0,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 25.0,
+  "gain_db": -12
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Slide In Soft_MotionSynth_MotionLib.wav",
+  "cue": 8.25,
+  "mode": "peak",
+  "sync": 0.27,
+  "placed": 7.98,
+  "gain_db": -10
+ },
+ {
+  "file": "USER INTERFACE/UIData_Text Typing Screen_MotionSynth_MotionLib.wav",
+  "cue": 8.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 8.5,
+  "gain_db": -14
+ },
+ {
+  "file": "CARTOON/TOONPop_Bubble Pop_MotionSynth_MotionLib.wav",
+  "cue": 9.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 9.5,
+  "gain_db": -13
+ },
+ {
+  "file": "CARTOON/TOONPop_Bubble Pop_MotionSynth_MotionLib.wav",
+  "cue": 9.625,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 9.625,
+  "gain_db": -14
+ },
+ {
+  "file": "CARTOON/TOONPop_Bubble Pop_MotionSynth_MotionLib.wav",
+  "cue": 9.75,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 9.75,
+  "gain_db": -13
+ },
+ {
+  "file": "CARTOON/TOONPop_Bubble Pop_MotionSynth_MotionLib.wav",
+  "cue": 9.875,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 9.875,
+  "gain_db": -14
+ },
+ {
+  "file": "CARTOON/TOONPop_Bubble Pop_MotionSynth_MotionLib.wav",
+  "cue": 10.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 10.0,
+  "gain_db": -13
+ },
+ {
+  "file": "CARTOON/TOONPop_Bubble Pop_MotionSynth_MotionLib.wav",
+  "cue": 10.125,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 10.125,
+  "gain_db": -14
+ },
+ {
+  "file": "CARTOON/TOONPop_Bubble Pop_MotionSynth_MotionLib.wav",
+  "cue": 10.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 10.25,
+  "gain_db": -13
+ },
+ {
+  "file": "USER INTERFACE/UIClick_Toggle On_MotionSynth_MotionLib.wav",
+  "cue": 10.75,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 10.75,
+  "gain_db": -10
+ },
+ {
+  "file": "SWOOSHES/SWSH_Swish Soft_MotionSynth_MotionLib.wav",
+  "cue": 11.0,
+  "mode": "peak",
+  "sync": 0.098,
+  "placed": 10.902,
+  "gain_db": -12
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Card Swipe Short_SurajET_SurajSFX06.wav",
+  "cue": 12.0,
+  "mode": "peak",
+  "sync": 0.08,
+  "placed": 11.92,
+  "gain_db": -9
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Card Swipe Short_SurajET_SurajSFX06.wav",
+  "cue": 13.0,
+  "mode": "peak",
+  "sync": 0.08,
+  "placed": 12.92,
+  "gain_db": -9
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Card Swipe Short_SurajET_SurajSFX06.wav",
+  "cue": 14.0,
+  "mode": "peak",
+  "sync": 0.08,
+  "placed": 13.92,
+  "gain_db": -9
+ },
+ {
+  "file": "DESIGNED/DSGNImpt_Punch Hit Short_MotionSynth_MotionLib.wav",
+  "cue": 14.5,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 14.5,
+  "gain_db": -6
+ },
+ {
+  "file": "USER INTERFACE/UIAlert_Notification Ding_MotionSynth_MotionLib.wav",
+  "cue": 15.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 15.0,
+  "gain_db": -11
+ },
+ {
+  "file": "USER INTERFACE/UIClick_Click Hard_MotionSynth_MotionLib.wav",
+  "cue": 17.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 17.0,
+  "gain_db": -9
+ },
+ {
+  "file": "USER INTERFACE/UIClick_Click Hard_MotionSynth_MotionLib.wav",
+  "cue": 17.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 17.5,
+  "gain_db": -9
+ },
+ {
+  "file": "SWOOSHES/SWSH_Swish Short_MotionSynth_MotionLib.wav",
+  "cue": 17.55,
+  "mode": "peak",
+  "sync": 0.078,
+  "placed": 17.472,
+  "gain_db": -14
+ },
+ {
+  "file": "USER INTERFACE/UIAlert_Message Received_MotionSynth_MotionLib.wav",
+  "cue": 18.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 18.0,
+  "gain_db": -9
+ },
+ {
+  "file": "BEEPS/BEEPTimer_Timer Tick Fast_MotionSynth_MotionLib.wav",
+  "cue": 18.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 18.5,
+  "gain_db": -15
+ },
+ {
+  "file": "USER INTERFACE/UIAlert_Success Arpeggio_MotionSynth_MotionLib.wav",
+  "cue": 19.75,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 19.75,
+  "gain_db": -7
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav",
+  "cue": 20.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 20.5,
+  "gain_db": -10
+ },
+ {
+  "file": "USER INTERFACE/UIData_Score Counter Rollup_MotionSynth_MotionLib.wav",
+  "cue": 21.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 21.0,
+  "gain_db": -11
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav",
+  "cue": 22.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 22.5,
+  "gain_db": -11
+ },
+ {
+  "file": "USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav",
+  "cue": 23.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 23.0,
+  "gain_db": -11
+ },
+ {
+  "file": "USER INTERFACE/UIClick_Toggle On_MotionSynth_MotionLib.wav",
+  "cue": 23.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 23.25,
+  "gain_db": -9
+ },
+ {
+  "file": "GAMES/GAMECas_Cashier Ka Ching_SurajET_SurajSFX06.wav",
+  "cue": 23.5,
+  "mode": "hit",
+  "sync": 0.034,
+  "placed": 23.466,
+  "gain_db": -9
+ },
+ {
+  "file": "MECHANICAL/MECHSwtch_Switch Toggle_PieroCesti_PieroCestiSFX.wav",
+  "cue": 23.75,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 23.75,
+  "gain_db": -10
+ },
+ {
+  "file": "USER INTERFACE/UIData_Data Chatter_MotionSynth_MotionLib.wav",
+  "cue": 25.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 25.5,
+  "gain_db": -15
+ },
+ {
+  "file": "USER INTERFACE/UIData_Scan Sweep_MotionSynth_MotionLib.wav",
+  "cue": 27.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 27.0,
+  "gain_db": -10
+ },
+ {
+  "file": "USER INTERFACE/UIBeep_Beep Confirm_MotionSynth_MotionLib.wav",
+  "cue": 28.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 28.0,
+  "gain_db": -8
+ },
+ {
+  "file": "USER INTERFACE/UIAlert_Success UI_PieroCesti_PieroCestiSFX.wav",
+  "cue": 28.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 28.25,
+  "gain_db": -8
+ },
+ {
+  "file": "MAGIC/MAGShim_Magic Sparkle_MotionSynth_MotionLib.wav",
+  "cue": 28.35,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 28.35,
+  "gain_db": -16
+ },
+ {
+  "file": "SWOOSHES/WHSH_Air Whoosh Short_MotionSynth_MotionLib.wav",
+  "cue": 29.0,
+  "mode": "peak",
+  "sync": 0.182,
+  "placed": 28.818,
+  "gain_db": -11
+ },
+ {
+  "file": "CARTOON/TOONPop_Pop Low_MotionSynth_MotionLib.wav",
+  "cue": 29.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 29.0,
+  "gain_db": -11
+ },
+ {
+  "file": "SWOOSHES/WHSH_Air Whoosh Short_MotionSynth_MotionLib.wav",
+  "cue": 30.0,
+  "mode": "peak",
+  "sync": 0.182,
+  "placed": 29.818,
+  "gain_db": -11
+ },
+ {
+  "file": "CARTOON/TOONPop_Pop Low_MotionSynth_MotionLib.wav",
+  "cue": 30.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 30.0,
+  "gain_db": -11
+ },
+ {
+  "file": "SWOOSHES/WHSH_Air Whoosh Short_MotionSynth_MotionLib.wav",
+  "cue": 31.0,
+  "mode": "peak",
+  "sync": 0.182,
+  "placed": 30.818,
+  "gain_db": -11
+ },
+ {
+  "file": "CARTOON/TOONPop_Pop Low_MotionSynth_MotionLib.wav",
+  "cue": 31.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 31.0,
+  "gain_db": -11
+ },
+ {
+  "file": "SWOOSHES/WHSH_Air Whoosh Short_MotionSynth_MotionLib.wav",
+  "cue": 32.0,
+  "mode": "peak",
+  "sync": 0.182,
+  "placed": 31.818,
+  "gain_db": -11
+ },
+ {
+  "file": "CARTOON/TOONPop_Pop Low_MotionSynth_MotionLib.wav",
+  "cue": 32.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 32.0,
+  "gain_db": -11
+ },
+ {
+  "file": "SWOOSHES/WHSH_Air Whoosh Medium_MotionSynth_MotionLib.wav",
+  "cue": 33.0,
+  "mode": "peak",
+  "sync": 0.428,
+  "placed": 32.572,
+  "gain_db": -8
+ },
+ {
+  "file": "USER INTERFACE/UIAlert_Reward Coin_MotionSynth_MotionLib.wav",
+  "cue": 33.6,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 33.6,
+  "gain_db": -11
+ },
+ {
+  "file": "DESIGNED/DSGNRise_Reverse Cymbal_MotionSynth_MotionLib.wav",
+  "cue": 35.0,
+  "mode": "end",
+  "sync": 1.8,
+  "placed": 33.2,
+  "gain_db": -11
+ },
+ {
+  "file": "DESIGNED/DSGNImpt_Cinematic Hit Big_MotionSynth_MotionLib.wav",
+  "cue": 35.0,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 35.0,
+  "gain_db": -5
+ },
+ {
+  "file": "DESIGNED/DSGNBass_Sub Drop 2s_MotionSynth_MotionLib.wav",
+  "cue": 35.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 35.0,
+  "gain_db": -8
+ },
+ {
+  "file": "MAGIC/MAGShim_Twinkle_MotionSynth_MotionLib.wav",
+  "cue": 35.75,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 35.75,
+  "gain_db": -13
+ },
+ {
+  "file": "USER INTERFACE/UIAlert_Notification Ding_MotionSynth_MotionLib.wav",
+  "cue": 36.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 36.5,
+  "gain_db": -10
+ },
+ {
+  "file": "CARTOON/TOONPop_Pop High_MotionSynth_MotionLib.wav",
+  "cue": 37.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 37.0,
+  "gain_db": -12
+ }
+]

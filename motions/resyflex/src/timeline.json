@@ -1,0 +1,29 @@
+{
+  "fps": 30, "width": 1080, "height": 1920, "duration": 39.0, "bpm": 120,
+  "scenes": {
+    "hook":   [0.0, 4.0],
+    "logo":   [4.0, 7.5],
+    "find":   [7.5, 12.0],
+    "verify": [12.0, 16.0],
+    "avail":  [16.0, 20.5],
+    "pay":    [20.5, 25.0],
+    "qr":     [25.0, 29.0],
+    "trust":  [29.0, 33.0],
+    "owner":  [33.0, 35.0],
+    "cta":    [35.0, 39.0]
+  },
+  "ev": {
+    "hookWords": [0.25, 0.5, 1.0, 1.5],
+    "hookPhotos": [2.0, 2.5, 3.0],
+    "logoHit": 4.0, "slogan": 5.0, "promise": [6.0, 6.5, 7.0],
+    "chapter": {"find": 7.5, "avail": 16.0, "qr": 25.0},
+    "phoneIn": 8.25, "typeStart": 8.5, "chips": [9.5, 9.625, 9.75, 9.875, 10.0, 10.125, 10.25], "nearMe": 10.75, "results": 11.0,
+    "cards": [12.0, 13.0, 14.0], "stamp": 14.5, "stampText": 15.0,
+    "dayIn": 17.0, "dayOut": 17.5, "sent": 18.0, "timer": [18.5, 19.6], "confirmed": 19.75,
+    "payIn": 20.5, "countStart": 21.0, "countEnd": 22.45, "methods": [22.5, 23.0], "select": 23.25, "kaching": 23.5, "lock": 23.75, "rest": 24.25,
+    "qrBuild": [25.5, 26.5], "scan": [27.0, 27.9], "scanOk": 28.0, "welcome": 28.25,
+    "trust": [29.0, 30.0, 31.0, 32.0],
+    "ownerIn": 33.0, "ownerFree": 33.6,
+    "ctaHit": 35.0, "ctaTag": 35.75, "ctaUrl": 36.5, "ctaPhone": 37.0, "fadeOut": 38.4
+  }
+}
