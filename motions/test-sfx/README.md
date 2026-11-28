@@ -54,3 +54,31 @@ python3 build_page.py motion.html page.html      # injecte la timeline dans l’
 node render.js $PWD/page.html frames 30 13.2     # images (Playwright + Chromium)
 ffmpeg -framerate 30 -i frames/f%04d.png -i mix.wav -c:v libx264 -crf 18 -pix_fmt yuv420p -c:a aac -b:a 256k -shortest motion_test_sfx.mp4
 ```
+
+## Version Kdenlive (via CLI-Anything)
+
+Le dossier [`kdenlive/`](kdenlive/) contient la même motion sous forme de **projet Kdenlive éditable**, construit entièrement avec le harness [CLI-Anything](https://github.com/HKUDS/CLI-Anything) `cli-anything-kdenlive` (131 commandes, listées dans `commandes_cli.txt`).
+
+| Fichier | Rôle |
+|---|---|
+| `motion_test_sfx.kdenlive` | Projet à ouvrir dans Kdenlive : 1 piste vidéo + 13 pistes audio rangées par rôle (Nappe, Whoosh, UI, Notifications, Impacts, Magie et logo), 30 clips SFX avec leur volume, fondus, et 10 repères (guides) sur les événements visuels |
+| `motion_video_only.mp4` | L’image de la motion, sans son |
+| `rendu_melt.mp4` | Rendu du projet par `melt` (le moteur de Kdenlive) |
+| `motion_test_sfx.kdenlive-cli.json` | Projet au format du harness (modifiable avec `cli-anything-kdenlive`) |
+| `placement.json`, `commandes_cli.txt` | Où est placé chaque SFX, et les commandes exécutées |
+
+Les médias sont référencés en **chemins relatifs** (`../../../sfx/…`) : le projet s’ouvre tel quel depuis une copie du dépôt.
+
+Vérifié : image identique à la source (PSNR 53,6 dB) ; SFX à ±17 ms des événements (Kdenlive place les clips à l’image près, 1/30 s) ; −17 LUFS, crête −0,6 dBFS (gains −2 dB par rapport à la version MP4, car Kdenlive n’a pas de limiteur sur le master).
+
+Reconstruire / rendre :
+```
+pip install cli-anything-hub && cli-hub install kdenlive && sudo apt install melt
+cd kdenlive && python3 ../kdenlive_build.py ../../../sfx motion_video_only.mp4 .
+melt motion_test_sfx.kdenlive -consumer avformat:rendu.mp4 vcodec=libx264 crf=18 acodec=aac ab=256k
+```
+
+Défauts du harness rencontrés (version 1.0.0) et contournés dans `kdenlive_build.py` :
+- `project new` n’expose pas le rapport d’affichage : en 1080×1920 il reste à 16:9 (image étirée). Corrigé à 9:16 dans le JSON du projet.
+- `bin import` ne détecte pas la durée des médias (0 s) : durée passée avec `-d`.
+- Pas de commande de rendu (seulement `export xml`) : rendu fait directement avec `melt`.

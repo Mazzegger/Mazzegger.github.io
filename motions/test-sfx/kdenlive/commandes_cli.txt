@@ -1,0 +1,131 @@
+cli-anything-kdenlive --json project new -n "Motion test SFX" --width 1080 --height 1920 --fps-num 30 --fps-den 1 -o ./motion_test_sfx.kdenlive-cli.json
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import motion_video_only.mp4 -n "Motion (image seule)" --type video -d 13.2
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNDron_Drone Ethereal Loop_MotionSynth_MotionLib.wav" -n "Drone Ethereal Loop" --type audio -d 10.0
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNStngr_Logo Reveal Corporate_MotionSynth_MotionLib.wav" -n "Logo Reveal Corporate" --type audio -d 5.73
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/SWOOSHES/SWSH_Swish Tiny_MotionSynth_MotionLib.wav" -n "Swish Tiny" --type audio -d 0.15
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIData_Text Typing Screen_MotionSynth_MotionLib.wav" -n "Text Typing Screen" --type audio -d 1.467
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNMorph_Glitch Transition_MotionSynth_MotionLib.wav" -n "Glitch Transition" --type audio -d 1.055
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIMvmt_Slide In Soft_MotionSynth_MotionLib.wav" -n "Slide In Soft" --type audio -d 0.45
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIClick_Hover Soft_MotionSynth_MotionLib.wav" -n "Hover Soft" --type audio -d 0.06
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIClick_Click Hard_MotionSynth_MotionLib.wav" -n "Click Hard" --type audio -d 0.04
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIClick_Toggle On_MotionSynth_MotionLib.wav" -n "Toggle On" --type audio -d 0.098
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav" -n "Pop Appear" --type audio -d 0.6441
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIMvmt_Card Swipe Short_SurajET_SurajSFX06.wav" -n "Card Swipe Short" --type audio -d 0.489
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIAlert_Chime Stair Up_SurajET_SurajSFX06.wav" -n "Chime Stair Up" --type audio -d 1.26
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIData_Data Chatter_MotionSynth_MotionLib.wav" -n "Data Chatter" --type audio -d 1.197
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIAlert_Success Arpeggio_MotionSynth_MotionLib.wav" -n "Success Arpeggio" --type audio -d 2.1533
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/SWOOSHES/WHSH_Air Whoosh Medium_MotionSynth_MotionLib.wav" -n "Air Whoosh Medium" --type audio -d 1.5201
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/USER INTERFACE/UIData_Score Counter Rollup_MotionSynth_MotionLib.wav" -n "Score Counter Rollup" --type audio -d 3.259
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNRise_Noise Riser 2s_MotionSynth_MotionLib.wav" -n "Noise Riser 2s" --type audio -d 2.0
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNImpt_Cinematic Hit Big_MotionSynth_MotionLib.wav" -n "Cinematic Hit Big" --type audio -d 4.5296
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNBass_Sub Drop 2s_MotionSynth_MotionLib.wav" -n "Sub Drop 2s" --type audio -d 2.3898
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNBram_Braam Stab Short_MotionSynth_MotionLib.wav" -n "Braam Stab Short" --type audio -d 3.7277
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNWhsh_Fast Pass By_MotionSynth_MotionLib.wav" -n "Fast Pass By" --type audio -d 0.9236
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/MAGIC/MAGShim_Magic Sparkle_MotionSynth_MotionLib.wav" -n "Magic Sparkle" --type audio -d 3.4078
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json bin import "../../../sfx/DESIGNED/DSGNStngr_Logo Reveal Minimal_MotionSynth_MotionLib.wav" -n "Logo Reveal Minimal" --type audio -d 2.3748
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n Vidéo --type video
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 0 clip0 -p 0 --in 0 --out 13.2
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Nappe 1" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Whoosh 1" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Whoosh 2" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "UI 1" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "UI 2" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "UI 3" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Notifications 1" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Notifications 2" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Impacts 1" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Impacts 2" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Impacts 3" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Magie et logo 1" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-track -n "Magie et logo 2" --type audio
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline list
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 1 clip1 -p 0.0 --in 0.0 --out 10.0
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 1 clip1 -p 10.0 --in 0.0 --out 3.2
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 12 clip2 -p 0.16666666666666666 --in 0.0 --out 5.7
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 2 clip3 -p 1.3333333333333333 --in 0.0 --out 0.13333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 3 clip3 -p 1.4333333333333333 --in 0.0 --out 0.13333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 2 clip3 -p 1.5333333333333334 --in 0.0 --out 0.13333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 7 clip4 -p 1.9 --in 0.0 --out 0.7
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 9 clip5 -p 2.533333333333333 --in 0.0 --out 0.4666666666666667
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 2 clip6 -p 2.8333333333333335 --in 0.0 --out 0.43333333333333335
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 4 clip7 -p 3.466666666666667 --in 0.0 --out 0.03333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 4 clip8 -p 3.7 --in 0.0 --out 0.03333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 4 clip9 -p 3.7333333333333334 --in 0.0 --out 0.06666666666666667
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 4 clip10 -p 3.933333333333333 --in 0.0 --out 0.6333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 5 clip10 -p 4.166666666666667 --in 0.0 --out 0.6333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 6 clip10 -p 4.333333333333333 --in 0.0 --out 0.6333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 2 clip11 -p 4.733333333333333 --in 0.0 --out 0.4666666666666667
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 7 clip12 -p 4.866666666666666 --in 0.0 --out 1.2333333333333334
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 8 clip13 -p 5.3 --in 0.0 --out 1.1666666666666667
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 7 clip14 -p 6.5 --in 0.0 --out 2.1333333333333333
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 2 clip15 -p 6.866666666666666 --in 0.0 --out 1.5
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 8 clip16 -p 7.466666666666667 --in 0.0 --out 3.2333333333333334
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 9 clip17 -p 7.6 --in 0.0 --out 2.0
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 9 clip18 -p 9.6 --in 0.0 --out 3.6
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 10 clip19 -p 9.6 --in 0.0 --out 2.3666666666666667
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 11 clip20 -p 9.6 --in 0.0 --out 3.6
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 2 clip21 -p 10.133333333333333 --in 0.0 --out 0.9
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 3 clip21 -p 10.333333333333334 --in 0.0 --out 0.9
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 12 clip22 -p 11.1 --in 0.0 --out 2.1
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json timeline add-clip 13 clip23 -p 12.0 --in 0.0 --out 1.2
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 1 0 volume -p gain=0.0501
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 1 0 fade_in_audio -p duration=0.6
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 1 1 volume -p gain=0.0501
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 1 1 fade_out_audio -p duration=0.9
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 2 0 volume -p gain=0.2818
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 2 1 volume -p gain=0.2818
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 2 2 volume -p gain=0.3162
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 2 3 volume -p gain=0.2512
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 2 4 volume -p gain=0.3981
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 2 5 volume -p gain=0.3162
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 3 0 volume -p gain=0.2818
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 3 1 volume -p gain=0.3162
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 4 0 volume -p gain=0.1259
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 4 1 volume -p gain=0.3162
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 4 2 volume -p gain=0.2818
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 4 3 volume -p gain=0.2818
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 5 0 volume -p gain=0.2371
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 6 0 volume -p gain=0.1995
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 7 0 volume -p gain=0.1995
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 7 0 fade_out_audio -p duration=0.04
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 7 1 volume -p gain=0.2818
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 7 2 volume -p gain=0.3981
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 8 0 volume -p gain=0.1413
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 8 0 fade_out_audio -p duration=0.04
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 8 1 volume -p gain=0.2818
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 9 0 volume -p gain=0.3981
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 9 0 fade_out_audio -p duration=0.04
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 9 1 volume -p gain=0.2818
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 9 2 volume -p gain=0.7079
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 9 2 fade_out_audio -p duration=0.3
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 10 0 volume -p gain=0.4467
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 11 0 volume -p gain=0.2239
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 11 0 fade_out_audio -p duration=0.3
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 12 0 volume -p gain=0.6310
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 12 1 volume -p gain=0.1778
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 12 1 fade_out_audio -p duration=0.3
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 13 0 volume -p gain=0.5012
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json filter add 13 0 fade_out_audio -p duration=0.3
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 1.0 -l Logo
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 2.533333333333333 -l Glitch
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 3.1 -l Panneau
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 3.7 -l Clic
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 4.866666666666666 -l Notification
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 6.5 -l Succès
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 7.466666666666667 -l Compteur
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 9.6 -l IMPACT
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 10.266666666666667 -l Pastilles
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json guide add 12.0 -l "Logo final"
+cli-anything-kdenlive --json --project ./motion_test_sfx.kdenlive-cli.json export xml -o ./motion_test_sfx.kdenlive

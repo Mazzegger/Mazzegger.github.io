@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="7.0.0" title="Motion test SFX" producer="main_bin">
+  <profile description="custom" width="1080" height="1920" progressive="1" sample_aspect_num="17280" sample_aspect_den="17280" display_aspect_num="9" display_aspect_den="16" frame_rate_num="30" frame_rate_den="1" colorspace="709" />
+  <producer id="producer0" in="0" out="395">
+    <property name="resource">black</property>
+    <property name="mlt_service">color</property>
+    <property name="kdenlive:playlistid">black_track</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <chain id="chain0" in="0" out="299">
+    <property name="length">300</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNDron_Drone Ethereal Loop_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">5</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist2">
+    <property name="kdenlive:audio_track">1</property>
+    <entry producer="chain0" in="0" out="299">
+      <filter id="filter0">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.0501</property>
+      </filter>
+      <filter id="filter1">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadein</property>
+        <property name="duration">0.6</property>
+      </filter>
+      <property name="kdenlive:id">5</property>
+    </entry>
+    <entry producer="chain0" in="0" out="95">
+      <filter id="filter2">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.0501</property>
+      </filter>
+      <filter id="filter3">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadeout</property>
+        <property name="duration">0.9</property>
+      </filter>
+      <property name="kdenlive:id">5</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist3">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor1" in="0" out="395">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Nappe 1</property>
+    <track hide="video" producer="playlist2" />
+    <track hide="video" producer="playlist3" />
+    <filter id="filter4">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter5">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter6">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain1" in="0" out="3">
+    <property name="length">4</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/SWOOSHES/SWSH_Swish Tiny_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">7</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain2" in="0" out="13">
+    <property name="length">14</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIMvmt_Slide In Soft_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">10</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain3" in="0" out="14">
+    <property name="length">15</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIMvmt_Card Swipe Short_SurajET_SurajSFX06.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">15</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain4" in="0" out="45">
+    <property name="length">46</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/SWOOSHES/WHSH_Air Whoosh Medium_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">19</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain5" in="0" out="27">
+    <property name="length">28</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNWhsh_Fast Pass By_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">25</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist4">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="40" />
+    <entry producer="chain1" in="0" out="3">
+      <filter id="filter7">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2818</property>
+      </filter>
+      <property name="kdenlive:id">7</property>
+    </entry>
+    <blank length="2" />
+    <entry producer="chain1" in="0" out="3">
+      <filter id="filter8">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2818</property>
+      </filter>
+      <property name="kdenlive:id">7</property>
+    </entry>
+    <blank length="35" />
+    <entry producer="chain2" in="0" out="12">
+      <filter id="filter9">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.3162</property>
+      </filter>
+      <property name="kdenlive:id">10</property>
+    </entry>
+    <blank length="44" />
+    <entry producer="chain3" in="0" out="13">
+      <filter id="filter10">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2512</property>
+      </filter>
+      <property name="kdenlive:id">15</property>
+    </entry>
+    <blank length="50" />
+    <entry producer="chain4" in="0" out="44">
+      <filter id="filter11">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.3981</property>
+      </filter>
+      <property name="kdenlive:id">19</property>
+    </entry>
+    <blank length="53" />
+    <entry producer="chain5" in="0" out="26">
+      <filter id="filter12">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.3162</property>
+      </filter>
+      <property name="kdenlive:id">25</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist5">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor2" in="0" out="330">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Whoosh 1</property>
+    <track hide="video" producer="playlist4" />
+    <track hide="video" producer="playlist5" />
+    <filter id="filter13">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter14">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter15">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain6" in="0" out="3">
+    <property name="length">4</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/SWOOSHES/SWSH_Swish Tiny_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">7</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain7" in="0" out="27">
+    <property name="length">28</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNWhsh_Fast Pass By_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">25</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist6">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="43" />
+    <entry producer="chain6" in="0" out="3">
+      <filter id="filter16">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2818</property>
+      </filter>
+      <property name="kdenlive:id">7</property>
+    </entry>
+    <blank length="263" />
+    <entry producer="chain7" in="0" out="26">
+      <filter id="filter17">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.3162</property>
+      </filter>
+      <property name="kdenlive:id">25</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist7">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor3" in="0" out="336">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Whoosh 2</property>
+    <track hide="video" producer="playlist6" />
+    <track hide="video" producer="playlist7" />
+    <filter id="filter18">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter19">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter20">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain8" in="0" out="1">
+    <property name="length">2</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIClick_Hover Soft_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">11</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain9" in="0" out="0">
+    <property name="length">1</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIClick_Click Hard_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">12</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain10" in="0" out="2">
+    <property name="length">3</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIClick_Toggle On_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">13</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain11" in="0" out="18">
+    <property name="length">19</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">14</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist8">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="104" />
+    <entry producer="chain8" in="0" out="0">
+      <filter id="filter21">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.1259</property>
+      </filter>
+      <property name="kdenlive:id">11</property>
+    </entry>
+    <blank length="6" />
+    <entry producer="chain9" in="0" out="0">
+      <filter id="filter22">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.3162</property>
+      </filter>
+      <property name="kdenlive:id">12</property>
+    </entry>
+    <entry producer="chain10" in="0" out="1">
+      <filter id="filter23">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2818</property>
+      </filter>
+      <property name="kdenlive:id">13</property>
+    </entry>
+    <blank length="4" />
+    <entry producer="chain11" in="0" out="18">
+      <filter id="filter24">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2818</property>
+      </filter>
+      <property name="kdenlive:id">14</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist9">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor4" in="0" out="136">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">UI 1</property>
+    <track hide="video" producer="playlist8" />
+    <track hide="video" producer="playlist9" />
+    <filter id="filter25">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter26">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter27">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain12" in="0" out="18">
+    <property name="length">19</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">14</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist10">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="125" />
+    <entry producer="chain12" in="0" out="18">
+      <filter id="filter28">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2371</property>
+      </filter>
+      <property name="kdenlive:id">14</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist11">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor5" in="0" out="143">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">UI 2</property>
+    <track hide="video" producer="playlist10" />
+    <track hide="video" producer="playlist11" />
+    <filter id="filter29">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter30">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter31">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain13" in="0" out="18">
+    <property name="length">19</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">14</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist12">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="130" />
+    <entry producer="chain13" in="0" out="18">
+      <filter id="filter32">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.1995</property>
+      </filter>
+      <property name="kdenlive:id">14</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist13">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor6" in="0" out="148">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">UI 3</property>
+    <track hide="video" producer="playlist12" />
+    <track hide="video" producer="playlist13" />
+    <filter id="filter33">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter34">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter35">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain14" in="0" out="43">
+    <property name="length">44</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIData_Text Typing Screen_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">8</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain15" in="0" out="37">
+    <property name="length">38</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIAlert_Chime Stair Up_SurajET_SurajSFX06.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">16</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain16" in="0" out="64">
+    <property name="length">65</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIAlert_Success Arpeggio_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">18</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist14">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="57" />
+    <entry producer="chain14" in="0" out="20">
+      <filter id="filter36">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.1995</property>
+      </filter>
+      <filter id="filter37">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadeout</property>
+        <property name="duration">0.04</property>
+      </filter>
+      <property name="kdenlive:id">8</property>
+    </entry>
+    <blank length="68" />
+    <entry producer="chain15" in="0" out="36">
+      <filter id="filter38">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2818</property>
+      </filter>
+      <property name="kdenlive:id">16</property>
+    </entry>
+    <blank length="12" />
+    <entry producer="chain16" in="0" out="63">
+      <filter id="filter39">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.3981</property>
+      </filter>
+      <property name="kdenlive:id">18</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist15">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor7" in="0" out="258">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Notifications 1</property>
+    <track hide="video" producer="playlist14" />
+    <track hide="video" producer="playlist15" />
+    <filter id="filter40">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter41">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter42">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain17" in="0" out="35">
+    <property name="length">36</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIData_Data Chatter_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">17</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain18" in="0" out="97">
+    <property name="length">98</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIData_Score Counter Rollup_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">20</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist16">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="159" />
+    <entry producer="chain17" in="0" out="34">
+      <filter id="filter43">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.1413</property>
+      </filter>
+      <filter id="filter44">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadeout</property>
+        <property name="duration">0.04</property>
+      </filter>
+      <property name="kdenlive:id">17</property>
+    </entry>
+    <blank length="30" />
+    <entry producer="chain18" in="0" out="96">
+      <filter id="filter45">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2818</property>
+      </filter>
+      <property name="kdenlive:id">20</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist17">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor8" in="0" out="320">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Notifications 2</property>
+    <track hide="video" producer="playlist16" />
+    <track hide="video" producer="playlist17" />
+    <filter id="filter46">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter47">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter48">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain19" in="0" out="31">
+    <property name="length">32</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNMorph_Glitch Transition_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">9</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain20" in="0" out="59">
+    <property name="length">60</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNRise_Noise Riser 2s_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">21</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain21" in="0" out="135">
+    <property name="length">136</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNImpt_Cinematic Hit Big_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">22</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist18">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="76" />
+    <entry producer="chain19" in="0" out="13">
+      <filter id="filter49">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.3981</property>
+      </filter>
+      <filter id="filter50">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadeout</property>
+        <property name="duration">0.04</property>
+      </filter>
+      <property name="kdenlive:id">9</property>
+    </entry>
+    <blank length="138" />
+    <entry producer="chain20" in="0" out="59">
+      <filter id="filter51">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2818</property>
+      </filter>
+      <property name="kdenlive:id">21</property>
+    </entry>
+    <entry producer="chain21" in="0" out="107">
+      <filter id="filter52">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.7079</property>
+      </filter>
+      <filter id="filter53">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadeout</property>
+        <property name="duration">0.3</property>
+      </filter>
+      <property name="kdenlive:id">22</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist19">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor9" in="0" out="395">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Impacts 1</property>
+    <track hide="video" producer="playlist18" />
+    <track hide="video" producer="playlist19" />
+    <filter id="filter54">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter55">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter56">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain22" in="0" out="71">
+    <property name="length">72</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNBass_Sub Drop 2s_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">23</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist20">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="288" />
+    <entry producer="chain22" in="0" out="70">
+      <filter id="filter57">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.4467</property>
+      </filter>
+      <property name="kdenlive:id">23</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist21">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor10" in="0" out="358">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Impacts 2</property>
+    <track hide="video" producer="playlist20" />
+    <track hide="video" producer="playlist21" />
+    <filter id="filter58">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter59">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter60">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain23" in="0" out="111">
+    <property name="length">112</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNBram_Braam Stab Short_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">24</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist22">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="288" />
+    <entry producer="chain23" in="0" out="107">
+      <filter id="filter61">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.2239</property>
+      </filter>
+      <filter id="filter62">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadeout</property>
+        <property name="duration">0.3</property>
+      </filter>
+      <property name="kdenlive:id">24</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist23">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor11" in="0" out="395">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Impacts 3</property>
+    <track hide="video" producer="playlist22" />
+    <track hide="video" producer="playlist23" />
+    <filter id="filter63">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter64">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter65">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain24" in="0" out="171">
+    <property name="length">172</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNStngr_Logo Reveal Corporate_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">6</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <chain id="chain25" in="0" out="101">
+    <property name="length">102</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/MAGIC/MAGShim_Magic Sparkle_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">26</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist24">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="5" />
+    <entry producer="chain24" in="0" out="170">
+      <filter id="filter66">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.631</property>
+      </filter>
+      <property name="kdenlive:id">6</property>
+    </entry>
+    <blank length="157" />
+    <entry producer="chain25" in="0" out="62">
+      <filter id="filter67">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.1778</property>
+      </filter>
+      <filter id="filter68">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadeout</property>
+        <property name="duration">0.3</property>
+      </filter>
+      <property name="kdenlive:id">26</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist25">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor12" in="0" out="395">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Magie et logo 1</property>
+    <track hide="video" producer="playlist24" />
+    <track hide="video" producer="playlist25" />
+    <filter id="filter69">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter70">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter71">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain26" in="0" out="70">
+    <property name="length">71</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNStngr_Logo Reveal Minimal_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">27</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="set.test_audio">0</property>
+    <property name="set.test_image">1</property>
+  </chain>
+  <playlist id="playlist26">
+    <property name="kdenlive:audio_track">1</property>
+    <blank length="360" />
+    <entry producer="chain26" in="0" out="35">
+      <filter id="filter72">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">volume</property>
+        <property name="gain">0.5012</property>
+      </filter>
+      <filter id="filter73">
+        <property name="mlt_service">volume</property>
+        <property name="kdenlive_id">fadeout</property>
+        <property name="duration">0.3</property>
+      </filter>
+      <property name="kdenlive:id">27</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist27">
+    <property name="kdenlive:audio_track">1</property>
+  </playlist>
+  <tractor id="tractor13" in="0" out="395">
+    <property name="kdenlive:audio_track">1</property>
+    <property name="kdenlive:track_name">Magie et logo 2</property>
+    <track hide="video" producer="playlist26" />
+    <track hide="video" producer="playlist27" />
+    <filter id="filter74">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter75">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter76">
+      <property name="mlt_service">audiolevel</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain27" in="0" out="395">
+    <property name="length">396</property>
+    <property name="eof">pause</property>
+    <property name="resource">motion_video_only.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">4</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">0</property>
+    <property name="set.test_audio">1</property>
+    <property name="set.test_image">0</property>
+  </chain>
+  <playlist id="playlist0">
+    <entry producer="chain27" in="0" out="395">
+      <property name="kdenlive:id">4</property>
+    </entry>
+  </playlist>
+  <playlist id="playlist1" />
+  <tractor id="tractor0" in="0" out="395">
+    <property name="kdenlive:track_name">Vidéo</property>
+    <track hide="audio" producer="playlist0" />
+    <track hide="audio" producer="playlist1" />
+  </tractor>
+  <tractor id="{334744f3-8d26-4733-be7b-1207329bf812}" in="0" out="395">
+    <property name="kdenlive:uuid">{334744f3-8d26-4733-be7b-1207329bf812}</property>
+    <property name="kdenlive:clipname">Sequence 1</property>
+    <property name="kdenlive:sequenceproperties.hasAudio">1</property>
+    <property name="kdenlive:sequenceproperties.hasVideo">1</property>
+    <property name="kdenlive:sequenceproperties.activeTrack">13</property>
+    <property name="kdenlive:sequenceproperties.tracksCount">14</property>
+    <property name="kdenlive:sequenceproperties.documentuuid">{334744f3-8d26-4733-be7b-1207329bf812}</property>
+    <property name="kdenlive:duration">00:00:13.200</property>
+    <property name="kdenlive:maxduration">396</property>
+    <property name="kdenlive:producer_type">17</property>
+    <property name="kdenlive:id">3</property>
+    <property name="kdenlive:clip_type">0</property>
+    <property name="kdenlive:file_size">0</property>
+    <property name="kdenlive:folderid">2</property>
+    <property name="kdenlive:sequenceproperties.videoTarget">13</property>
+    <property name="kdenlive:sequenceproperties.audioTarget">12</property>
+    <property name="kdenlive:sequenceproperties.tracks">14</property>
+    <property name="kdenlive:sequenceproperties.zoom">8</property>
+    <property name="kdenlive:sequenceproperties.zonein">0</property>
+    <property name="kdenlive:sequenceproperties.zoneout">395</property>
+    <property name="kdenlive:sequenceproperties.groups">[]</property>
+    <property name="kdenlive:sequenceproperties.guides">[{"pos": 30, "comment": "Logo", "type": "default"}, {"pos": 76, "comment": "Glitch", "type": "default"}, {"pos": 93, "comment": "Panneau", "type": "default"}, {"pos": 111, "comment": "Clic", "type": "default"}, {"pos": 146, "comment": "Notification", "type": "default"}, {"pos": 195, "comment": "Succ\u00e8s", "type": "default"}, {"pos": 224, "comment": "Compteur", "type": "default"}, {"pos": 288, "comment": "IMPACT", "type": "default"}, {"pos": 308, "comment": "Pastilles", "type": "default"}, {"pos": 360, "comment": "Logo final", "type": "default"}]</property>
+    <track producer="producer0" />
+    <track producer="tractor1" />
+    <track producer="tractor2" />
+    <track producer="tractor3" />
+    <track producer="tractor4" />
+    <track producer="tractor5" />
+    <track producer="tractor6" />
+    <track producer="tractor7" />
+    <track producer="tractor8" />
+    <track producer="tractor9" />
+    <track producer="tractor10" />
+    <track producer="tractor11" />
+    <track producer="tractor12" />
+    <track producer="tractor13" />
+    <track producer="tractor0" />
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">6</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">7</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">0</property>
+      <property name="b_track">8</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">0</property>
+      <property name="b_track">9</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition9">
+      <property name="a_track">0</property>
+      <property name="b_track">10</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition10">
+      <property name="a_track">0</property>
+      <property name="b_track">11</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition11">
+      <property name="a_track">0</property>
+      <property name="b_track">12</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition12">
+      <property name="a_track">0</property>
+      <property name="b_track">13</property>
+      <property name="mlt_service">mix</property>
+      <property name="kdenlive_id">mix</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition13">
+      <property name="a_track">0</property>
+      <property name="b_track">14</property>
+      <property name="mlt_service">qtblend</property>
+      <property name="kdenlive_id">qtblend</property>
+      <property name="internal_added">237</property>
+      <property name="always_active">1</property>
+      <property name="compositing">0</property>
+      <property name="distort">0</property>
+      <property name="rotate_center">0</property>
+    </transition>
+    <filter id="filter77">
+      <property name="mlt_service">volume</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+    <filter id="filter78">
+      <property name="mlt_service">panner</property>
+      <property name="internal_added">237</property>
+      <property name="disable">1</property>
+    </filter>
+  </tractor>
+  <chain id="chain28" in="0" out="395">
+    <property name="length">396</property>
+    <property name="eof">pause</property>
+    <property name="resource">motion_video_only.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">4</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">0</property>
+    <property name="kdenlive:clipname">Motion (image seule)</property>
+  </chain>
+  <chain id="chain29" in="0" out="299">
+    <property name="length">300</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNDron_Drone Ethereal Loop_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">5</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Drone Ethereal Loop</property>
+  </chain>
+  <chain id="chain30" in="0" out="171">
+    <property name="length">172</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNStngr_Logo Reveal Corporate_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">6</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Logo Reveal Corporate</property>
+  </chain>
+  <chain id="chain31" in="0" out="3">
+    <property name="length">4</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/SWOOSHES/SWSH_Swish Tiny_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">7</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Swish Tiny</property>
+  </chain>
+  <chain id="chain32" in="0" out="43">
+    <property name="length">44</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIData_Text Typing Screen_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">8</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Text Typing Screen</property>
+  </chain>
+  <chain id="chain33" in="0" out="31">
+    <property name="length">32</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNMorph_Glitch Transition_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">9</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Glitch Transition</property>
+  </chain>
+  <chain id="chain34" in="0" out="13">
+    <property name="length">14</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIMvmt_Slide In Soft_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">10</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Slide In Soft</property>
+  </chain>
+  <chain id="chain35" in="0" out="1">
+    <property name="length">2</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIClick_Hover Soft_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">11</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Hover Soft</property>
+  </chain>
+  <chain id="chain36" in="0" out="0">
+    <property name="length">1</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIClick_Click Hard_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">12</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Click Hard</property>
+  </chain>
+  <chain id="chain37" in="0" out="2">
+    <property name="length">3</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIClick_Toggle On_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">13</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Toggle On</property>
+  </chain>
+  <chain id="chain38" in="0" out="18">
+    <property name="length">19</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">14</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Pop Appear</property>
+  </chain>
+  <chain id="chain39" in="0" out="14">
+    <property name="length">15</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIMvmt_Card Swipe Short_SurajET_SurajSFX06.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">15</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Card Swipe Short</property>
+  </chain>
+  <chain id="chain40" in="0" out="37">
+    <property name="length">38</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIAlert_Chime Stair Up_SurajET_SurajSFX06.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">16</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Chime Stair Up</property>
+  </chain>
+  <chain id="chain41" in="0" out="35">
+    <property name="length">36</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIData_Data Chatter_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">17</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Data Chatter</property>
+  </chain>
+  <chain id="chain42" in="0" out="64">
+    <property name="length">65</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIAlert_Success Arpeggio_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">18</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Success Arpeggio</property>
+  </chain>
+  <chain id="chain43" in="0" out="45">
+    <property name="length">46</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/SWOOSHES/WHSH_Air Whoosh Medium_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">19</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Air Whoosh Medium</property>
+  </chain>
+  <chain id="chain44" in="0" out="97">
+    <property name="length">98</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/USER INTERFACE/UIData_Score Counter Rollup_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">20</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Score Counter Rollup</property>
+  </chain>
+  <chain id="chain45" in="0" out="59">
+    <property name="length">60</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNRise_Noise Riser 2s_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">21</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Noise Riser 2s</property>
+  </chain>
+  <chain id="chain46" in="0" out="135">
+    <property name="length">136</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNImpt_Cinematic Hit Big_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">22</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Cinematic Hit Big</property>
+  </chain>
+  <chain id="chain47" in="0" out="71">
+    <property name="length">72</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNBass_Sub Drop 2s_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">23</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Sub Drop 2s</property>
+  </chain>
+  <chain id="chain48" in="0" out="111">
+    <property name="length">112</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNBram_Braam Stab Short_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">24</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Braam Stab Short</property>
+  </chain>
+  <chain id="chain49" in="0" out="27">
+    <property name="length">28</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNWhsh_Fast Pass By_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">25</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Fast Pass By</property>
+  </chain>
+  <chain id="chain50" in="0" out="101">
+    <property name="length">102</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/MAGIC/MAGShim_Magic Sparkle_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">26</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Magic Sparkle</property>
+  </chain>
+  <chain id="chain51" in="0" out="70">
+    <property name="length">71</property>
+    <property name="eof">pause</property>
+    <property name="resource">../../../sfx/DESIGNED/DSGNStngr_Logo Reveal Minimal_MotionSynth_MotionLib.wav</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="kdenlive:folderid">-1</property>
+    <property name="kdenlive:id">27</property>
+    <property name="mute_on_pause">0</property>
+    <property name="kdenlive:clip_type">1</property>
+    <property name="kdenlive:clipname">Logo Reveal Minimal</property>
+  </chain>
+  <playlist id="main_bin">
+    <property name="kdenlive:folder.-1.2">Sequences</property>
+    <property name="kdenlive:sequenceFolder">2</property>
+    <property name="kdenlive:docproperties.version">1.1</property>
+    <property name="kdenlive:docproperties.uuid">{334744f3-8d26-4733-be7b-1207329bf812}</property>
+    <property name="kdenlive:docproperties.opensequences">{334744f3-8d26-4733-be7b-1207329bf812}</property>
+    <property name="kdenlive:docproperties.activetimeline">{334744f3-8d26-4733-be7b-1207329bf812}</property>
+    <property name="xml_retain">1</property>
+    <entry in="0" out="0" producer="{334744f3-8d26-4733-be7b-1207329bf812}" />
+    <entry in="0" out="395" producer="chain28" />
+    <entry in="0" out="299" producer="chain29" />
+    <entry in="0" out="171" producer="chain30" />
+    <entry in="0" out="3" producer="chain31" />
+    <entry in="0" out="43" producer="chain32" />
+    <entry in="0" out="31" producer="chain33" />
+    <entry in="0" out="13" producer="chain34" />
+    <entry in="0" out="1" producer="chain35" />
+    <entry in="0" out="0" producer="chain36" />
+    <entry in="0" out="2" producer="chain37" />
+    <entry in="0" out="18" producer="chain38" />
+    <entry in="0" out="14" producer="chain39" />
+    <entry in="0" out="37" producer="chain40" />
+    <entry in="0" out="35" producer="chain41" />
+    <entry in="0" out="64" producer="chain42" />
+    <entry in="0" out="45" producer="chain43" />
+    <entry in="0" out="97" producer="chain44" />
+    <entry in="0" out="59" producer="chain45" />
+    <entry in="0" out="135" producer="chain46" />
+    <entry in="0" out="71" producer="chain47" />
+    <entry in="0" out="111" producer="chain48" />
+    <entry in="0" out="27" producer="chain49" />
+    <entry in="0" out="101" producer="chain50" />
+    <entry in="0" out="70" producer="chain51" />
+  </playlist>
+  <tractor id="tractor_project" in="0" out="395">
+    <property name="kdenlive:projectTractor">1</property>
+    <track producer="{334744f3-8d26-4733-be7b-1207329bf812}" in="0" out="395" />
+  </tractor>
+</mlt>
