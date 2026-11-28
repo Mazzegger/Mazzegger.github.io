@@ -1,0 +1,13 @@
+UCS v8.2.1 — BEEPS  (BIPS)   CatShort : BEEP
+Sons dans ce dossier : 2
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. BEEPAppl_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+BEEPAppl   | APPLIANCE             | ÉLECTROMÉNAGER        | Microwave oven beeps, dishwasher beeps.
+BEEP       | GENERAL               | GÉNÉRIQUE             | Beep sounds not fitting another category in this list. User Interface beeps go to UI-BEEPS.
+BEEPLofi   | LOFI                  | RÉTRO                 | Very low fidelity, old 8-bit beeps.
+BEEPMed    | MEDICAL               | MÉDICAL               | Beeps from various medical devices, EKG, Life Support.
+BEEPTimer  | TIMER                 | MINUTERIE             | Specifically timer beeps, counting down. Classic time bomb beeps.
+BEEPVeh    | VEHICLE               | VÉHICULE              | Backup beeps from a large truck or construction vehicle.

@@ -1,0 +1,14 @@
+UCS v8.2.1 — DIRT & SAND  (TERRE & SABLE)   CatShort : DIRT
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. DIRTCrsh_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+DIRTCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Dirt or sand settling, as in after an explosion, big sprays of dirt and sand. DUST has its own subcategory.
+DIRTDust   | DUST                  | POUSSIÈRE             | Settling dust, dust clouds, much lighter sound than DIRT & SAND-DEBRIS
+DIRTHndl   | HANDLE                | MANIPULATION          | Handling dirt & sand, hands digging through dirt, children making a sand castle. Some overlap with DIRT & SAND-MOVEMENT.
+DIRTImpt   | IMPACT                | IMPACT                | Big hits and impacts of dirt of sand, dirt clods. Think the huge dirt ball impacts in WHERE THE WILD THINGS ARE.
+DIRTMisc   | MISC                  | DIVERS                | Dirt, Sand and Earth sounds not fitting another category in this list.
+DIRTMvmt   | MOVEMENT              | MOUVEMENT             | Pouring, flowing of dirt or sand, a big sand pour. See also DIRT & SAND-HANDLE.
+DIRTTonl   | TONAL                 | TONAL                 | Singing sand dunes. Probably pretty rare.

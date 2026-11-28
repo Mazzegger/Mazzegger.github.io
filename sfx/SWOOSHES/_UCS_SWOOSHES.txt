@@ -1,0 +1,9 @@
+UCS v8.2.1 — SWOOSHES  (SWOOSHES)   CatShort : SWSH
+Sons dans ce dossier : 32
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. SWSH_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+SWSH       | SWISH                 | SWISH                 | A swish is smaller than a Whoosh. Arm Swishes, Sword Swishes. Small objects make Swishes.
+WHSH       | WHOOSH                | WHOOSH                | A whoosh is larger than a swish. A large object would make a Whoosh. Tanks flying over your head, or an asteroid by. See also DESIGNED-WHOOSH for very stylized whooshes.

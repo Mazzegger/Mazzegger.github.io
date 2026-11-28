@@ -1,0 +1,15 @@
+UCS v8.2.1 — METAL  (MÉTAL)   CatShort : METL
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. METLBrk_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+METLBrk    | BREAK                 | CASSE                 | Metal breaking, snaps, cracks, rips, shatters.
+METLCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Metal crashing and debris. Complex metal crashes, group metal crashes, metal debris falls.
+METLFric   | FRICTION              | FRICTION              | Metal friction, stress, so scrapes, creaks, squeaks, squeals, screeches. Metal sounds caused by friction.
+METLHndl   | HANDLE                | MANIPULATION          | Metal handling, handling metal objects. Some overlap with METAL-MOVEMENT possible.
+METLImpt   | IMPACT                | IMPACT                | Metal single item impacts, so anvil hits, dropping something that doesn't break. Clangs, clunks, bangs.
+METLMisc   | MISC                  | DIVERS                | Metal sounds not fitting another category in this list.
+METLMvmt   | MOVEMENT              | MOUVEMENT             | Metal movement, so drag, roll, rattle, shake. Single or metal items moving. Or movement on a metal surface. See also METAL-HANDLE.
+METLTonl   | TONAL                 | TONAL                 | Metal tonal, resonating, ringing, wronks and warps. Bending sheet metal, a singing bowl ringing, metal shinging.

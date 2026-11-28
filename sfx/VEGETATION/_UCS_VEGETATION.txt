@@ -1,0 +1,11 @@
+UCS v8.2.1 — VEGETATION  (VÉGÉTATION)   CatShort : VEGE
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. VEGEGras_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+VEGEGras   | GRASS                 | HERBE                 | Individual movement of grass elements in a studio or exterior environment.
+VEGELeaf   | LEAVES                | FEUILLES              | Individual movement of leaf elements in a studio or exterior environment. Jumping into a pile of leaves.
+VEGEMisc   | MISC                  | DIVERS                | Vegetation and Foliage sounds not fitting another category in this list.
+VEGETree   | TREE                  | ARBRE                 | Individual movement of tree and branch elements in a studio or exterior environment.

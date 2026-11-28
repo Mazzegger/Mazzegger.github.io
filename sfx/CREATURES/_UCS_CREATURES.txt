@@ -1,0 +1,22 @@
+UCS v8.2.1 — CREATURES  (CRÉATURES)   CatShort : CREA
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. CREAAqua_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+CREAAqua   | AQUATIC               | AQUATIQUE             | Giant mutant squids or sea monsters, kraken, leviathans.
+CREAAvian  | AVIAN                 | VOLANTE               | Alien or Fantasy birds, or weird birdlike creatures. A giant mutant parakeet would go here.
+CREABeast  | BEAST                 | BÊTE                  | Big four legged creatures and beasts. Wooly Mammoth, a mutant elephant, Mumakil.
+CREABlob   | BLOB                  | GÉLATINEUSE           | Gelatinous and gooey type creatures, gelatinous cube.
+CREADino   | DINOSAUR              | DINOSAURE             | Dinosaurs of all types, Jurassic Park.
+CREADrgn   | DRAGON                | DRAGON                | Game of Thrones, Lord of the Rings, dragons of all types. See also CREATURES-REPTILIAN.
+CREAElem   | ELEMENTAL             | ÉLÉMENTAIRE           | Creatures based on elements, rock giants, fire creatures, ice monsters, such a the Balrog, or a Rock Giant.
+CREAEthr   | ETHEREAL              | FANTÔME               | Ghosts, spirits, ethereal vocals and wispy movement, apparitions.
+CREAHmn    | HUMANOID              | HUMANOÏDE             | Human sized mythical creatures, so zombies and vampires, elves etc. Troll, Ogres, Orcs. Two legged creatures.
+CREAInsc   | INSECTOID             | INSECTOÏDE            | Giant spiders or other insect like creatures. The creature from The Fly. A giant Tarantula.
+CREAMisc   | MISC                  | DIVERS                | Creature sounds not fitting another category in this list.
+CREAMnstr  | MONSTER               | MONSTRES              | Godzilla, scary monsters, horror monsters. See also CREATURES-HUMANOID.
+CREARept   | REPTILIAN             | REPTILE               | Giant lizards and snakes, large giant hissing monsters.
+CREASmall  | SMALL                 | PETITE                | Specifically small mythical creatures. Fairies, pixies, small rodent like creatures, etc. Distinguished by small size.
+CREASrce   | SOURCE                | SOURCE                | Source recordings meant for creature design, like prop recordings, human voice packs for design, etc.

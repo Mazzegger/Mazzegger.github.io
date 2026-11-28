@@ -1,0 +1,14 @@
+UCS v8.2.1 — NATURAL DISASTER  (CATASTROPHE NATURELLE)   CatShort : NATD
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. NATDAval_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+NATDAval   | AVALANCHE             | AVALANCHE             | Composite big movements of sliding, falling earth, landslides, mudslides. This category often for big hollywood versions of these types of sound.
+NATDQuak   | EARTHQUAKE            | SÉISME                | Composite and complex earthquake rumbles and rattles. This category often for big hollywood versions of these types of sound.
+NATDMisc   | MISC                  | DIVERS                | Natural Disaster sounds not fitting another category in this list.
+NATDTorn   | TORNADO               | TORNADE               | Composite tornado sounds, layered and created massive tornadoes. This category often for big hollywood versions of these types of sound.
+NATDTsun   | TSUNAMI               | TSUNAMI               | Composite tidal wave or tsunami scenes, layered and created. This category often for big hollywood versions of these types of sound.
+NATDThyp   | TYPHOON               | OURAGAN               | Composite typhoons, cyclones or hurricanes. Massive swirling storms. This category often for big hollywood versions of these types of sound.
+NATDVolc   | VOLCANO               | VOLCAN                | Composite big volcano eruptions. Lava, lava bombs, eruptions. This category often for big hollywood versions of these types of sound. See also GEOTHERMAL-LAVA.

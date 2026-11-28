@@ -1,0 +1,37 @@
+UCS v8.2.1 — VEHICLES  (VÉHICULES)   CatShort : VEH
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. VEHAlrm_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+VEHAlrm    | ALARM                 | ALARME                | Not sirens, but just Car alarms, car alarm arm and disarm chirps.
+VEHAntq    | ANTIQUE               | ANCIEN                | Very old vehicles, such a Model A, Model T. Mainly cars, but possible other very old vehicles, trucks, tractors.
+VEHAtv     | ATV                   | TOUT TERRAIN          | All-Terrain Vehicle, three and four-wheelers, dune buggies, side by side.
+VEHBike    | BICYCLE               | VÉLO                  | Bicycles, recumbent bikes, unicycles too. Any manner of pedal powered bicycle.
+VEHBrake   | BRAKE                 | FREIN                 | Brake squeals and screeches of all kinds. TRAINS-BRAKE has its own category.
+VEHBus     | BUS                   | BUS                   | City buses, school buses, Greyhound buses.
+VEHCar     | CAR                   | VOITURE               | All cars except overtly antique... add ERA to metadata to make searches easier. 1950s, 1960s...
+VEHCnst    | CONSTRUCTION          | CHANTIER              | Cranes, bulldozers, paving vehicles, any construction related vehicle goes here.
+VEHDoor    | DOOR                  | PORTE                 | Car, van, truck. Their doors all go here.
+VEHElec    | ELECTRIC              | ÉLECTRIQUE            | Electric golf carts, electric scooters, electric cars. A Tesla. Any variety of electric vehicle, even electric motorcycles.
+VEHEmrg    | EMERGENCY             | URGENCE               | Specifically emegency vehicles like Firetrucks, Ambulances, Police cars. Isolated sirens would go still to VEHICLES-SIREN.
+VEHFarm    | FARM                  | AGRICOLE              | I'd put farm tractors here, Some overlap possibly with CONSTRUCTION vehicles. A riding lawn mower would best to MACHINES-GARDEN maybe.
+VEHFrght   | FREIGHT               | POIDS LOURD           | Big Rigs, Lorry, Semi-truck, U-Haul trucks, not for TRAINS, which have their own category.
+VEHBy      | GENERIC BY            | PASSAGE               | Generic or general vehicle pass bys, not 'traffic'. Bys for a specific car go with that car. For group passbys use AMBIENCE-TRAFFIC.
+VEHHorn    | HORN                  | KLAXON                | Specifically car and vehicles horns. BOATS-HORNS and TRAINS-HORN have their own category. Fog horn would go into HORNS-AIR.
+VEHInt     | INTERIOR              | INTÉRIEUR             | Interior recordings (ambiences) for car, truck, van interiors, from passenger cars, to back of a moving truck, riding inside a bus.
+VEHJalop   | JALOPY                | DÉFECTUEUX            | Backfiring, poorly running vehicle. False starts, sputtering... In foreign language translate to MALFUNCTIONING. See also CARTOON-VEHICLE.
+VEHMech    | MECHANISM             | ACCESSOIRE            | Various mechanisms on a vehicle, like seatbelts, window cranks, door locks.
+VEHMil     | MILITARY              | MILITAIRE             | Overtly military ground vehicles. Tanks and military trucks for example. Armored Personnel Carriers, military Jeeps. See also AIRCRAFT-MILITARY and BOATS-MILITARY.
+VEHMisc    | MISC                  | DIVERS                | Vehicles sounds not fitting another category in this list.
+VEHMoto    | MOTORCYCLE            | MOTO                  | Scooters, Motorcycles, Vespas, Motocross… All things 2 wheeled and powered. ATV goes to VEHICLES-ATV.
+VEHRace    | RACING                | COURSE                | Racing cars or drag racing cars. Indy and Formula 1 cars, monster trucks, BOATS-RACING has its own category.
+VEHSirn    | SIREN                 | SIRÈNE                | Police, Firetruck, Ambulance sirens. Any vehicle siren. See also VEHICLES-EMERGENCY if engine sounds are present also.
+VEHSkid    | SKID                  | DÉRAPAGE              | Tire skids, peel-outs. Other tire sounds go in VEHICLES-TIRES.
+VEHSusp    | SUSPENSION            | SUSPENSION            | Suspension squeaks and rattles, for any car, truck, semi. Suspensions springs. A car or truck on a very rough road.
+VEHTire    | TIRE                  | PNEU                  | Tire rolls on various surfaces, tire whines, no engine sounds, isolated tire sounds. A flat tire flop.
+VEHTruck   | TRUCK VAN & SUV       | CAMIONNETTE VAN & SUV | Passenger Trucks, pickup trucks, Vans and SUVs. Commercial trucks go in VEHICLES-FREIGHT.
+VEHUtil    | UTILITY               | VOITURETTE            | Golf carts, cushmans, traffic, gator, small motorized utility vehicles.
+VEHWagn    | WAGON                 | CALÈCHE               | Old wood wagon, horse drawn carts, carriages, buggies. A Stagecoach.
+VEHWndw    | WINDOW                | FENÊTRE               | Powered windows for any vehicles, crank windows should go in VEHICLES-MECHANISM.

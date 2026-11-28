@@ -1,0 +1,674 @@
+[
+ {
+  "mixkit_id": "3115",
+  "cue": 0.0,
+  "mode": "peak",
+  "sync": 0.11,
+  "placed": -0.11,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "1433",
+  "cue": 0.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 0.0,
+  "gain_db": -15
+ },
+ {
+  "mixkit_id": "3115",
+  "cue": 0.5,
+  "mode": "peak",
+  "sync": 0.11,
+  "placed": 0.39,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "1433",
+  "cue": 0.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 0.5,
+  "gain_db": -15
+ },
+ {
+  "mixkit_id": "3115",
+  "cue": 1.0,
+  "mode": "peak",
+  "sync": 0.11,
+  "placed": 0.89,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "1433",
+  "cue": 1.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 1.0,
+  "gain_db": -15
+ },
+ {
+  "mixkit_id": "3115",
+  "cue": 1.5,
+  "mode": "peak",
+  "sync": 0.11,
+  "placed": 1.39,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "1433",
+  "cue": 1.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 1.5,
+  "gain_db": -15
+ },
+ {
+  "mixkit_id": "2364",
+  "cue": 2.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 2.0,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "3120",
+  "cue": 2.75,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 2.75,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "790",
+  "cue": 4.0,
+  "mode": "end",
+  "sync": 2.575,
+  "placed": 1.425,
+  "gain_db": -5
+ },
+ {
+  "mixkit_id": "1486",
+  "cue": 3.95,
+  "mode": "peak",
+  "sync": 1.196,
+  "placed": 2.754,
+  "gain_db": -11
+ },
+ {
+  "mixkit_id": "2900",
+  "cue": 4.0,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 4.0,
+  "gain_db": -2
+ },
+ {
+  "mixkit_id": "788",
+  "cue": 4.0,
+  "mode": "hit",
+  "sync": 2.158,
+  "placed": 1.842,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "772",
+  "cue": 6.0,
+  "mode": "hit",
+  "sync": 0.362,
+  "placed": 5.638,
+  "gain_db": -7
+ },
+ {
+  "mixkit_id": "772",
+  "cue": 6.5,
+  "mode": "hit",
+  "sync": 0.362,
+  "placed": 6.138,
+  "gain_db": -7
+ },
+ {
+  "mixkit_id": "772",
+  "cue": 7.0,
+  "mode": "hit",
+  "sync": 0.362,
+  "placed": 6.638,
+  "gain_db": -7
+ },
+ {
+  "mixkit_id": "2627",
+  "cue": 7.75,
+  "mode": "peak",
+  "sync": 0.254,
+  "placed": 7.496,
+  "gain_db": -6
+ },
+ {
+  "mixkit_id": "2608",
+  "cue": 7.9,
+  "mode": "peak",
+  "sync": 0.434,
+  "placed": 7.466,
+  "gain_db": -11
+ },
+ {
+  "mixkit_id": "3120",
+  "cue": 8.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 8.0,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "2568",
+  "cue": 9.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 9.0,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "166",
+  "cue": 9.3,
+  "mode": "peak",
+  "sync": 0.334,
+  "placed": 8.966,
+  "gain_db": -13
+ },
+ {
+  "mixkit_id": "2356",
+  "cue": 9.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 9.0,
+  "gain_db": -11
+ },
+ {
+  "mixkit_id": "2357",
+  "cue": 9.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 9.5,
+  "gain_db": -11
+ },
+ {
+  "mixkit_id": "2356",
+  "cue": 10.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 10.0,
+  "gain_db": -11
+ },
+ {
+  "mixkit_id": "2357",
+  "cue": 10.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 10.5,
+  "gain_db": -11
+ },
+ {
+  "mixkit_id": "1492",
+  "cue": 11.85,
+  "mode": "peak",
+  "sync": 1.08,
+  "placed": 10.77,
+  "gain_db": -7
+ },
+ {
+  "mixkit_id": "2635",
+  "cue": 12.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 12.0,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "2521",
+  "cue": 13.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 13.0,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "2866",
+  "cue": 13.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 13.25,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "2519",
+  "cue": 13.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 13.5,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "2521",
+  "cue": 13.75,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 13.75,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "2866",
+  "cue": 14.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 14.0,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "2519",
+  "cue": 14.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 14.25,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "2521",
+  "cue": 14.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 14.5,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "2655",
+  "cue": 14.75,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 14.75,
+  "gain_db": -7
+ },
+ {
+  "mixkit_id": "3005",
+  "cue": 15.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 15.25,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "1481",
+  "cue": 15.85,
+  "mode": "peak",
+  "sync": 0.792,
+  "placed": 15.058,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "2633",
+  "cue": 16.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 16.0,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "1430",
+  "cue": 16.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 16.5,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "1430",
+  "cue": 17.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 17.0,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "1430",
+  "cue": 17.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 17.5,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "2150",
+  "cue": 18.0,
+  "mode": "hit",
+  "sync": 0.114,
+  "placed": 17.886,
+  "gain_db": -4
+ },
+ {
+  "mixkit_id": "2870",
+  "cue": 18.15,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 18.15,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "2356",
+  "cue": 18.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 18.5,
+  "gain_db": -13
+ },
+ {
+  "mixkit_id": "3115",
+  "cue": 19.85,
+  "mode": "peak",
+  "sync": 0.11,
+  "placed": 19.74,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "2909",
+  "cue": 20.0,
+  "mode": "hit",
+  "sync": 0.074,
+  "placed": 19.926,
+  "gain_db": -4
+ },
+ {
+  "mixkit_id": "772",
+  "cue": 20.5,
+  "mode": "hit",
+  "sync": 0.362,
+  "placed": 20.138,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "1063",
+  "cue": 20.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 20.5,
+  "gain_db": -11
+ },
+ {
+  "mixkit_id": "951",
+  "cue": 22.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 22.0,
+  "gain_db": -6
+ },
+ {
+  "mixkit_id": "2356",
+  "cue": 23.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 23.0,
+  "gain_db": -13
+ },
+ {
+  "mixkit_id": "2627",
+  "cue": 23.85,
+  "mode": "peak",
+  "sync": 0.254,
+  "placed": 23.596,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "2655",
+  "cue": 24.0,
+  "mode": "hit",
+  "sync": 0.0,
+  "placed": 24.0,
+  "gain_db": -5
+ },
+ {
+  "mixkit_id": "2529",
+  "cue": 24.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 24.5,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "3005",
+  "cue": 25.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 25.5,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "2364",
+  "cue": 26.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 26.0,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "2364",
+  "cue": 26.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 26.5,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "1936",
+  "cue": 27.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 27.0,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "1993",
+  "cue": 27.05,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 27.05,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "1492",
+  "cue": 27.85,
+  "mode": "peak",
+  "sync": 1.08,
+  "placed": 26.77,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "2638",
+  "cue": 28.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 28.0,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "890",
+  "cue": 28.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 28.25,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "2529",
+  "cue": 29.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 29.0,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "3116",
+  "cue": 30.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 30.0,
+  "gain_db": -5
+ },
+ {
+  "mixkit_id": "2842",
+  "cue": 30.25,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 30.25,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "2350",
+  "cue": 30.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 30.5,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "3115",
+  "cue": 31.85,
+  "mode": "peak",
+  "sync": 0.11,
+  "placed": 31.74,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "1464",
+  "cue": 32.0,
+  "mode": "peak",
+  "sync": 0.102,
+  "placed": 31.898,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "772",
+  "cue": 32.0,
+  "mode": "hit",
+  "sync": 0.362,
+  "placed": 31.638,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "1464",
+  "cue": 32.5,
+  "mode": "peak",
+  "sync": 0.102,
+  "placed": 32.398,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "772",
+  "cue": 32.5,
+  "mode": "hit",
+  "sync": 0.362,
+  "placed": 32.138,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "1464",
+  "cue": 33.0,
+  "mode": "peak",
+  "sync": 0.102,
+  "placed": 32.898,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "772",
+  "cue": 33.0,
+  "mode": "hit",
+  "sync": 0.362,
+  "placed": 32.638,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "1464",
+  "cue": 33.5,
+  "mode": "peak",
+  "sync": 0.102,
+  "placed": 33.398,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "772",
+  "cue": 33.5,
+  "mode": "hit",
+  "sync": 0.362,
+  "placed": 33.138,
+  "gain_db": -12
+ },
+ {
+  "mixkit_id": "1474",
+  "cue": 34.0,
+  "mode": "peak",
+  "sync": 1.204,
+  "placed": 32.796,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "2357",
+  "cue": 34.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 34.5,
+  "gain_db": -11
+ },
+ {
+  "mixkit_id": "1992",
+  "cue": 35.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 35.0,
+  "gain_db": -8
+ },
+ {
+  "mixkit_id": "790",
+  "cue": 36.0,
+  "mode": "end",
+  "sync": 2.575,
+  "placed": 33.425,
+  "gain_db": -6
+ },
+ {
+  "mixkit_id": "2918",
+  "cue": 36.0,
+  "mode": "hit",
+  "sync": 3.028,
+  "placed": 32.972,
+  "gain_db": -3
+ },
+ {
+  "mixkit_id": "2901",
+  "cue": 36.0,
+  "mode": "hit",
+  "sync": 1.404,
+  "placed": 34.596,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "3062",
+  "cue": 36.75,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 36.75,
+  "gain_db": -10
+ },
+ {
+  "mixkit_id": "2357",
+  "cue": 37.5,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 37.5,
+  "gain_db": -9
+ },
+ {
+  "mixkit_id": "2356",
+  "cue": 38.0,
+  "mode": "start",
+  "sync": 0.0,
+  "placed": 38.0,
+  "gain_db": -11
+ }
+]

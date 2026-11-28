@@ -1,0 +1,22 @@
+UCS v8.2.1 — ANIMALS  (ANIMAUX)   CatShort : ANML
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. ANMLAmph_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+ANMLAmph   | AMPHIBIAN             | AMPHIBIEN             | Technically any amphibian, but most likely used for frogs and toads.
+ANMLAqua   | AQUATIC               | MARIN                 | All manner of marine and sea animals, not just mammals, but anything that lives in water.
+ANMLBat    | BAT                   | CHAUVE SOURIS         | Bat chirps, echolocation and communicative vocalization. Wings would go under WINGS-MISC.
+ANMLCat    | CAT DOMESTIC          | CHAT                  | Domesticated house cats. See also ANIMALS-CAT WILD.
+ANMLWcat   | CAT WILD              | FÉLIN                 | Wild cats as opposed to domesticated cats. Tigers and Lions.
+ANMLDog    | DOG                   | CHIEN                 | All Domesticated dogs, excluding wild dogs. Pet dogs. See also ANIMALS-WILD DOG for non-domesticated dogs.
+ANMLWdog   | DOG WILD              | CHIEN SAUVAGE         | Wild dogs and canines like Wolves, Foxes, Coyotes etc.
+ANMLFarm   | FARM                  | FERME                 | Domesticated mammals you'd find on a farm. For farm birds see BIRDS-FOWL. See also AMBIENCE-FARM.
+ANMLHors   | HORSE                 | CHEVAL                | All members of the horse family, including donkeys and mules. See also FOOTSTEPS-HORSE and EQUIPMENT-BRIDLE.
+ANMLInsc   | INSECT                | INSECTE               | All manner of traditional insect sounds, crickets, cicada, flies and bees. And singular insect recordings. See also AMBIENCE-INSECT now for dense ambience style recordings.
+ANMLMisc   | MISC                  | DIVERS                | Other animals not finding a clear category.
+ANMLPrim   | PRIMATE               | PRIMATE               | All members of the primate family except humans. Apes, Chimps, etc.
+ANMLRept   | REPTILE               | REPTILE               | All reptiles including snakes, turtles and lizzards.
+ANMLRdnt   | RODENT                | RONGEUR               | All manner 'gnawing' animals like rats and mice. Rodents.
+ANMLWild   | WILD                  | SAUVAGE               | Any wild animal not explicitly defined by the list, and not domesticated. Wolves and Coyotes now to go ANIMALS-DOG WILD

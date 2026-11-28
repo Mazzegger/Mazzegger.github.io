@@ -1,0 +1,13 @@
+UCS v8.2.1 — CLOTH  (TISSUS)   CatShort : CLOTH
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. CLOTHFlp_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+CLOTHFlp   | FLAP                  | BATTEMENT             | Cloth flapping, as in a flag flapping, or superman's cape. Also ship sails and parachutes.
+CLOTHHndl  | HANDLE                | MANIPULATION          | Cloth handling, grabbing a jacket, clothy arm grabs, etc. Some overlap with CLOTH-MOVEMENT. See also possibly OBJECTS-FASHION.
+CLOTHImpt  | IMPACT                | IMPACT                | Cloth impacts, throwing a jacket forcefully to the floor, a wet towel snap. Some overlap with CLOTH-MOVEMENT possible.
+CLOTHMisc  | MISC                  | DIVERS                | Cloth sounds not fitting another category in this list.
+CLOTHMvmt  | MOVEMENT              | MOUVEMENT             | Varied cloth movement except flapping which has its own category. Variety of cloth movement. Cloth zuzz. See also CLOTH-FLAP.
+CLOTHRip   | RIP                   | DÉCHIRE               | Various cloth rips and tears, short to long. Velcro would best fit here too.

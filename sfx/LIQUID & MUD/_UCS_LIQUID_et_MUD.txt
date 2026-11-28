@@ -1,0 +1,12 @@
+UCS v8.2.1 — LIQUID & MUD  (LIQUIDE & BOUE)   CatShort : LIQ
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. LIQBubl_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+LIQBubl    | BUBBLES               | BULLES                | Mud and thicker than water, thick bubbles, viscous liquid. Things like Oil, gloopy thick liquids.
+LIQImpt    | IMPACT                | IMPACT                | Mud and thicker than water, Splats and hit. Things like Oil, gloopy thick liquids.
+LIQMisc    | MISC                  | DIVERS                | Mud and thicker than water sounds not fitting another category in this list.
+LIQMvmt    | MOVEMENT              | MOUVEMENT             | Mud and thicker than water, oozing, slime, glooping. Things like Oil, gloopy thick liquids.
+LIQSuct    | SUCTION               | SUCCION               | Thicker than water, disgusting liquidy suction, plunger sucks. Things like Oil, gloopy thick liquids.

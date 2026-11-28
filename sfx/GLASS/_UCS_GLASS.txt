@@ -1,0 +1,15 @@
+UCS v8.2.1 — GLASS  (VERRE)   CatShort : GLAS
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. GLASBrk_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+GLASBrk    | BREAK                 | CASSE                 | Glass singular breaks, so a bottle smash, or a window shatter.
+GLASCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Glass crashes and debris, so multiple items crashing, and isolated glass shards and debris.
+GLASFric   | FRICTION              | FRICTION              | Glass friction, such as a scrape or squeak. Could be some overlap with GLASS-TONAL.
+GLASHndl   | HANDLE                | MANIPULATION          | Glass objects being handled, grabbing a bottle or glass. Some overlap with GLASS-MOVEMENT.
+GLASImpt   | IMPACT                | IMPACT                | Glass impacts without breaking, so a bottle hit that doesn't break, a bottle dropping to the ground but not breaking.
+GLASMisc   | MISC                  | DIVERS                | Glass sounds not fitting another category in this list.
+GLASMvmt   | MOVEMENT              | MOUVEMENT             | Glass movement, such as a case of bottles rattling, or a bottle rolling on the floor. See also GLASS-HANDLE.
+GLASTonl   | TONAL                 | TONAL                 | Glass tonal sounds, like bowed blass, a glass harmonica, or a bowed crystal bowl.

@@ -1,0 +1,17 @@
+UCS v8.2.1 — GORE  (GORE)   CatShort : GORE
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. GOREBlood_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+GOREBlood  | BLOOD                 | SANG                  | Gore blood sounds, dripping and flowing. Likely some overlap with LIQUID & MUD, but this for particularly 'gory' versions.
+GOREBone   | BONE                  | OS                    | Gore bones, bones crunching, snapping, break. Put creature JAW SNAPS here too.
+GOREBurn   | BURN                  | BRÛLER                | Gore flesh sizzling, possible overlap with FIRE-SIZZLING, but this more exaggerated for flesh burning.
+GOREFlsh   | FLESH                 | CHAIR                 | Gore flesh tearing, ripping, peeling. Very graphic flesh sounds. A monster ripping someone apart.
+GOREMisc   | MISC                  | DIVERS                | Gore sounds not fitting another category in this list.
+GOREOoze   | OOZE                  | SUINTER               | Gore gross oozing liquid, open wounds, possible overlap with LIQUID categories, but this hyperreal and over the top.
+GORESrce   | SOURCE                | SOURCE                | Recordings meant as source for GORE sounds, smashing a watermelon, stabbing a pumpkin, etc.
+GORESplt   | SPLAT                 | SPLAT                 | Gore splats, gross splats of gooey stuff. A body or head exploding and hitting the wall. Hyperreal.
+GORESqsh   | SQUISH                | GICLER                | Gore squishes, disgusting squishes or flesh and organs. A dinosaur stepping on a person and squishing them.
+GOREStab   | STAB                  | POIGNARDER            | Gore sharp stabs and sword pulls. That classic sound of someone being impaled. More crunchy than a SQUISH.

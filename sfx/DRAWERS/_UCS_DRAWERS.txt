@@ -1,0 +1,11 @@
+UCS v8.2.1 — DRAWERS  (TIROIRS)   CatShort : DRWR
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. DRWRMetl_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+DRWRMetl   | METAL                 | MÉTAL                 | Metal drawers like on a toolbox.
+DRWRMisc   | MISC                  | DIVERS                | Drawer sounds not fitting another category in this list.
+DRWRPlas   | PLASTIC               | PLASTIQUE             | Plastic drawers, maybe on a parts bin.
+DRWRWood   | WOOD                  | BOIS                  | Kitchen drawers, bathroom drawers. Most drawers would probably fall into this category.

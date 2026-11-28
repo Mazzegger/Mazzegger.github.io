@@ -1,0 +1,24 @@
+UCS v8.2.1 — MACHINES  (MACHINES)   CatShort : MACH
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. MACHAmus_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+MACHAmus   | AMUSEMENT             | ATTRACTION            | Theme park rides such as rollercoasters and carnival rides. Carnival game machines. General ambiences to go in AMBIENCE-AMUSEMENT.
+MACHAntq   | ANTIQUE               | ANCIENNE              | Old mechanical sewing machines, ancient looms, olive presses, a bit ambiguous but a very old mechanical machine.
+MACHAppl   | APPLIANCE             | APPAREIL              | General appliances, refrigerator, stove, oven, vacuum cleaner... AC and fans have their own category.
+MACHCnst   | CONSTRUCTION          | CHANTIER              | A machine for construction that isn't a vehicle or a tool. For example a cement mixer, a woodchipper.
+MACHElev   | ELEVATOR              | ASCENSEUR             | Elevator movement and doors would go here.
+MACHEscl   | ESCALATOR             | ESCALATOR             | Escalators and moving walkways would go here.
+MACHFan    | FAN                   | VENTILATEUR           | Fans of all types, box fans, ceiling fans. For air conditioning use MACHINES-HVAC.
+MACHGrdn   | GARDEN                | JARDIN                | Powered landscaping machines, lawnmowers, weed-whackers, edgers, hedge trimmers. See also TOOLS-GARDEN and OBJECTS-GARDEN.
+MACHGym    | GYM                   | GYM                   | Exercise bikes, weight machines, treadmill, all things fitness. See also OBJECTS-GYM
+MACHTech   | HITECH                | HIGH TECH             | Think cool James Bond machines, big elaborate death traps, maybe Rube Goldberg type machines. See also SCIFI-MACHINE.
+MACHHvac   | HVAC                  | VENTILATION           | Furnaces, Air Conditioners. Fans go in MACHINES-FAN. A close up gas furnace flame would go to FIRE-GAS.
+MACHInd    | INDUSTRIAL            | INDUSTRIEL            | Big industrial presses, factory machines, industrial robots, any heavy manufacturing machines.
+MACHMech   | MECHANISM             | MÉCANISME             | Complex mechanical smaller machines and gadgets, puzzle boxes that open portals to hell. Usually smaller devices.
+MACHMed    | MEDICAL               | MÉDICAL               | Machines typically found in a hospital, medical lab or Doctor's office.
+MACHMisc   | MISC                  | DIVERS                | Machine sounds not fitting another category in this list. See also MOTOR category.
+MACHOffc   | OFFICE                | BUREAU                | Machines typically found in an office, such as printers and copy machines.
+MACHPump   | PUMP                  | POMPE                 | Air or water pumps, fish tank aquarium pumps, sump pumps. Air compressors would fall into this category.

@@ -1,0 +1,27 @@
+UCS v8.2.1 — WATER  (EAU)   CatShort : WATR
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. WATRBubl_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+WATRBubl   | BUBBLES               | BULLES                | Single or continuous bubbles. Water boiling on a stove, fish tank bubbles.
+WATRDran   | DRAIN                 | ÉVACUATION            | Draining gurgling water, pulling in air with it as it drains, think a kitchen sink drain, or a storm drain, shower drain.
+WATRDrip   | DRIP                  | GOUTTE                | Water dripping, slow to fast. A cave drip, a leaking pipe dripping or a kitchen faucet dripping.
+WATRFizz   | FIZZ                  | PÉTILLE               | That sound of Alka-Seltzer in a cup, air fizzing in water. Carbonated beverages.
+WATRFlow   | FLOW                  | ÉCOULEMENT            | General water flowing, in our case as in a river, creek or stream. Steady water. Rapids would fall under WATER-TURBULENCE, and WATERFALL has its own subcategory
+WATRFoun   | FOUNTAIN              | FONTAINE              | Water features and fountains, trickles or flows for a fountain, splashy fountains. From tiny to large city fountains.
+WATRImpt   | IMPACT                | IMPACT                | Percussive water impact, large crash or slam of water, as in huge wave hitting an object. Bigger and sharper than a SPLASH
+WATRLap    | LAP                   | CLAPOTIS              | Water splashing against something like against the side of a boat or canoe, or a dock. Also meant for very small waves lapping on shore, like gentle very small waves at night.
+WATRMisc   | MISC                  | DIVERS                | Water sounds not fitting another category in this list.
+WATRMvmt   | MOVEMENT              | MOUVEMENT             | Movement in water but not underwater (see WATER-UNDERWATER) Drags through water, swimming movements, sweeps of objects through water. Thrashing in water.
+WATRPlmb   | PLUMBING              | PLOMBERIE             | Household plumbing, like a sink running, a toilet flush, the shower running. DRAIN has its own subcategory.
+WATRPour   | POUR                  | VERSER                | Pouring water, onto ground, into a cup. Overlap with FOOD & DRINK-POUR.
+WATRSplsh  | SPLASH                | ÉCLABOUSSURE          | Water splashes of all kind, a person diving into a pool, a whale cresting, throwing a rock into water.
+WATRSpray  | SPRAY                 | SPRAY                 | Big sprays of a wave crash, to a hose spray.
+WATRStm    | STEAM                 | VAPEUR                | Very wet hisses, radiators, saunas. Hot wet steam.
+WATRSurf   | SURF                  | OCÉAN                 | The general roar of the ocean, not the sport. Constant ocean roaring waves.
+WATRTurb   | TURBULENT             | TURBULENT             | Very big splashy water. Whirlpools, big rapids on a river. Dangerous water.
+WATRUndwtr | UNDERWATER            | SOUS MARIN            | Specifically underwater sounds, flows, current and movement, Swimming underwater. See also AMBIENCE-UNDERWATER and WATER-MOVEMENT as well.
+WATRFall   | WATERFALL             | CASCADE               | Waterfalls from small cascading ones to Niagara falls.
+WATRWave   | WAVE                  | VAGUE                 | For general water waves, distinct waves. General ocean roar to go in WATER-SURF, and tiny waves to WATER-LAPPING. See also NATURAL DISASTERS-TSUNAMI.

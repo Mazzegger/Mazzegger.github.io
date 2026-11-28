@@ -1,0 +1,15 @@
+UCS v8.2.1 — MOVEMENT  (MOUVEMENT)   CatShort : MOVE
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. MOVEActv_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+MOVEActv   | ACTIVITY              | ACTIVITÉ              | Crowds moving but also performing activities, cleaning, moving boxes. Clean recordings with no vocals. See MOVEMENT-HUMAN for Single activity.
+MOVEAnml   | ANIMAL                | ANIMAL                | Group animal movement, individual feet go to FOOTSTEPS-ANIMAL or FOOTSTEPS-HORSE. But think herds of grazing animals, stampedes.
+MOVECrea   | CREATURE              | CRÉATURE              | Slithering Dragons, Gooey Zombie Movement.
+MOVECrwd   | CROWD                 | FOULE                 | Groups of people milling or walking. Usually mostly just recordings of group footsteps in real locations. No vocals. Compare to MOVEMENT-ACTIVITY.
+MOVEHmn    | HUMAN                 | HUMAIN                | Movement of single human, aside from footsteps, standing, sitting, shuffe. Some overlap or confusion with FOOTSTEP-HUMAN or MOVEMENT-ACTIVITY.
+MOVEInsc   | INSECT                | INSECTE               | Group insects, footsteps, movement, swarms, spiders, locusts. Swarms of flying insects here too, bees, flies. Overlap with ANIMALS-INSECT or AMBIENCE-INSECT.
+MOVEMisc   | MISC                  | DIVERS                | Movement sounds not fitting another category in this list.
+MOVEPres   | PRESENCE              | PRÉSENCE              | Very light movement, people in church adjusting, people on church pews. Again, recordings without vocals. Compare to MOVEMENT-ACTIVITY and MOVEMENT-CROWD.

@@ -1,0 +1,14 @@
+UCS v8.2.1 — USER INTERFACE  (INTERFACE)   CatShort : UI
+Sons dans ce dossier : 71
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. UIAlert_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+UIAlert    | ALERT                 | NOTIFICATION          | An alert tone or chime or notification. Something that gets Attention of User, startup chimes.
+UIBeep     | BEEP                  | BIP                   | Interface beeps, beeps while interacting with various technology, phones, computers. Also see BEEPS category.
+UIClick    | CLICK                 | CLIC                  | Typing clicks, button press clicks, response to input.
+UIData     | DATA                  | DONNÉES               | User interface calculations, scanning, thinking, text displayed on screen. Screen gak or garble.
+UIGlitch   | GLITCH                | GLITCH                | On Screen Glitches or Static. Malfunctioning computer or OS.
+UIMisc     | MISC                  | DIVERS                | User Interface sounds not fitting another category in this list.
+UIMvmt     | MOTION                | MOUVEMENT             | User interface slides, swipes, scrolls. Open, Close, Appear, DIsappear.

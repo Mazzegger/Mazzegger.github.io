@@ -1,0 +1,30 @@
+{
+  "fps": 30, "width": 1080, "height": 1920, "duration": 40.0, "bpm": 120,
+  "music": {"file": "music_836_lets_move.wav", "title": "Let's Move (Mixkit)", "start": 12.035, "dropVideo": 4.0, "cut": [35.5, 36.0], "fadeOut": [38.6, 40.0]},
+  "scenes": {
+    "hook":   [0.0, 4.0],
+    "logo":   [4.0, 8.0],
+    "find":   [8.0, 12.0],
+    "map":    [12.0, 16.0],
+    "verify": [16.0, 20.0],
+    "avail":  [20.0, 24.0],
+    "pay":    [24.0, 28.0],
+    "stay":   [28.0, 32.0],
+    "trust":  [32.0, 34.0],
+    "owner":  [34.0, 36.0],
+    "cta":    [36.0, 40.0]
+  },
+  "ev": {
+    "cityCuts": [0.0, 0.5, 1.0, 1.5], "hookLine": [2.0, 2.75], "whiteout": 3.75,
+    "drop": 4.0, "words": [6.0, 6.5, 7.0], "zoomThrough": 7.5,
+    "phoneIn": 8.0, "listIn": 9.0, "callouts": [9.0, 9.5, 10.0, 10.5], "whip": 11.75,
+    "mapDraw": 12.0, "pins": [13.0, 13.25, 13.5, 13.75, 14.0, 14.25, 14.5], "cities": 14.75, "soon": 15.25, "toVerify": 15.75,
+    "fan": 16.0, "shots": [16.5, 17.0, 17.5], "stamp": 18.0, "stampSub": 18.5, "toAvail": 19.75,
+    "ten": 20.0, "min": 20.5, "tick": [20.5, 22.0], "confirmed": 22.0, "availSub": 23.0, "toPay": 23.75,
+    "thirty": 24.0, "fill": [24.5, 25.5], "deposit": 25.5, "chips": [26.0, 26.5], "coins": 27.0, "toStay": 27.75,
+    "stayIn": 28.0, "qrBuild": [28.25, 29.0], "scan": [29.0, 29.8], "scanOk": 30.0, "key": 30.25, "welcome": 30.5, "toTrust": 31.75,
+    "trust": [32.0, 32.5, 33.0, 33.5],
+    "owner": [34.0, 34.5, 35.0],
+    "ctaHit": 36.0, "ctaTag": 36.75, "ctaUrl": 37.5, "ctaPhone": 38.0, "fade": 39.3
+  }
+}

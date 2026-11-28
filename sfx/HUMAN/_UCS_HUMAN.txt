@@ -1,0 +1,21 @@
+UCS v8.2.1 — HUMAN  (HUMAIN)   CatShort : HMN
+Sons dans ce dossier : 2
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. HMNBlow_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+HMNBlow    | BLOW                  | SOUFFLE               | Blowing air, blowing up a balloon, blowing out candles, etc. See also HUMAN-BREATH for less forceful breathing.
+HMNBrth    | BREATH                | RESPIRE               | Breathing, normal to heavy, big inhales, sighs.
+HMNBurp    | BURP                  | ROTE                  | Human belches, burps.
+HMNCough   | COUGH                 | TOUSSE                | Human coughs and coughing.
+HMNHart    | HEARTBEAT             | PULSATION             | Heartbeats, both literal as in a Dr. office, and stylized or designed heartbeats.
+HMNKiss    | KISS                  | BISOU                 | Human kissing.
+HMNMisc    | MISC                  | DIVERS                | Human sounds not fitting another category in this list.
+HMNPee     | PEE                   | URINE                 | Human urinating.
+HMNSkin    | SKIN                  | PEAU                  | Human skin, Scratching, handshakes, skin on skin action, back rubbing, etc.
+HMNSneez   | SNEEZE                | ÉTERNUE               | Human sneezing.
+HMNSniff   | SNIFF                 | RENIFLE               | Human sniffing, smelling.
+HMNSnor    | SNORE                 | RONFLE                | Human snoring.
+HMNSpit    | SPIT                  | CRACHE                | Human spits.
+HMNVomit   | VOMIT                 | VOMIT                 | Human vomiting.

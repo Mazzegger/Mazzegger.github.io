@@ -1,0 +1,12 @@
+UCS v8.2.1 — CHAINS  (CHAÎNES)   CatShort : CHAIN
+Sons dans ce dossier : 4
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. CHAINBrk_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+CHAINBrk   | BREAK                 | CASSE                 | Chain snapping or breaking, that sharp sound of a chain failing.
+CHAINHndl  | HANDLE                | MANIPULATION          | Chain handling, repairing a bike chain, a prisoner moving around in chains. Some overlap with CHAINS-MOVEMENT.
+CHAINImpt  | IMPACT                | IMPACT                | Chain impacts, such a big chain hit or slam, or a tension snap of a chain being pulled taut.
+CHAINMisc  | MISC                  | DIVERS                | Chain sounds not fitting another category in this list.
+CHAINMvmt  | MOVEMENT              | MOUVEMENT             | Chain handling, particularly being pulled through pulleys or across surfaces. See also CHAINS-HANDLE.

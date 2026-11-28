@@ -1,0 +1,13 @@
+UCS v8.2.1 — SNOW  (NEIGE)   CatShort : SNOW
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. SNOWCrsh_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+SNOWCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Snow big crashes, a big fall of snow, a roof full of snow collapsing. See also NATURAL DISASTER-AVALANCE for the extreme version of this.
+SNOWFric   | FRICTION              | FRICTION              | Snow scrapes, squeaks. Skiing on snow, sledding.
+SNOWHndl   | HANDLE                | MANIPULATION          | Snow being handled, a snowball being formed, etc. Digging out of show with your hands. Some overlap with SNOW-MOVEMENT.
+SNOWImpt   | IMPACT                | IMPACT                | A big impact of snow, like a roof full of snow falling. Or smaller like a snowball. Jumping into a pile of snow.
+SNOWMisc   | MISC                  | DIVERS                | Snow sounds not fitting another category in this list.
+SNOWMvmt   | MOVEMENT              | MOUVEMENT             | Dragging something through snow, rolling in snow. See also SNOW-HANDLE.

@@ -1,0 +1,15 @@
+UCS v8.2.1 — CERAMICS  (CÉRAMIQUE)   CatShort : CERM
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. CERMBrk_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+CERMBrk    | BREAK                 | CASSE                 | Ceramics break of a more singular nature, a plate shatter, breaking, cracking, crunching. Mostly for single items breaking. See also CERAMICS-CRASH & DEBRIS.
+CERMCrsh   | CRASH & DEBRIS        | CRASH & DÉBRIS        | Ceramics destruction of more of a group nature, multiple crashes and debris. See also CERAMICS-BREAK.
+CERMFric   | FRICTION              | FRICTION              | Ceramics friction, scraping, squeaking, screeching.
+CERMHndl   | HANDLE                | MANIPULATION          | Ceramics handling, picking up a coffee mug, handling a plant pot. Some overlap with CERAMICS-MOVEMENT.
+CERMImpt   | IMPACT                | IMPACT                | Ceramics impacts without breaking, so hits drops, clunks and clinks. See also CERAMICS-BREAK.
+CERMMisc   | MISC                  | DIVERS                | Ceramics sounds not fitting another category in this list.
+CERMMvmt   | MOVEMENT              | MOUVEMENT             | Ceramics single or group movement, so dragging, shaking and rattling. See also CERAMICS-HANDLE.
+CERMTonl   | TONAL                 | TONAL                 | Ceramics ringing, as in being bowed.

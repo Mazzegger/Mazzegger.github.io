@@ -1,0 +1,16 @@
+UCS v8.2.1 — FOOD & DRINK  (NOURRITURE & BOISSONS)   CatShort : FOOD
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. FOODCook_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+FOODCook   | COOKING               | CUISINER              | Things overtly related to cooking, baking, preparation, chopping.
+FOODDrnk   | DRINKING              | BOIRE                 | Specifically drinking, would also cover animals drinking, dogs lapping water, a horse drinking.
+FOODEat    | EATING                | MANGER                | Specifically eating, would also cover animals eating, a dog eating or a horse eating. Swallowing, chewing.
+FOODGware  | GLASSWARE             | VERRERIE              | Glass and bottle movement, specifically at a restaurant or bar. Isolated glassware recordings.
+FOODIngr   | INGREDIENTS           | INGRÉDIENTS           | Nuts, seeds, grains, things like that. Raw food recordings often used for other design purposes, vegetable recordings. See also GORE-SOURCE.
+FOODKware  | KITCHENWARE           | USTENSILE             | Pots and pans movement, big metal bowls, prep bowls.
+FOODMisc   | MISC                  | DIVERS                | Food and Drink sounds not fitting another category in this list.
+FOODPour   | POUR                  | VERSER                | Pouring liquid, water, beer, wine, champagne, etc. Some overlap with WATER-POUR, but specifically consumption liquids.
+FOODTware  | TABLEWARE             | VAISSELLE             | Silverware and/or plate movement, in a restaurant or dinner at home. GLASSWARE it's own subcategory.

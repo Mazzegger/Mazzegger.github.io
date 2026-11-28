@@ -1,0 +1,28 @@
+UCS v8.2.1 — MUSICAL  (MUSICAL)   CatShort : MUSC
+Sons dans ce dossier : 6
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. MUSCBell_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+MUSCBell   | BELLS                 | CLOCHES               | Specifically musical bells, tuned bells, think Tubular bells or hand bells. See also the BELL category for non-musical uses. BELL-GONG is older and this is a better fit.
+MUSCBrass  | BRASS                 | CUIVRES               | Brass musical instruments, trumpets, tuba, french horn.
+MUSCChim   | CHIME                 | CHIME                 | Wind chimes, bell trees, Tinkerbell type magic chimes.
+MUSCChor   | CHORAL                | CHORALE               | Choir pieces, choral, not for 'designed type vocally stuff'.
+MUSCExpr   | EXPERIMENTAL          | EXPÉRIMENTAL          | Strange or wierdly modified instruments, exotic instruments, prepared instruments like a prepared piano.
+MUSCInst   | INSTRUMENT            | INSTRUMENT            | Various instruments that don't have a home in the other MUSICAL categories.
+MUSCKeyd   | KEYED                 | CLAVIER               | Keyed Instruments, such as pianos and harpsichord. For synthesizer though see MUSICAL-SYNTHESIZED.
+MUSCLoop   | LOOP                  | BOUCLE                | For looping musical phrases, sampled loops.
+MUSCMisc   | MISC                  | DIVERS                | Music sounds not fitting another category in this list. Hopefully rarely needed.
+MUSCPerc   | PERCUSSION            | PERCUSSIONS           | Drums and percussion, including deep timpani or big war drums. Mainly meant for true membrane instruments, also see MUSICAL-TUNED PERCUSSION
+MUSCTnprc  | PERCUSSION TUNED      | PERCUSSION MÉLODIQUE  | Tuned percussion mostly played with mallets, Xylophones, Vibraphones, etc.
+MUSCPrfm   | PERFORMANCE           | PERFORMANCE           | A musical performance, or warm-up, a live musical act, a street musican, high school band. If a mixed ambience, look to AMBIENCE categories, like PUBLIC PLACE.
+MUSCPluck  | PLUCKED               | PINCÉ                 | Guitars, Banjos, Harps, instruments that are mainly plucked when played. See also MUSICAL-STRINGED.
+MUSCSmpl   | SAMPLE                | SAMPLE                | Musical samples. Single triggered samples, not loops, which has its own subcategory here.
+MUSCShake  | SHAKEN                | SECOUÉ                | Shaken musical instruments, rattles, tamourines.
+MUSCSong   | SONG & PHRASE         | MORCEAU               | Complete musical pieces, songs as ringtones, car music bys. See also MUSICAL-PERFORMANCE which is a better fit for 'live performances'.
+MUSCStngr  | STINGER               | STINGER               | A short musical phrase or accent, like a horror 'string' sting. A big pitching cello note. But musical in nature.
+MUSCStr    | STRINGED              | CORDES                | Bowed string instruments like violin, cello, viola. Harp probably now goes to MUSICAL-PLUCKED.
+MUSCSynth  | SYNTHESIZED           | SYNTHÉTISÉ            | Synth samples, musical synth performances. Some overlap with MUSICAL-SAMPLE, but this meant for more than simple triggered samples.
+MUSCToy    | TOY                   | JOUET                 | Toys that play musical phrases, also music boxes would go here.
+MUSCWind   | WOODWIND              | BOIS                  | Woodwind instruments like flute, oboe, bassoon, clarinet.

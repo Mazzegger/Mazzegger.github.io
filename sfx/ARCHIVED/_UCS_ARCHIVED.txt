@@ -1,0 +1,22 @@
+UCS v8.2.1 — ARCHIVED  (ARCHIVES)   CatShort : ADR
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. ADR_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+ADR        | ADR                   | ADR                   | Re-recorded lines via the ADR process.
+ASSET      | ASSET                 | ASSET                 | A delivered or stored asset, most likely for video game use, but something used in the development of a project.
+BNCE       | BOUNCE                | BOUNCE                | Bounces made for picture department, layered bounces.
+IR         | IMPULSE RESPONSE      | RÉPONSE IMPULSIONNELLE| Impulse Responses, reverb and otherwise.
+LPGRP      | LOOP GROUP            | LOOP GROUP            | Loop group crowds or lines. Specifically recorded in a loop group envirment and needing to tracked as such.
+MIX        | MIX                   | MIX                   | Premixes, final mixes, mixdowns, stems.
+PFX        | PFX                   | PFX                   | FX Stolen from production takes only. Beware of possible rights issues.
+PROD       | PRODUCTION            | PRODUCTION            | Production takes, dialog lines and other spoken line production takes.
+RAW        | RAW                   | RUSHES                | Raw recording files, for example a load of a full DAT tape.
+REF        | REFERENCE             | RÉFÉRENCE             | Reference material, often restricted, used for reference only. Beware of possible rights issues.
+SCNE       | SCENE                 | SCÈNE                 | Pre-built scenes and soundscapes, designed scenes. For example a fully build old-west scene.
+TEST       | TEST TONE             | TEST                  | Test tones used for calibration, ADR beeps, Pink Noise, Sine wave Sweeps.
+TMARK      | TRADEMARKED           | DROITS RÉSERVÉS       | For trademarked or copyright sounds that you need to store in your library. Jingles, logos.
+WIP        | WORK IN PROGRESS      | EN COURS              | Files that aren't fully metadata'd, or mastered, tag to remind you there is work to do. Recordings awaiting mastering.
+WTF        | WTF                   | WTF                   | Literally what it says 'What the F_ck' is THIS sound... Strange otherwise uncategorizable sounds.

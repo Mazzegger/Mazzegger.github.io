@@ -1,0 +1,15 @@
+UCS v8.2.1 — BIRDS  (OISEAUX)   CatShort : BIRD
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. BIRDPrey_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+BIRDPrey   | BIRD OF PREY          | RAPACES               | Birds that prey on vertebrates, especially rodents. Raptors.
+BIRDCrow   | CROW                  | CORNEILLE             | Birds in Corvid family, which includes crows and ravens.
+BIRDFowl   | FOWL                  | VOLAILLE              | Landfowl, wildfowl and waterfowl, also poultry. Ground feeding and many water feeding birds.
+BIRDMisc   | MISC                  | DIVERS                | Bird sounds not fitting another category in this list.
+BIRDSea    | SEA                   | MARIN                 | Birds that live mostly near the ocean. Seagulls, pelicans.
+BIRDSong   | SONGBIRD              | COMMUN                | Specifically singing birds, warblers, robins, thrushes, what you imagine pretty dawn chorus birds.
+BIRDTrop   | TROPICAL              | TROPICAL              | Birds living in tropical locations, jungle and tropical rainforest birds. Parrots and Toucans.
+BIRDWade   | WADING                | ÉCHASSIER             | Long-legged, long-billed birds that feed primarily in shallow water. Think Herons and Egrets.

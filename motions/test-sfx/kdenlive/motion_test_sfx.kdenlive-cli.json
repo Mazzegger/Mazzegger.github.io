@@ -1,0 +1,947 @@
+{
+  "bin": [
+    {
+      "duration": 13.2,
+      "id": "clip0",
+      "name": "Motion (image seule)",
+      "source": "motion_video_only.mp4",
+      "type": "video"
+    },
+    {
+      "duration": 10.0,
+      "id": "clip1",
+      "name": "Drone Ethereal Loop",
+      "source": "../../../sfx/DESIGNED/DSGNDron_Drone Ethereal Loop_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 5.73,
+      "id": "clip2",
+      "name": "Logo Reveal Corporate",
+      "source": "../../../sfx/DESIGNED/DSGNStngr_Logo Reveal Corporate_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 0.15,
+      "id": "clip3",
+      "name": "Swish Tiny",
+      "source": "../../../sfx/SWOOSHES/SWSH_Swish Tiny_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 1.467,
+      "id": "clip4",
+      "name": "Text Typing Screen",
+      "source": "../../../sfx/USER INTERFACE/UIData_Text Typing Screen_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 1.055,
+      "id": "clip5",
+      "name": "Glitch Transition",
+      "source": "../../../sfx/DESIGNED/DSGNMorph_Glitch Transition_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 0.45,
+      "id": "clip6",
+      "name": "Slide In Soft",
+      "source": "../../../sfx/USER INTERFACE/UIMvmt_Slide In Soft_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 0.06,
+      "id": "clip7",
+      "name": "Hover Soft",
+      "source": "../../../sfx/USER INTERFACE/UIClick_Hover Soft_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 0.04,
+      "id": "clip8",
+      "name": "Click Hard",
+      "source": "../../../sfx/USER INTERFACE/UIClick_Click Hard_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 0.098,
+      "id": "clip9",
+      "name": "Toggle On",
+      "source": "../../../sfx/USER INTERFACE/UIClick_Toggle On_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 0.6441,
+      "id": "clip10",
+      "name": "Pop Appear",
+      "source": "../../../sfx/USER INTERFACE/UIMvmt_Pop Appear_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 0.489,
+      "id": "clip11",
+      "name": "Card Swipe Short",
+      "source": "../../../sfx/USER INTERFACE/UIMvmt_Card Swipe Short_SurajET_SurajSFX06.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 1.26,
+      "id": "clip12",
+      "name": "Chime Stair Up",
+      "source": "../../../sfx/USER INTERFACE/UIAlert_Chime Stair Up_SurajET_SurajSFX06.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 1.197,
+      "id": "clip13",
+      "name": "Data Chatter",
+      "source": "../../../sfx/USER INTERFACE/UIData_Data Chatter_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 2.1533,
+      "id": "clip14",
+      "name": "Success Arpeggio",
+      "source": "../../../sfx/USER INTERFACE/UIAlert_Success Arpeggio_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 1.5201,
+      "id": "clip15",
+      "name": "Air Whoosh Medium",
+      "source": "../../../sfx/SWOOSHES/WHSH_Air Whoosh Medium_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 3.259,
+      "id": "clip16",
+      "name": "Score Counter Rollup",
+      "source": "../../../sfx/USER INTERFACE/UIData_Score Counter Rollup_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 2.0,
+      "id": "clip17",
+      "name": "Noise Riser 2s",
+      "source": "../../../sfx/DESIGNED/DSGNRise_Noise Riser 2s_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 4.5296,
+      "id": "clip18",
+      "name": "Cinematic Hit Big",
+      "source": "../../../sfx/DESIGNED/DSGNImpt_Cinematic Hit Big_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 2.3898,
+      "id": "clip19",
+      "name": "Sub Drop 2s",
+      "source": "../../../sfx/DESIGNED/DSGNBass_Sub Drop 2s_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 3.7277,
+      "id": "clip20",
+      "name": "Braam Stab Short",
+      "source": "../../../sfx/DESIGNED/DSGNBram_Braam Stab Short_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 0.9236,
+      "id": "clip21",
+      "name": "Fast Pass By",
+      "source": "../../../sfx/DESIGNED/DSGNWhsh_Fast Pass By_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 3.4078,
+      "id": "clip22",
+      "name": "Magic Sparkle",
+      "source": "../../../sfx/MAGIC/MAGShim_Magic Sparkle_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    },
+    {
+      "duration": 2.3748,
+      "id": "clip23",
+      "name": "Logo Reveal Minimal",
+      "source": "../../../sfx/DESIGNED/DSGNStngr_Logo Reveal Minimal_MotionSynth_MotionLib.wav",
+      "type": "audio"
+    }
+  ],
+  "guides": [
+    {
+      "comment": "",
+      "id": 0,
+      "label": "Logo",
+      "position": 1.0,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 1,
+      "label": "Glitch",
+      "position": 2.533333333333333,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 2,
+      "label": "Panneau",
+      "position": 3.1,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 3,
+      "label": "Clic",
+      "position": 3.7,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 4,
+      "label": "Notification",
+      "position": 4.866666666666666,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 5,
+      "label": "Succ\u00e8s",
+      "position": 6.5,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 6,
+      "label": "Compteur",
+      "position": 7.466666666666667,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 7,
+      "label": "IMPACT",
+      "position": 9.6,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 8,
+      "label": "Pastilles",
+      "position": 10.266666666666667,
+      "type": "default"
+    },
+    {
+      "comment": "",
+      "id": 9,
+      "label": "Logo final",
+      "position": 12.0,
+      "type": "default"
+    }
+  ],
+  "metadata": {
+    "created": "2026-11-28T07:06:40.368308",
+    "modified": "2026-11-28T07:06:46.898164",
+    "software": "kdenlive-cli 1.0"
+  },
+  "name": "Motion test SFX",
+  "profile": {
+    "dar_den": 16,
+    "dar_num": 9,
+    "fps_den": 1,
+    "fps_num": 30,
+    "height": 1920,
+    "name": "custom",
+    "progressive": true,
+    "width": 1080
+  },
+  "tracks": [
+    {
+      "clips": [
+        {
+          "clip_id": "clip0",
+          "filters": [],
+          "in": 0.0,
+          "out": 13.2,
+          "position": 0.0
+        }
+      ],
+      "hide": false,
+      "id": 0,
+      "locked": false,
+      "mute": false,
+      "name": "Vid\u00e9o",
+      "type": "video"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip1",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.0501
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_in_audio",
+              "params": {
+                "duration": 0.6
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 10.0,
+          "position": 0.0
+        },
+        {
+          "clip_id": "clip1",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.0501
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_out_audio",
+              "params": {
+                "duration": 0.9
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 3.2,
+          "position": 10.0
+        }
+      ],
+      "hide": false,
+      "id": 1,
+      "locked": false,
+      "mute": false,
+      "name": "Nappe 1",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip3",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2818
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.13333333333333333,
+          "position": 1.3333333333333333
+        },
+        {
+          "clip_id": "clip3",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2818
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.13333333333333333,
+          "position": 1.5333333333333334
+        },
+        {
+          "clip_id": "clip6",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.3162
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.43333333333333335,
+          "position": 2.8333333333333335
+        },
+        {
+          "clip_id": "clip11",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2512
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.4666666666666667,
+          "position": 4.733333333333333
+        },
+        {
+          "clip_id": "clip15",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.3981
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 1.5,
+          "position": 6.866666666666666
+        },
+        {
+          "clip_id": "clip21",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.3162
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.9,
+          "position": 10.133333333333333
+        }
+      ],
+      "hide": false,
+      "id": 2,
+      "locked": false,
+      "mute": false,
+      "name": "Whoosh 1",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip3",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2818
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.13333333333333333,
+          "position": 1.4333333333333333
+        },
+        {
+          "clip_id": "clip21",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.3162
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.9,
+          "position": 10.333333333333334
+        }
+      ],
+      "hide": false,
+      "id": 3,
+      "locked": false,
+      "mute": false,
+      "name": "Whoosh 2",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip7",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.1259
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.03333333333333333,
+          "position": 3.466666666666667
+        },
+        {
+          "clip_id": "clip8",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.3162
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.03333333333333333,
+          "position": 3.7
+        },
+        {
+          "clip_id": "clip9",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2818
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.06666666666666667,
+          "position": 3.7333333333333334
+        },
+        {
+          "clip_id": "clip10",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2818
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.6333333333333333,
+          "position": 3.933333333333333
+        }
+      ],
+      "hide": false,
+      "id": 4,
+      "locked": false,
+      "mute": false,
+      "name": "UI 1",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip10",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2371
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.6333333333333333,
+          "position": 4.166666666666667
+        }
+      ],
+      "hide": false,
+      "id": 5,
+      "locked": false,
+      "mute": false,
+      "name": "UI 2",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip10",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.1995
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.6333333333333333,
+          "position": 4.333333333333333
+        }
+      ],
+      "hide": false,
+      "id": 6,
+      "locked": false,
+      "mute": false,
+      "name": "UI 3",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip4",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.1995
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_out_audio",
+              "params": {
+                "duration": 0.04
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.7,
+          "position": 1.9
+        },
+        {
+          "clip_id": "clip12",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2818
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 1.2333333333333334,
+          "position": 4.866666666666666
+        },
+        {
+          "clip_id": "clip14",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.3981
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 2.1333333333333333,
+          "position": 6.5
+        }
+      ],
+      "hide": false,
+      "id": 7,
+      "locked": false,
+      "mute": false,
+      "name": "Notifications 1",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip13",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.1413
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_out_audio",
+              "params": {
+                "duration": 0.04
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 1.1666666666666667,
+          "position": 5.3
+        },
+        {
+          "clip_id": "clip16",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2818
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 3.2333333333333334,
+          "position": 7.466666666666667
+        }
+      ],
+      "hide": false,
+      "id": 8,
+      "locked": false,
+      "mute": false,
+      "name": "Notifications 2",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip5",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.3981
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_out_audio",
+              "params": {
+                "duration": 0.04
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 0.4666666666666667,
+          "position": 2.533333333333333
+        },
+        {
+          "clip_id": "clip17",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2818
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 2.0,
+          "position": 7.6
+        },
+        {
+          "clip_id": "clip18",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.7079
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_out_audio",
+              "params": {
+                "duration": 0.3
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 3.6,
+          "position": 9.6
+        }
+      ],
+      "hide": false,
+      "id": 9,
+      "locked": false,
+      "mute": false,
+      "name": "Impacts 1",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip19",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.4467
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 2.3666666666666667,
+          "position": 9.6
+        }
+      ],
+      "hide": false,
+      "id": 10,
+      "locked": false,
+      "mute": false,
+      "name": "Impacts 2",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip20",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.2239
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_out_audio",
+              "params": {
+                "duration": 0.3
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 3.6,
+          "position": 9.6
+        }
+      ],
+      "hide": false,
+      "id": 11,
+      "locked": false,
+      "mute": false,
+      "name": "Impacts 3",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip2",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.631
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 5.7,
+          "position": 0.16666666666666666
+        },
+        {
+          "clip_id": "clip22",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.1778
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_out_audio",
+              "params": {
+                "duration": 0.3
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 2.1,
+          "position": 11.1
+        }
+      ],
+      "hide": false,
+      "id": 12,
+      "locked": false,
+      "mute": false,
+      "name": "Magie et logo 1",
+      "type": "audio"
+    },
+    {
+      "clips": [
+        {
+          "clip_id": "clip23",
+          "filters": [
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "volume",
+              "params": {
+                "gain": 0.5012
+              }
+            },
+            {
+              "enabled": true,
+              "mlt_service": "volume",
+              "name": "fade_out_audio",
+              "params": {
+                "duration": 0.3
+              }
+            }
+          ],
+          "in": 0.0,
+          "out": 1.2,
+          "position": 12.0
+        }
+      ],
+      "hide": false,
+      "id": 13,
+      "locked": false,
+      "mute": false,
+      "name": "Magie et logo 2",
+      "type": "audio"
+    }
+  ],
+  "transitions": [],
+  "version": "1.0"
+}

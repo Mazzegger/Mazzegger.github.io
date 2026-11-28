@@ -1,0 +1,12 @@
+UCS v8.2.1 — FOOTSTEPS  (PAS)   CatShort : FEET
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. FEETAnml_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+FEETAnml   | ANIMAL                | ANIMAL                | Individual animal footsteps, dog, elephant. Group animals like a herd or stampede to MOVEMENT-ANIMALS. See also FOOTSTEPS-HORSE,
+FEETCrea   | CREATURE              | CRÉATURE              | Monster feet, Put dinosaur feet in here too, but also for small fantasy creatures.
+FEETHors   | HORSE                 | CHEVAL                | All manner of horse feet, from single to running.
+FEETHmn    | HUMAN                 | HUMAIN                | Human feet, any surface, barefoot, shoes, it all goes here.
+FEETMisc   | MISC                  | DIVERS                | Footstep sounds not fitting another category in this list.

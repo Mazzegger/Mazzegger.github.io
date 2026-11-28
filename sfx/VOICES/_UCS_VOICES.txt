@@ -1,0 +1,23 @@
+UCS v8.2.1 — VOICES  (VOIX)   CatShort : VOX
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. VOXAlien_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+VOXAlien   | ALIEN                 | ALIEN                 | Weird alien vocals here.
+VOXBaby    | BABY                  | BÉBÉ                  | Very young babies through toddler, non-word vocals, cut vocals.
+VOXCheer   | CHEER                 | ACCLAMATION           | A single person cheering. For a group use CROWDS-CHEERING.
+VOXChld    | CHILD                 | ENFANT                | Various vocals for a child or a teenager. For non-discernible vocals for a very young child use VOICES-BABY.
+VOXCry     | CRYING                | PLEURS                | A single person crying.
+VOXEfrt    | EFFORTS               | EFFORT                | A single fight and vocal efforts, single grunts, and things like that. Boxing match vocals, tennis grunts.
+VOXFem     | FEMALE                | FEMME                 | Any generic female vocal or dialog or misc vocal that doesn't fit somewhere else.
+VOXFutz    | FUTZED                | HAUT-PARLEUR          | P.A. Speakers, Airport announcements, Hospital announcements.
+VOXHist    | HISTORICAL            | HISTORIQUE            | For storing famous speeches, famous news broadcasts, presidential speeches.
+VOXLaff    | LAUGH                 | RIRE                  | A single person laughing.
+VOXMale    | MALE                  | HOMME                 | Any generic male vocal or dialog or misc vocal that doesn't fit somewhere else.
+VOXMisc    | MISC                  | DIVERS                | The Voice category is for single voices. Groups of people go into the CROWDS categories.
+VOXReac    | REACTION              | RÉACTION              | A single Ooo or Aah and things of that nature.
+VOXScrm    | SCREAM                | CRIS                  | A single scream or yell, battle cry, agonizing death.
+VOXSing    | SINGING               | CHANT                 | A single voice singing, a child singing. For a crowd, use CROWDS-SINGING
+VOXWhsp    | WHISPER               | MURMURE               | A single whispering voice. The crowd equivalent would be CROWDS-QUIET.

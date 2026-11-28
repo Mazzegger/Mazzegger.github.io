@@ -1,0 +1,27 @@
+UCS v8.2.1 — DESIGNED  (DESIGN)   CatShort : DSGN
+Sons dans ce dossier : 84
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. DSGNBass_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+DSGNBass   | BASS DIVE             | BASS DIVE             | Deep descending bass notes. Bass Drops.
+DSGNBoom   | BOOM                  | BOOM                  | Deep short and tight, low end stingers, big trailer deep hits. LFE type low end sweeteners.
+DSGNBram   | BRAAM                 | BRAAM                 | Long deep horn like sounds. Like a War of the World's type long sound, or like a long french horn braam type sound.
+DSGNDist   | DISTORTION            | DISTORSION            | Particulary distored designed sounds and distortion elements.
+DSGNDron   | DRONE                 | DRONE                 | Designed drones, eerie tense drones, long stylized sounds with not much activity or movement.
+DSGNErie   | EERIE                 | INQUIÉTANT            | Often designed, but tense strange undefined sounds that are eerie, tense, suspenseful. Some overlap with DESIGNED-DRONE possible.
+DSGNEthr   | ETHEREAL              | ÉTHÉRÉ                | Ethereal wispy designed sounds. Ghostlike whispers, or heavenly tones. Otherworldly. See also DESIGNED-EERIE.
+DSGNGran   | GRANULAR              | GRANULAIRE            | Granular synthesis, sounds that have a gritty textural type sound, think PaulStretch, sounds broken down into tiny slices and recompiled.
+DSGNImpt   | IMPACT                | IMPACT                | Designed huge impacts, collisions, stylized big hits. Possible overlap with DESIGNED-STINGER.
+DSGNMisc   | MISC                  | DIVERS                | Designed sounds not fitting another category in this list.
+DSGNMorph  | MORPH                 | TRANSFORMATION        | A stylized blending of elements, something transitioning into another thing.
+DSGNRise   | RISER                 | RISER                 | Tension risers, things rising in tone, something similar to a rising string line to create tension.
+DSGNRmbl   | RUMBLE                | RUMBLE                | Designed rumbles for layering into a mix. Earthquake rumbles. Composite rumble.
+DSGNRythm  | RHYTHMIC              | RYTHMIQUE             | Stattaco or glitchy machine type loops, things with definied starts, stops, rhythmic stutters.
+DSGNSrce   | SOURCE                | SOURCE                | For recordings meant to be used as source for other designed sounds, experimental recordings, elements, etc.
+DSGNStngr  | STINGER               | STINGER               | Stings, stylized screen sweeteners. Big trailer type sounds. Big shock scare type sounds. Stylized stings, hits and impacts. Overlap with DESIGNED-IMPACT.
+DSGNSynth  | SYNTHETIC             | SYNTHÉTIQUE           | Very synthesized sounds, very electronic synth stuff. Raw work files of synth-play.
+DSGNTonl   | TONAL                 | TONAL                 | Designed sounds with a particularly tonal nature. The ringing in your ear of tinnitus for example.
+DSGNVocl   | VOCAL                 | VOIX                  | Design specifically around vocals, ghostly whispers, enchanted spells, reversed talking etc. Not for Creatures.
+DSGNWhsh   | WHOOSH                | WHOOSH                | Stylized designed big whooshes, definite possible overlap confusion with SHOOSHES-WHOOSH, but this for less natural and more stylized versions.

@@ -1,0 +1,23 @@
+UCS v8.2.1 — CROWDS  (FOULES)   CatShort : CRWD
+Sons dans ce dossier : 0
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. CRWDAngr_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+CRWDAngr   | ANGRY                 | EN COLÈRE             | Crowds of upset or angry people, as in a riot, protest, a schoolyard fight. See also AMBIENCE-PROTEST.
+CRWDApls   | APPLAUSE              | APPLAUDISSEMENT       | Crowds where the applause is predominantly featured. Use CROWDS-CHEERING for recordings that are mainly vocals.
+CRWDBatl   | BATTLE                | BATAILLE              | Crowds in battle, fighting, yelling screaming, dying. If including gunfire, explosions. use AMBIENCE-WARFARE.
+CRWDCele   | CELEBRATION           | FÊTE                  | Crowds celebrating holidays, parties, rowdy crowds. If not clean, use AMBIENCE-CELEBRATION.
+CRWDCheer  | CHEERING              | ACCLAMATION           | Could include applause, but cheering crowds where the crowd vocals are predominant. Overlap with CROWDS-CELEBRATION.
+CRWDChld   | CHILDREN              | ENFANTS               | Relatively clean vocals of children together, playing in a playground, in a school classroom, recess, school hallway. See also AMBIENCE-SCHOOL.
+CRWDConv   | CONVERSATION          | CONVERSATION          | A small enough group chat that you can discern words, smaller and less active than a walla. A chatter.
+CRWDLaff   | LAUGHTER              | RIRE                  | Crowds laughing, a comedy show, canned television laughter, groups of kids laughing, at a party for example.
+CRWDLoop   | LOOP GROUP            | AMBIANCE POST-SYNCHRO | For loop group type walla, usually performed for or to picture, specific environments, specific callouts. See also ARCHIVED-LOOP GROUP for official loop group recordings.
+CRWDMisc   | MISC                  | DIVERS                | Crowd sounds not fitting another category in this list. See also MOVEMENT-CROWD.
+CRWDPanic  | PANIC                 | PANIQUE               | Distressed crowds, mixed screams and crying and reactions… crowds in a natural disaster or crowds in a giant monster attack...
+CRWDQuiet  | QUIET                 | CALME                 | Very quiet crowds, mostly mumbling or murmuring. Like crowds whispering in church or a courtroom scene. See also VOICES-WHISPER for single person recordings.
+CRWDReac   | REACTION              | RÉACTION              | Big Ooos, and Aaahs and Booos, big group responses to events happening. Shocked reactions.
+CRWDSing   | SINGING               | CHANT                 | Singing during sporting events, New Year's Eve crowds singing Auld Lang Syne, Christmas carols. Not large choral music, which would go in MUSICAL category.
+CRWDSprt   | SPORT                 | SPORT                 | Clean crowds at sporting events, Baseball, football. For mixed ambience used AMBIENCE-SPORT. A sports chant.
+CRWDWalla  | WALLA                 | WALLA                 | Specifically very clean crowd walla, with non-discernible words. See also various AMBIENCE categories.

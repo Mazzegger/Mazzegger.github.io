@@ -1,0 +1,14 @@
+UCS v8.2.1 — PAPER  (PAPIER)   CatShort : PAPR
+Sons dans ce dossier : 3
+
+Nommer chaque fichier : CatID_Nom court_CreatorID_SourceID.wav  (ex. PAPRFltr_Mon Son_MonNom_MaLib.wav)
+
+Sous-catégories (CatID | anglais | français | définition officielle) :
+
+PAPRFltr   | FLUTTER               | VOL                   | Paper and Cardboard. Tossing a group of pages or a book in the air, money flutters as it falls to the ground. Confetti.
+PAPRFric   | FRICTION              | FRICTION              | Paper and Cardboard. Sliding paper or scraping paper.
+PAPRHndl   | HANDLE                | MANIPULATION          | Paper and Cardboard. Page turns, magazine handling. Books dropping. Handling paper money. Some overlap or confusion with OBJECTS-BOOK.
+PAPRImpt   | IMPACT                | IMPACT                | Paper and Cardboard. Heavy paper hits, a rolled up newspaper thwack, a magazine hitting something.
+PAPRMisc   | MISC                  | DIVERS                | Paper and Cardboard. Paper sounds not fitting another category in this list.
+PAPRRip    | RIP                   | DÉCHIREMENT           | Paper and Cardboard. Ripping paper, paper tears.
+PAPRTonl   | TONAL                 | TONAL                 | Paper and Cardboard. Not very common, but tonal paper sounds.
